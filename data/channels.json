@@ -5411,11 +5411,11 @@
     "url": "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8"
   },
   {
-    "name": "ANTV (576i)",
+    "name": " like Gecko) Chrome/65.0.3325.181 Safari/537.36\" group-title=\"General\",ANTV (720p)",
     "tvg_id": "ANTV.id@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
     "category": "General",
-    "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8"
+    "url": "http://103.58.160.157:8278/720-ANTV/playlist.m3u8"
   },
   {
     "name": "Anwar TV2 (720p)",
@@ -28840,6 +28840,13 @@
     "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd"
   },
   {
+    "name": "HITS (720p)",
+    "tvg_id": "HITS.sg@SD",
+    "logo": "https://i.imgur.com/IM8Gy1l.png",
+    "category": "Entertainment",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd"
+  },
+  {
     "name": "Hits 360 TV (720p) [Not 24/7]",
     "tvg_id": "Hits360TV.do@SD",
     "logo": "https://i.imgur.com/Cx5V233.jpg",
@@ -28852,6 +28859,13 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8?ads.vf=vc24NGfvvqe"
+  },
+  {
+    "name": " like Gecko) Chrome/109.0.0.0 Safari/537.36\" group-title=\"Movies\",HITS Movies HD (720p)",
+    "tvg_id": "HITSMovies.sg@HD",
+    "logo": "https://i.imgur.com/kyE3vXf.png",
+    "category": "Movies",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd"
   },
   {
     "name": "Hitz TV (1080p)",
@@ -63271,13 +63285,6 @@
     "logo": "https://i.imgur.com/6NUpxhr.png",
     "category": "Entertainment",
     "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
-  },
-  {
-    "name": "Star Jalsha HD (1080p)",
-    "tvg_id": "StarJalsha.in@HD",
-    "logo": "https://i.imgur.com/IlufzR5.png",
-    "category": "Entertainment",
-    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8"
   },
   {
     "name": "Star Kentrikis Elladas (720p) [Not 24/7]",
