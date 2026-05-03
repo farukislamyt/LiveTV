@@ -3066,6 +3066,13 @@
     "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8"
   },
   {
+    "name": "AL24 News",
+    "tvg_id": "AL24News.dz@SD",
+    "logo": "https://i.imgur.com/vyVEXYL.png",
+    "category": "News",
+    "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8"
+  },
+  {
     "name": "Al Alam (360p)",
     "tvg_id": "AlAlam.ir@SD",
     "logo": "https://i.imgur.com/Zdi31dy.png",
@@ -3521,6 +3528,13 @@
     "url": "https://live.al-zahratv.com/live/playlist.m3u8"
   },
   {
+    "name": "Alabbassia TV (1080p)",
+    "tvg_id": "AlabbassiaTV.iq@HD",
+    "logo": "https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png",
+    "category": "Religious",
+    "url": "srt://stream.alabbassia.com:8890?mode=caller&latency=200&streamid=read:live/alabbassia"
+  },
+  {
     "name": "Alacantí TV (576p) [Not 24/7]",
     "tvg_id": "AlacantiTV.es@SD",
     "logo": "https://i.imgur.com/pcWU6e1.png",
@@ -3694,13 +3708,6 @@
     "logo": "https://i.imgur.com/4BSKCQT.png",
     "category": "General",
     "url": "https://srv.panelcast.net/dorian/dorian/playlist.m3u8"
-  },
-  {
-    "name": "Alfa Dramas (226p) [Not 24/7]",
-    "tvg_id": "AlfaDramas.gr@SD",
-    "logo": "https://i.imgur.com/wnVEvRM.png",
-    "category": "Movies",
-    "url": "https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8"
   },
   {
     "name": "Alfa Omega TV (1080p) [Not 24/7]",
@@ -5191,7 +5198,7 @@
     "tvg_id": "ANT1.gr@SD",
     "logo": "https://i.imgur.com/ItxKvVS.png",
     "category": "Entertainment",
-    "url": "http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8"
+    "url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8"
   },
   {
     "name": "ANT1 Cyprus (1080p)",
@@ -5199,13 +5206,6 @@
     "logo": "https://i.imgur.com/2KAObBt.png",
     "category": "Entertainment",
     "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8"
-  },
-  {
-    "name": "ANT1 HD (1080p)",
-    "tvg_id": "ANT1.gr@HD",
-    "logo": "https://i.imgur.com/ItxKvVS.png",
-    "category": "Entertainment",
-    "url": "http://31.121.110.30:4000/play/a028/index.m3u8"
   },
   {
     "name": "Antares Televisión (720p) [Not 24/7]",
@@ -6146,11 +6146,11 @@
     "url": "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
   },
   {
-    "name": "Astra TV (480p) [Not 24/7]",
+    "name": "Astra TV (1080p)",
     "tvg_id": "AstraTV.gr@SD",
     "logo": "https://i.imgur.com/oYRPfZm.png",
     "category": "News",
-    "url": "https://ssh101.bozztv.com/ssh101/astratv/playlist.m3u8"
+    "url": "https://server.gointernet.gr/live/livestream.m3u8"
   },
   {
     "name": "Astro Blitar TV (720p)",
@@ -11018,11 +11018,11 @@
     "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8"
   },
   {
-    "name": "C9N",
+    "name": "C9N (1080p)",
     "tvg_id": "C9N.py@SD",
     "logo": "https://i.imgur.com/iXkwP31.png",
     "category": "News",
-    "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8"
+    "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8"
   },
   {
     "name": "C31 Melbourne (240p)",
@@ -18249,6 +18249,13 @@
     "url": "https://jmp2.uk/plu-65788670b9adc40008025500.m3u8"
   },
   {
+    "name": "Dance Television (1080p)",
+    "tvg_id": "DanceTelevision.nl@SD",
+    "logo": "https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg",
+    "category": "Music",
+    "url": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
+  },
+  {
     "name": " like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Music\",Dance TV [Geo-blocked]",
     "tvg_id": "DanceTV.ar@SD",
     "logo": "https://i.imgur.com/UKMR625.png",
@@ -18970,20 +18977,6 @@
     "url": "https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8"
   },
   {
-    "name": "Def Jam (720p)",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://d1t9jj3kgy7bur.cloudfront.net/gigs.m3u8"
-  },
-  {
-    "name": "Def Jam (720p)",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://aegis-cloudfront-1.tubi.video/ff2a53ec-9887-4aa3-a9e4-38746eba97de/index.m3u8"
-  },
-  {
     "name": "DEFA TV (720p)",
     "tvg_id": "",
     "logo": "",
@@ -19523,11 +19516,11 @@
     "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8"
   },
   {
-    "name": "Diavata TV (720p)",
+    "name": "Diavata TV (480p)",
     "tvg_id": "DiavataTV.gr@SD",
     "logo": "https://i.imgur.com/hsK68yd.png",
     "category": "Undefined",
-    "url": "https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8"
+    "url": "https://183.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8"
   },
   {
     "name": "Didgah TV (576p)",
@@ -20699,6 +20692,13 @@
     "url": "https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8"
   },
   {
+    "name": "DSports Uruguay",
+    "tvg_id": "DSportsUruguay.uy@SD",
+    "logo": "https://i.imgur.com/2PoEm1x.png",
+    "category": "Sports",
+    "url": "https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8"
+  },
+  {
     "name": "DSTV (614p) [Not 24/7]",
     "tvg_id": "DSTV.bg@SD",
     "logo": "https://i.imgur.com/YMgzzkf.png",
@@ -21847,6 +21847,13 @@
     "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8"
   },
   {
+    "name": "El Watania 1 (1080i)",
+    "tvg_id": "ElWatania1.tn@SD",
+    "logo": "https://i.imgur.com/gNr2V14.png",
+    "category": "General",
+    "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8"
+  },
+  {
     "name": "El-Roi TV (720p)",
     "tvg_id": "ElRoiTV.gt@SD",
     "logo": "https://i.imgur.com/h8S0eA4.png",
@@ -21964,6 +21971,13 @@
     "logo": "https://i.imgur.com/yhMhvPq.png",
     "category": "General",
     "url": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8"
+  },
+  {
+    "name": "Elwatania TV (1080i)",
+    "tvg_id": "ElwataniaTV.dz@SD",
+    "logo": "https://i.imgur.com/NKR8WFq.png",
+    "category": "General",
+    "url": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8"
   },
   {
     "name": "ElyTV (360p)",
@@ -22309,11 +22323,11 @@
     "url": "https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8"
   },
   {
-    "name": "Epirus TV1 (1080p)",
+    "name": "Epirus TV1 (720p)",
     "tvg_id": "EpirusTV1.gr@SD",
     "logo": "https://i.imgur.com/nYVqhu8.png",
     "category": "General",
-    "url": "https://til.pp.ua:3928/live/epiruslive.m3u8"
+    "url": "https://rtmp.win:3929/live/epiruslive.m3u8"
   },
   {
     "name": "EPlanet TV",
@@ -24794,11 +24808,11 @@
     "url": "https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8"
   },
   {
-    "name": "FORMedia TV (1080p)",
+    "name": "FORMedia TV (720p)",
     "tvg_id": "FORMediaTV.gr@SD",
     "logo": "https://i.imgur.com/8FcJ2I9.png",
     "category": "News",
-    "url": "https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8"
+    "url": "https://mercury.32bit.gr:19360/formediatv/720p.m3u8"
   },
   {
     "name": "Formula (1080p)",
@@ -24962,6 +24976,13 @@
     "url": "https://tvpass.org/live/FoxBusiness/hd"
   },
   {
+    "name": "Fox Deportes (1280p)",
+    "tvg_id": "FoxDeportes.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+    "category": "Sports",
+    "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+  },
+  {
     "name": "FOX LOCAL Seattle",
     "tvg_id": "",
     "logo": "",
@@ -25025,6 +25046,13 @@
     "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8"
   },
   {
+    "name": "Fox Sports 1 (1280p)",
+    "tvg_id": "FoxSports1.us@HD",
+    "logo": "https://i.imgur.com/O9BapV9.png",
+    "category": "Sports",
+    "url": "https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8"
+  },
+  {
     "name": "Fox Sports 2 (720p) [Not 24/7]",
     "tvg_id": "FoxSports2.us@HD",
     "logo": "https://i.imgur.com/LHtxKI8.png",
@@ -25037,13 +25065,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png",
     "category": "Sports",
     "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8"
-  },
-  {
-    "name": "Fox Sports en Espanol (720p)",
-    "tvg_id": "FoxDeportes.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
-    "category": "Sports",
-    "url": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
   },
   {
     "name": "Fox Weather (1080p)",
@@ -39606,11 +39627,11 @@
     "url": "https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8"
   },
   {
-    "name": "Mesogeios TV (404p)",
+    "name": "Mesogeios TV (720p)",
     "tvg_id": "MesogeiosTV.gr@SD",
     "logo": "https://i.imgur.com/KX5olay.png",
     "category": "General",
-    "url": "https://til.pp.ua:3872/live/mesogeiostvlive.m3u8"
+    "url": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8"
   },
   {
     "name": "Messatida TV (450p) [Not 24/7]",
@@ -43901,7 +43922,7 @@
     "tvg_id": "NetmaxTV.gr@SD",
     "logo": "https://i.imgur.com/dLvRD4k.png",
     "category": "Entertainment",
-    "url": "https://live.netmaxtv.com:1936/live/live/chunklist_w1671867540.m3u8"
+    "url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8"
   },
   {
     "name": "NETV Toronto (720p)",
@@ -45400,6 +45421,13 @@
     "logo": "",
     "category": "Religious",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8"
+  },
+  {
+    "name": "Now 14 (1080p)",
+    "tvg_id": "Now14.il@SD",
+    "logo": "https://i.imgur.com/Iq2Kb69.png",
+    "category": "General",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
   },
   {
     "name": "NOW 70's (720p)",
@@ -47768,11 +47796,11 @@
     "url": "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8"
   },
   {
-    "name": "Paraguay TV",
+    "name": "Paraguay TV (1080p)",
     "tvg_id": "ParaguayTV.py@SD",
     "logo": "https://i.imgur.com/fkK7i8g.png",
     "category": "General",
-    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8"
+    "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
   },
   {
     "name": "Paraíso TV (720p)",
@@ -54474,6 +54502,13 @@
     "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8"
   },
   {
+    "name": "Radio Nacional del Paraguay",
+    "tvg_id": "RadioNacionaldelParaguay.py@SD",
+    "logo": "https://i.imgur.com/ksh20I5.png",
+    "category": "General",
+    "url": "https://stream.paraguaytv.gov.py/memfs/ea8a90e9-10f7-4b00-8e88-42f4a838d74b.m3u8"
+  },
+  {
     "name": "Radio Norba TV (1080p)",
     "tvg_id": "RadioNorbaTV.it@SD",
     "logo": "https://i.imgur.com/Tucoyzy.png",
@@ -56315,6 +56350,13 @@
     "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8"
   },
   {
+    "name": "Rede Globo (1080p)",
+    "tvg_id": "RedeGlobo.br@SD",
+    "logo": "https://i.imgur.com/O02TF2r.png",
+    "category": "Undefined",
+    "url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
+  },
+  {
     "name": "Rede Gospel (1080p)",
     "tvg_id": "RedeGospel.br@SD",
     "logo": "https://i.imgur.com/mttSwgO.png",
@@ -56385,11 +56427,11 @@
     "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
   },
   {
-    "name": "RedMusic (720p)",
+    "name": "RedMusic (1080p)",
     "tvg_id": "RedMusic.gr@SD",
     "logo": "https://i.ibb.co/1Lk8P1x/1-150x150.png",
     "category": "Music",
-    "url": "https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8"
+    "url": "https://fr.crystalweb.net:1936/redmusic/redmusic/playlist.m3u8"
   },
   {
     "name": "Redseat The First (720p)",
@@ -56810,13 +56852,6 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8"
-  },
-  {
-    "name": "Revolt (1080p)",
-    "tvg_id": "Revolt.us@SD",
-    "logo": "https://i.imgur.com/eaYnGpH.png",
-    "category": "Undefined",
-    "url": "https://aegis-cloudfront-1.tubi.video/77b454c9-7bf0-404d-9d26-77cc9d4936ea/playlist.m3u8"
   },
   {
     "name": "Revry (720p)",
@@ -57720,6 +57755,13 @@
     "logo": "https://i.imgur.com/oBz3CgE.png",
     "category": "News",
     "url": "https://cdn-ssai.smartbit.co/rpp/index.m3u8"
+  },
+  {
+    "name": "RQP Paraguay (1080i)",
+    "tvg_id": "RQPParaguay.py@SD",
+    "logo": "https://i.imgur.com/0cUc4Nt.png",
+    "category": "Music",
+    "url": "https://alba-py-rqp-rqp.stream.mediatiquestream.com/index.m3u8"
   },
   {
     "name": "RRI Net (1080p)",
@@ -63231,11 +63273,11 @@
     "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8"
   },
   {
-    "name": "Star Kentrikis Elladas (720p) [Not 24/7]",
+    "name": "Star Kentrikis Elladas (1080p)",
     "tvg_id": "StarKentrikisElladas.gr@SD",
     "logo": "https://i.imgur.com/ZBt6beo.png",
     "category": "General;News",
-    "url": "https://stream.castr.com/651d8d36a57bf232bc830464/live_01fd9e80636111eebd0da35d4eac7f71/index.m3u8"
+    "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8"
   },
   {
     "name": "Star Maa Gold (576p)",
@@ -69892,7 +69934,7 @@
     "tvg_id": "TopChannel.gr@SD",
     "logo": "https://i.imgur.com/SfV2gJg.png",
     "category": "General",
-    "url": "http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8"
+    "url": "https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8"
   },
   {
     "name": "Top Chef (720p)",
@@ -70252,7 +70294,7 @@
     "url": "https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8"
   },
   {
-    "name": "Totalmusic (720p)",
+    "name": "Totalmusic (1080p)",
     "tvg_id": "Totalmusic.uk@HD",
     "logo": "https://static.elektamedia.com/ch/tmc_main.png",
     "category": "Music",
@@ -76783,11 +76825,11 @@
     "url": "http://103.250.28.74:8000/play/a04x/index.m3u8"
   },
   {
-    "name": "Venus Media (1280p) [Not 24/7]",
+    "name": "Venus Media (1080p)",
     "tvg_id": "VenusMedia.py@SD",
     "logo": "https://i.imgur.com/XwmUbfp.png",
     "category": "Music",
-    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8"
+    "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
   },
   {
     "name": "Vepaco TV (480p)",
@@ -76809,6 +76851,13 @@
     "logo": "https://i.imgur.com/YEKEaB4.png",
     "category": "Undefined",
     "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8"
+  },
+  {
+    "name": "Vergina TV (1080p)",
+    "tvg_id": "VerginaTV.gr@SD",
+    "logo": "https://i.imgur.com/abQmFoH.png",
+    "category": "Entertainment;News",
+    "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8"
   },
   {
     "name": "VerTV (VTV) (720p) [Not 24/7]",
@@ -79875,6 +79924,13 @@
     "logo": "https://i.imgur.com/fRjmk5r.png",
     "category": "Undefined",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+  },
+  {
+    "name": "Wu Tang Collection (720p)",
+    "tvg_id": "WuTangCollection.us@SD",
+    "logo": "https://i.imgur.com/sz55sBl.png",
+    "category": "Movies",
+    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745"
   },
   {
     "name": "WUPA-DT1",
