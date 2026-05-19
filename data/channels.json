@@ -7284,7 +7284,7 @@
     "tvg_id": "BabAlHara.sa@SD",
     "logo": "https://i.imgur.com/QtlnZbq.png",
     "category": "Series",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8"
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8"
   },
   {
     "name": "Bábolnai TV (360p)",
@@ -7341,6 +7341,13 @@
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8"
+  },
+  {
+    "name": "BabyTV Spain (1080p)",
+    "tvg_id": "BabyTV.uk@Spain",
+    "logo": "https://i.imgur.com/4BDJ5FT.png",
+    "category": "Kids",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8"
   },
   {
     "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
@@ -38735,7 +38742,7 @@
     "tvg_id": "Maraya.sa@HD",
     "logo": "https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png",
     "category": "Series",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8"
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8"
   },
   {
     "name": "Marca TV (1080p)",
@@ -41738,7 +41745,7 @@
     "tvg_id": "MoviesAction.sa@SD",
     "logo": "https://i.imgur.com/NIVhISa.png",
     "category": "Movies",
-    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8"
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8"
   },
   {
     "name": "Movies for Gamers",
@@ -45092,6 +45099,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/960px-Nickelodeon_2023_logo_%28outline%29.svg.png",
     "category": "Animation;Kids",
     "url": "http://195.64.140.147:10121/121"
+  },
+  {
+    "name": "Nickelodeon (1080p)",
+    "tvg_id": "Nickelodeon.es@SD",
+    "logo": "https://i.imgur.com/E84jnP8.png",
+    "category": "Kids",
+    "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8"
   },
   {
     "name": "Nickelodeon (1080p)",
@@ -58224,13 +58238,6 @@
     "logo": "https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default",
     "category": "Undefined",
     "url": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8"
-  },
-  {
-    "name": "Roya TV (1080p) [Not 24/7]",
-    "tvg_id": "RoyaTV.jo@SD",
-    "logo": "https://i.imgur.com/WX80rty.png",
-    "category": "General",
-    "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8"
   },
   {
     "name": "Royal Time Television (1080p)",
