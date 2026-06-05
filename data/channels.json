@@ -4753,11 +4753,11 @@
     "url": "http://92.176.119.180:2095/play/a16j"
   },
   {
-    "name": "Antena 3 Internacional (1080p)",
+    "name": "Antena 3 Internacional",
     "tvg_id": "Antena3Internacional.es@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
     "category": "General",
-    "url": "http://187.190.55.136:5501/udp/225.1.1.101:5101"
+    "url": "http://177.10.184.193:8000/play/a06a/index.m3u8"
   },
   {
     "name": "Antena 7 (720p)",
@@ -7385,18 +7385,18 @@
     "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
   },
   {
-    "name": "BCN Gospel TV (1080p)",
-    "tvg_id": "BCNGospelTV.es@SD",
-    "logo": "https://i.imgur.com/ZKAnehs.png",
-    "category": "General",
-    "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
-  },
-  {
     "name": "BCN Gospel TV HD (720p)",
     "tvg_id": "BCNGospelTV.es@HD",
     "logo": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png",
     "category": "General",
     "url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8"
+  },
+  {
+    "name": "BCN TV",
+    "tvg_id": "BCNTV.rw@SD",
+    "logo": "https://i.imgur.com/rP46S5B.png",
+    "category": "Religious",
+    "url": "https://live.bcntv.org/live/bcn_16_9.m3u8"
   },
   {
     "name": "BCS StarCross TV (576p)",
@@ -8978,14 +8978,7 @@
     "tvg_id": "BRTVKakuChildrensChannel.cn@SD",
     "logo": "https://i.imgur.com/t8X4wPZ.png",
     "category": "Kids",
-    "url": "http://49.113.179.174:4022/udp/238.125.2.216:5140"
-  },
-  {
-    "name": "BRTV Science & Education Channel",
-    "tvg_id": "BRTVScienceEducationChannel.cn@SD",
-    "logo": "https://i.imgur.com/q0qvOUe.png",
-    "category": "Education;Science",
-    "url": "http://49.113.179.174:4022/udp/238.125.3.121:5140"
+    "url": "http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8"
   },
   {
     "name": "BRTV 北京卫视 (1080p)",
@@ -9252,13 +9245,6 @@
     "logo": "https://i.imgur.com/a9v5CbU.png",
     "category": "News",
     "url": "http://69.64.57.208/burkinainfo/index.m3u8"
-  },
-  {
-    "name": "Burriana TV (720p)",
-    "tvg_id": "BurrianaTeVe.es@SD",
-    "logo": "https://i.imgur.com/G3nIGHh.png",
-    "category": "General",
-    "url": "https://www.burrianateve.com/hls/btv.m3u8"
   },
   {
     "name": "Bursa AS TV (900p)",
@@ -9784,6 +9770,13 @@
     "logo": "https://i.imgur.com/WIrVAa2.png",
     "category": "General",
     "url": "https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8"
+  },
+  {
+    "name": "Canal 3 (720p)",
+    "tvg_id": "Canal3.gt@HD",
+    "logo": "https://i.imgur.com/yCykjIp.png",
+    "category": "General",
+    "url": "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_5900814650867226228_hls.m3u8"
   },
   {
     "name": "Canal 3 Biar (480p) [Not 24/7]",
@@ -12110,11 +12103,11 @@
     "url": "http://198.204.240.250:82/live/cctv4k.m3u8"
   },
   {
-    "name": "CCTV-5 (720p)",
+    "name": "CCTV-5 (1080p)",
     "tvg_id": "CCTV5.cn@SD",
     "logo": "https://i.imgur.com/nbmnGwE.png",
     "category": "Sports",
-    "url": "http://74.91.26.218:82/live/cctv5hd.m3u8"
+    "url": "http://192.151.150.154/live/cctv5hd.m3u8"
   },
   {
     "name": "CCTV-5+ (720p)",
@@ -12465,13 +12458,6 @@
     "logo": "https://i.imgur.com/ZD8XPmw.png",
     "category": "Education",
     "url": "http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV"
-  },
-  {
-    "name": "CETV-4",
-    "tvg_id": "CETV4.cn@SD",
-    "logo": "https://i.imgur.com/a1N6wB7.png",
-    "category": "Documentary",
-    "url": "http://49.113.179.174:4022/udp/238.125.3.92:5140"
   },
   {
     "name": "CFM TV Channel 98 (360p)",
@@ -12934,13 +12920,6 @@
     "logo": "https://i.imgur.com/6PqxuhF.png",
     "category": "Entertainment",
     "url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8"
-  },
-  {
-    "name": "Channel Law",
-    "tvg_id": "ChannelLaw.cn@SD",
-    "logo": "https://i.imgur.com/QcO5Gxl.png",
-    "category": "Education",
-    "url": "http://49.113.179.174:4022/udp/238.125.2.201:5140"
   },
   {
     "name": "Channel One (720p)",
@@ -13515,13 +13494,6 @@
     "logo": "https://i.imgur.com/AxBreI5.png",
     "category": "General",
     "url": "http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8"
-  },
-  {
-    "name": "City Theater Channel",
-    "tvg_id": "CityTheaterChannel.cn@SD",
-    "logo": "https://i.imgur.com/QgOIsjO.png",
-    "category": "Entertainment",
-    "url": "http://49.113.179.174:4022/udp/238.125.1.60:5140"
   },
   {
     "name": "City TV (576p) [Not 24/7]",
@@ -18053,13 +18025,6 @@
     "url": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8"
   },
   {
-    "name": "Ecology & Environment TV",
-    "tvg_id": "EcologyEnvironmentTV.cn@SD",
-    "logo": "https://i.imgur.com/se7H6Yv.png",
-    "category": "Education;Science",
-    "url": "http://49.113.179.174:4022/udp/238.125.2.175:5140"
-  },
-  {
     "name": "Ecos Canal 57 (1080p) [Not 24/7]",
     "tvg_id": "EcosCanal57.do@HD",
     "logo": "https://imgur.com/ccFwraQ.png",
@@ -21432,13 +21397,6 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://d32bh11mbsmi60.cloudfront.net/Game_Fish_TV.m3u8"
-  },
-  {
-    "name": "Game Channel",
-    "tvg_id": "GameChannel.cn@SD",
-    "logo": "https://i.imgur.com/UMdwCum.png",
-    "category": "Sports",
-    "url": "http://49.113.179.174:4022/udp/238.125.1.36:5140"
   },
   {
     "name": "Game Show Central (720p)",
@@ -24815,13 +24773,6 @@
     "url": "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"
   },
   {
-    "name": "Hunan Ping Yu",
-    "tvg_id": "HunanPingYu.cn@SD",
-    "logo": "https://i.imgur.com/h8MPvFy.png",
-    "category": "Undefined",
-    "url": "http://49.113.179.174:4022/udp/238.125.5.102:5140"
-  },
-  {
     "name": "Hunan TV (2160p)",
     "tvg_id": "HunanTV.cn@SD",
     "logo": "https://parco-zh.github.io/demo/HNWS.png",
@@ -26908,13 +26859,6 @@
     "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8"
   },
   {
-    "name": "JiaJia Cartoon",
-    "tvg_id": "JiaJiaCartoon.cn@SD",
-    "logo": "https://i.imgur.com/0TLG3Xk.png",
-    "category": "Kids",
-    "url": "http://49.113.179.174:4022/udp/238.125.0.158:5140"
-  },
-  {
     "name": "Jiangxi Children's Channel",
     "tvg_id": "JiangxiChildrensChannel.cn@SD",
     "logo": "https://www.tvchinese.net/uploads/tv/jxtv6.jpg",
@@ -27312,6 +27256,13 @@
     "logo": "https://i.imgur.com/mIDWIQk.png",
     "category": "General",
     "url": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8"
+  },
+  {
+    "name": "JTV Madura (480p) [Not 24/7]",
+    "tvg_id": "JTV.id@Madura",
+    "logo": "https://i.imgur.com/mIDWIQk.png",
+    "category": "General",
+    "url": "http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8"
   },
   {
     "name": "JTV Malang",
@@ -29876,13 +29827,6 @@
     "url": "https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8"
   },
   {
-    "name": "Laughter Theater",
-    "tvg_id": "LaughterTheater.cn@SD",
-    "logo": "https://i.imgur.com/CrFesS6.png",
-    "category": "Comedy",
-    "url": "http://49.113.179.174:4022/udp/238.125.2.159:5140"
-  },
-  {
     "name": "Laura Dave Media TV (720p)",
     "tvg_id": "LauraDaveMediaTV.cm@SD",
     "logo": "https://i.imgur.com/zzG1S2n.png",
@@ -31120,6 +31064,20 @@
     "logo": "https://i.imgur.com/KBYUOcP.png",
     "category": "General",
     "url": "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
+  },
+  {
+    "name": "LTV1 (720p)",
+    "tvg_id": "LTV1.lv@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/960px-LTV1_%282022%29.svg.png",
+    "category": "General",
+    "url": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8"
+  },
+  {
+    "name": "LTV7 (720p)",
+    "tvg_id": "LTV7.lv@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png",
+    "category": "Entertainment",
+    "url": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8"
   },
   {
     "name": "Lucky Dog (720p)",
@@ -48412,13 +48370,6 @@
     "url": "https://live.seminolecountyfl.gov/live-2/live/stream-1/live.m3u8"
   },
   {
-    "name": "Shaanxi Agroforestry Satellite TV",
-    "tvg_id": "ShaanxiAgroforestrySatelliteTV.cn@SD",
-    "logo": "https://i.imgur.com/j4yT8ff.png",
-    "category": "Undefined",
-    "url": "http://49.113.179.174:4022/udp/238.125.4.154:5140"
-  },
-  {
     "name": "Shabab FM (720p) [Not 24/7]",
     "tvg_id": "ShababFM.ps@SD",
     "logo": "https://i.imgur.com/4Cyz4Bn.png",
@@ -48536,13 +48487,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/Shamshad_tv_logo.jpg",
     "category": "Entertainment",
     "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
-  },
-  {
-    "name": "Shandong Education TV",
-    "tvg_id": "ShandongEducationTV.cn@SD",
-    "logo": "https://i.imgur.com/yb10kF0.png",
-    "category": "Education",
-    "url": "http://49.113.179.174:4022/udp/238.125.0.156:5140"
   },
   {
     "name": "Shanghai Education Television Station",
@@ -48837,13 +48781,6 @@
     "logo": "https://i.imgur.com/DXKx102.png",
     "category": "Undefined",
     "url": "https://sl2.sigmatv.com/hls/live.m3u8"
-  },
-  {
-    "name": "Sihai Fishing Channel",
-    "tvg_id": "SihaiFishingChannel.cn@SD",
-    "logo": "https://i.imgur.com/BCJes2k.png",
-    "category": "Outdoor",
-    "url": "http://49.113.179.174:4022/udp/238.125.2.172:5140"
   },
   {
     "name": "Sikh Spiritual Centre Rexdale (720p)",
@@ -49376,13 +49313,6 @@
     "logo": "https://i.imgur.com/Yg6ZWKu.png",
     "category": "General",
     "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8"
-  },
-  {
-    "name": "SMG Football Channel",
-    "tvg_id": "SMGFootballChannel.cn@SD",
-    "logo": "https://i.imgur.com/BaBr5fM.png",
-    "category": "Sports",
-    "url": "http://49.113.179.174:4022/udp/238.125.2.142:5140"
   },
   {
     "name": "Smosh (1080p)",
@@ -53340,13 +53270,6 @@
     "url": "http://92.176.119.180:2095/play/a16t"
   },
   {
-    "name": "Telefe Internacional (1080p)",
-    "tvg_id": "TelefeInternacional.ar@SD",
-    "logo": "https://i.imgur.com/HNcCX3h.png",
-    "category": "Undefined",
-    "url": "http://187.190.55.136:5501/udp/225.1.1.240:5240"
-  },
-  {
     "name": "Telefe Rosario [Geo-blocked]",
     "tvg_id": "TelefeRosario.ar@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/960px-Telefe_Rosario_%282018%29.png",
@@ -55865,13 +55788,6 @@
     "logo": "https://i.imgur.com/JMnxswq.png",
     "category": "Kids",
     "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8"
-  },
-  {
-    "name": "Toonmax TV",
-    "tvg_id": "ToonmaxTV.cn@SD",
-    "logo": "https://i.imgur.com/Uhwv1il.png",
-    "category": "Kids",
-    "url": "http://49.113.179.174:4022/udp/238.125.4.28:5140"
   },
   {
     "name": " like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Undefined\",ToonOvation (1080p)",
@@ -60074,6 +59990,13 @@
     "url": "https://tvpi.travny.workers.dev/tvpdokument.m3u"
   },
   {
+    "name": "TVP Historia (1080p)",
+    "tvg_id": "TVPHistoria.pl@SD",
+    "logo": "https://i.imgur.com/Bc4QZiy.png",
+    "category": "Undefined",
+    "url": "https://tvpi.travny.workers.dev/tvphistoria.m3u"
+  },
+  {
     "name": "TVP Info (1080p)",
     "tvg_id": "TVPInfo.pl@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png",
@@ -61122,13 +61045,6 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8"
-  },
-  {
-    "name": "Ugo Shop TV",
-    "tvg_id": "UgoShopTV.cn@SD",
-    "logo": "https://www.tvchinese.net/uploads/tv/yougouwu.jpg",
-    "category": "Shop",
-    "url": "http://49.113.179.174:4022/udp/238.125.4.184:5140"
   },
   {
     "name": "UGTV (720p)",
@@ -64538,13 +64454,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg",
     "category": "Education",
     "url": "https://world.lls.pbs.org/index.m3u8"
-  },
-  {
-    "name": "World Economy Channel",
-    "tvg_id": "WorldEconomyChannel.cn@SD",
-    "logo": "https://i.imgur.com/3lSAWHg.png",
-    "category": "Business",
-    "url": "http://49.113.179.174:4022/udp/238.125.2.205:5140"
   },
   {
     "name": "World Harvest TV (360p)",
