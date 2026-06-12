@@ -74,7 +74,7 @@
     "tvg_id": "2MMonde.ma@HD",
     "logo": "https://i.imgur.com/MvpntzA.png",
     "category": "General",
-    "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8"
+    "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8"
   },
   {
     "name": "2M Monde (360p)",
@@ -109,7 +109,7 @@
     "tvg_id": "2x2.ru@SD",
     "logo": "https://i.imgur.com/fhQFLEl.png",
     "category": "Entertainment",
-    "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=tenr-yHXUv1wibfka78s2A&e=2068731801&scheme=https"
+    "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https"
   },
   {
     "name": "3ABN Canada (720p)",
@@ -319,7 +319,7 @@
     "tvg_id": "4everTheater.ua@SD",
     "logo": "https://i.imgur.com/kfngtev.png",
     "category": "Entertainment",
-    "url": "https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922996&secret=yamxdzwl&21yo=0&e=1783680395&st=OWDBi-vxSZADl0oF8lHHxw"
+    "url": "https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw"
   },
   {
     "name": "4 Fun Kids (576i) [[Not 24/7]]",
@@ -329,11 +329,11 @@
     "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8"
   },
   {
-    "name": "4 Fun TV (576i) [Not 24/7]",
+    "name": "4 Fun TV (576p) [Not 24/7]",
     "tvg_id": "4FunTV.pl@SD",
     "logo": "https://i.imgur.com/rI1wo2l.png",
     "category": "Music",
-    "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8"
+    "url": "https://srv1.adriatelekom.com/4FunTV/index.m3u8"
   },
   {
     "name": " like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Undefined\",4K TRAVEL TV (1080p)",
@@ -729,7 +729,7 @@
   },
   {
     "name": "16 Anni e Incinta",
-    "tvg_id": "16AnnieIncinta.us",
+    "tvg_id": "16AnnieIncinta.us@Italy",
     "logo": "https://i.imgur.com/Y2pEs8H.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8"
@@ -884,7 +884,7 @@
   {
     "name": "30A Golf Kingdom (720p)",
     "tvg_id": "30AGolfKingdom.us@SD",
-    "logo": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
+    "logo": "https://i.imgur.com/Lv53nh4.png",
     "category": "Sports",
     "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8"
   },
@@ -987,18 +987,18 @@
     "url": "https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8"
   },
   {
-    "name": "48 Hours",
-    "tvg_id": "48Hours.us@UK",
-    "logo": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8"
-  },
-  {
     "name": "48 Hours (1080p)",
     "tvg_id": "48Hours.us@US",
     "logo": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png",
     "category": "Series",
     "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8"
+  },
+  {
+    "name": "48 Hours GB (720p)",
+    "tvg_id": "48Hours.us@GB",
+    "logo": "https://images.pluto.tv/channels/6299e5afdd5833000727e795/colorLogoPNG.png",
+    "category": "Series",
+    "url": "https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8"
   },
   {
     "name": "50 Cent Action (720p)",
@@ -1247,10 +1247,31 @@
   },
   {
     "name": "90210",
-    "tvg_id": "90210.us",
+    "tvg_id": "90210.us@SD",
     "logo": "https://i.imgur.com/xqo5PxO.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8"
+  },
+  {
+    "name": ":Šport (1080p)",
+    "tvg_id": "Sport.sk@SD",
+    "logo": "https://i.imgur.com/oAtcxNZ.png",
+    "category": "Sports",
+    "url": "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8"
+  },
+  {
+    "name": "¡OPA! (1080i) [Geo-blocked]",
+    "tvg_id": "OPA.cr@SD",
+    "logo": "https://i.imgur.com/300c1ZH.png",
+    "category": "Entertainment",
+    "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",¡Viva Latino! (1080p)",
+    "tvg_id": "VivaLatino.ua@SD",
+    "logo": "https://i.imgur.com/KRakHAq.png",
+    "category": "Music",
+    "url": "https://iptv.prosto.tv/ch138/index.m3u8"
   },
   {
     "name": "&flix HD (1080p)",
@@ -1288,39 +1309,18 @@
     "url": "http://149.71.34.166:8000/play/a001/index.m3u8"
   },
   {
-    "name": ":24 (1080p)",
-    "tvg_id": "24.sk@SD",
-    "logo": "https://i.imgur.com/tTCuczU.png",
-    "category": "News",
-    "url": "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8"
-  },
-  {
-    "name": ":Šport (1080p)",
-    "tvg_id": "Sport.sk@SD",
-    "logo": "https://i.imgur.com/oAtcxNZ.png",
-    "category": "Sports",
-    "url": "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8"
-  },
-  {
-    "name": "¡OPA! (1080i) [Geo-blocked]",
-    "tvg_id": "OPA.cr@SD",
-    "logo": "https://i.imgur.com/300c1ZH.png",
-    "category": "Entertainment",
-    "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
-  },
-  {
-    "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",¡Viva Latino! (1080p)",
-    "tvg_id": "VivaLatino.ua@SD",
-    "logo": "https://i.imgur.com/KRakHAq.png",
-    "category": "Music",
-    "url": "https://iptv.prosto.tv/ch138/index.m3u8"
-  },
-  {
     "name": ".sci-fi (576p)",
     "tvg_id": "scifi.ru@SD",
     "logo": "https://i.imgur.com/nSSUHcg.png",
     "category": "Science",
     "url": "http://31.148.48.15/SONY_SCI_FI/index.m3u8"
+  },
+  {
+    "name": ":24 (1080p)",
+    "tvg_id": "24.sk@SD",
+    "logo": "https://i.imgur.com/tTCuczU.png",
+    "category": "News",
+    "url": "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8"
   },
   {
     "name": "A1 TV (1080p) [Not 24/7]",
@@ -1579,7 +1579,7 @@
     "tvg_id": "Aastha.in@SD",
     "logo": "https://i.imgur.com/IqgrV92.png",
     "category": "Religious",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
+    "url": "http://103.213.31.109:90/AasthaSD/playlist.m3u8"
   },
   {
     "name": "Aastha Bhajan (576p)",
@@ -2188,7 +2188,7 @@
     "tvg_id": "ABPNews.in@SD",
     "logo": "https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540",
     "category": "News",
-    "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8"
+    "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8"
   },
   {
     "name": " like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"News\",ABP Sanjha (1080p)",
@@ -2220,7 +2220,7 @@
   },
   {
     "name": "Acapulco Shore Pluto TV",
-    "tvg_id": "AcapulcoShore.us",
+    "tvg_id": "AcapulcoShore.us@SD",
     "logo": "https://i.imgur.com/D2jgGOi.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8"
@@ -2563,7 +2563,7 @@
   },
   {
     "name": "Adrenalina Pura TV (720p)",
-    "tvg_id": "AdrenalinaPuraTV.us",
+    "tvg_id": "AdrenalinaPuraTV.us@SD",
     "logo": "https://i.imgur.com/Pvid2iH.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8"
@@ -3259,7 +3259,7 @@
     "tvg_id": "AlEkhbariya.sa@SD",
     "logo": "https://i.imgur.com/WcRlHQm.png",
     "category": "News",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
+    "url": "https://aloula-redirect.vercel.app/4/playlist.m3u8"
   },
   {
     "name": "Al Ghad TV (1080p)",
@@ -3497,7 +3497,7 @@
     "tvg_id": "AlRiyadhRadio.sa@SD",
     "logo": "https://aloula.faulio.com/storage/mediagallery/37/1a/fullhd_399eddcc4305f34f41c7fab24c3518fab5d55d97.png",
     "category": "Undefined",
-    "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8"
+    "url": "https://aloula-redirect.vercel.app/12/playlist.m3u8"
   },
   {
     "name": "Al salir de clase",
@@ -3511,14 +3511,14 @@
     "tvg_id": "AlSaudiya.sa@SD",
     "logo": "https://i.imgur.com/GRQTndk.png",
     "category": "General",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
+    "url": "https://aloula-redirect.vercel.app/2/playlist.m3u8"
   },
   {
     "name": "Al Saudiya Alaan (1080p)",
     "tvg_id": "AlSaudiyaAlaan.sa@SD",
     "logo": "https://i.imgur.com/sEOjApe.png",
     "category": "Undefined",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8"
+    "url": "https://aloula-redirect.vercel.app/17/playlist.m3u8"
   },
   {
     "name": "Al Shabab TV (1080p)",
@@ -3802,7 +3802,7 @@
   },
   {
     "name": "Alerte à Malibu",
-    "tvg_id": "AlerteaMalibu.us",
+    "tvg_id": "AlerteaMalibu.us@France",
     "logo": "https://i.imgur.com/hBiB6uk.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8"
@@ -4071,7 +4071,7 @@
     "tvg_id": "AlkhuzamaRadio.sa@SD",
     "logo": "https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b",
     "category": "Undefined",
-    "url": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8"
+    "url": "https://aloula-redirect.vercel.app/18/playlist.m3u8"
   },
   {
     "name": "All Babies Channel (720p)",
@@ -4873,7 +4873,7 @@
   },
   {
     "name": "Ana y los 7",
-    "tvg_id": "Anaylos7.us",
+    "tvg_id": "Anaylos7.us@Spain",
     "logo": "https://i.imgur.com/X5g6gXS.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8"
@@ -4978,7 +4978,7 @@
   },
   {
     "name": "Andromeda",
-    "tvg_id": "Andromeda.us",
+    "tvg_id": "Andromeda.us@Spain",
     "logo": "https://i.imgur.com/6ot2lmd.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8"
@@ -4989,6 +4989,13 @@
     "logo": "https://i.imgur.com/6ot2lmd.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8"
+  },
+  {
+    "name": "Andromeda Italy (720p)",
+    "tvg_id": "Andromeda.us@Italy",
+    "logo": "https://i.imgur.com/6ot2lmd.png",
+    "category": "Series",
+    "url": "https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8"
   },
   {
     "name": "Andy Haryana (576p)",
@@ -5310,7 +5317,7 @@
     "tvg_id": "Antena3.es@National",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
     "category": "General",
-    "url": "http://92.176.119.180:2095/play/a16j"
+    "url": "http://92.176.119.180:2095/play/a1ee"
   },
   {
     "name": "Antena 3 Internacional",
@@ -5440,13 +5447,13 @@
   },
   {
     "name": "Anthony Bourdain: Parts Unknown",
-    "tvg_id": "AnthonyBourdainPartsUnknown.us",
+    "tvg_id": "AnthonyBourdainPartsUnknown.us@UK",
     "logo": "https://i.imgur.com/dAO9llk.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8"
   },
   {
-    "name": "Antiques Road Show UK",
+    "name": "Antiques Road Show UK (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -5692,7 +5699,7 @@
   },
   {
     "name": "Archivos Forenses",
-    "tvg_id": "ArchivosForenses.us",
+    "tvg_id": "ArchivosForenses.us@Spain",
     "logo": "https://i.imgur.com/Pxrl9Ug.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8"
@@ -5727,7 +5734,7 @@
   },
   {
     "name": "Are You The One?",
-    "tvg_id": "AreYouTheOne.us",
+    "tvg_id": "AreYouTheOne.us@France",
     "logo": "https://i.imgur.com/cIt8UWE.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8"
@@ -6574,7 +6581,7 @@
   },
   {
     "name": "Auction Hunters",
-    "tvg_id": "AuctionHunters.us",
+    "tvg_id": "AuctionHunters.us@SD",
     "logo": "https://i.imgur.com/4SPOVN7.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8"
@@ -6728,8 +6735,8 @@
   },
   {
     "name": "Avatar",
-    "tvg_id": "Avatar.us",
-    "logo": "https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png",
+    "tvg_id": "Avatar.us@UK",
+    "logo": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8"
   },
@@ -7211,7 +7218,7 @@
   },
   {
     "name": "Babyfirst",
-    "tvg_id": "BabyFirst.us",
+    "tvg_id": "BabyFirst.us@US",
     "logo": "https://i.imgur.com/WxLHBwu.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8"
@@ -7505,7 +7512,7 @@
   },
   {
     "name": "Bar Rescue",
-    "tvg_id": "BarRescue.us",
+    "tvg_id": "BarRescue.us@SD",
     "logo": "https://i.imgur.com/WFgWGPb.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8"
@@ -7770,11 +7777,11 @@
     "url": "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8"
   },
   {
-    "name": "BBC News (720p)",
+    "name": "BBC News (1080p) (HEVC) (1080p)",
     "tvg_id": "BBCNews.uk@Africa",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
     "category": "News",
-    "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd"
+    "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd"
   },
   {
     "name": "BBC News Europe (1080p)",
@@ -7959,11 +7966,11 @@
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd"
   },
   {
-    "name": "BBC Persian (720p)",
+    "name": "BBC Persian (720p) (HEVC) (1080p)",
     "tvg_id": "BBCPersian.uk@SD",
     "logo": "https://i.imgur.com/4uTMnPb.png",
     "category": "News",
-    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd"
+    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd"
   },
   {
     "name": "BBC RB 1 (720p) [Geo-blocked]",
@@ -8688,7 +8695,7 @@
   },
   {
     "name": "Best of Dr. Phil",
-    "tvg_id": "BestofDrPhil.us",
+    "tvg_id": "BestofDrPhil.us@SD",
     "logo": "https://i.imgur.com/Jj0wTFQ.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8"
@@ -8758,7 +8765,7 @@
   },
   {
     "name": "Best of The Drew Barrymore Show",
-    "tvg_id": "BestofTheDrewBarrymoreShow.us",
+    "tvg_id": "BestofTheDrewBarrymoreShow.us@SD",
     "logo": "https://i.imgur.com/5kdG4Dm.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8"
@@ -8782,7 +8789,7 @@
     "tvg_id": "BestClasicosTV.cr@SD",
     "logo": "https://i.imgur.com/a/BRb8AVL.png",
     "category": "Undefined",
-    "url": "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8"
+    "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
   },
   {
     "name": "BET",
@@ -8806,7 +8813,7 @@
     "url": "https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8"
   },
   {
-    "name": "BET25 LIVE",
+    "name": "BET25 LIVE (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -9181,7 +9188,7 @@
     "tvg_id": "BhojpuriCinema.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png",
     "category": "Movies",
-    "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
+    "url": "http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8"
   },
   {
     "name": "BHRT (720p) [Geo-blocked]",
@@ -9668,7 +9675,7 @@
   },
   {
     "name": "Blue Bloods",
-    "tvg_id": "BlueBloods.us",
+    "tvg_id": "BlueBloods.us@SD",
     "logo": "https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg",
     "category": "Series",
     "url": "https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8"
@@ -9738,7 +9745,7 @@
   },
   {
     "name": "Bob Esponja (720p)",
-    "tvg_id": "BobEsponja.us",
+    "tvg_id": "BobEsponja.us@Spain",
     "logo": "https://i.imgur.com/nmZ2nId.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8"
@@ -9759,7 +9766,7 @@
   },
   {
     "name": "Bob l'éponge (720p)",
-    "tvg_id": "Bobleponge.us",
+    "tvg_id": "Bobleponge.us@France",
     "logo": "https://i.imgur.com/ITwU1yZ.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-66588931a3865300085ca800.m3u8"
@@ -9916,7 +9923,7 @@
     "tvg_id": "BomCine.es@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png",
     "category": "Movies",
-    "url": "http://92.176.119.180:2095/play/a17f"
+    "url": "http://92.176.119.180:2095/play/a1fu"
   },
   {
     "name": "bon appétit (1080p)",
@@ -10150,6 +10157,13 @@
     "url": "https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8"
   },
   {
+    "name": "Bragado TV",
+    "tvg_id": "BragadoTV.ar@SD",
+    "logo": "https://i.imgur.com/xP88fKG.png",
+    "category": "General",
+    "url": "https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8"
+  },
+  {
     "name": "Brat TV (1080p)",
     "tvg_id": "BratTV.us@SD",
     "logo": "https://i.imgur.com/Kkcp9Bk.png",
@@ -10178,7 +10192,7 @@
     "url": "https://bravoohls.wns.live/hls/stream.m3u8"
   },
   {
-    "name": "Bravo TV",
+    "name": "Bravo TV (1080p)",
     "tvg_id": "BravoTV.ar@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png",
     "category": "General",
@@ -11291,11 +11305,25 @@
     "url": "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
   },
   {
+    "name": "Canal 2 Gualeguay",
+    "tvg_id": "Canal2Gualeguay.ar@SD",
+    "logo": "https://i.imgur.com/TOlncyp.png",
+    "category": "General",
+    "url": "https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8"
+  },
+  {
     "name": "Canal 2 International (720p)",
     "tvg_id": "Canal2International.cm@SD",
     "logo": "https://i.imgur.com/BzA2z7m.png",
     "category": "General",
     "url": "http://69.64.57.208/canal2international/playlist.m3u8"
+  },
+  {
+    "name": "Canal 2 Mar del Plata",
+    "tvg_id": "Canal2MardelPlata.ar@SD",
+    "logo": "https://i.imgur.com/wlKFPBW.jpeg",
+    "category": "General",
+    "url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8"
   },
   {
     "name": "Canal 2 Misiones (1080p)",
@@ -11352,6 +11380,20 @@
     "logo": "https://i.imgur.com/bd2afET.png",
     "category": "Undefined",
     "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
+  },
+  {
+    "name": "Canal 3 Pinamar",
+    "tvg_id": "Canal3Pinamar.ar@SD",
+    "logo": "https://i.imgur.com/IABFaH1.png",
+    "category": "Undefined",
+    "url": "http://intelincloud01.com.ar/hls/cn3/index.m3u8"
+  },
+  {
+    "name": "Canal 3 Tacural",
+    "tvg_id": "Canal3Tacural.ar@SD",
+    "logo": "https://i.imgur.com/RKvSa52.jpeg",
+    "category": "General",
+    "url": "http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8"
   },
   {
     "name": "Canal 4 (720p) [Geo-blocked]",
@@ -11415,6 +11457,13 @@
     "logo": "https://i.imgur.com/MsCnwRA.png",
     "category": "Undefined",
     "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
+  },
+  {
+    "name": "Canal 4 Teleaire",
+    "tvg_id": "Canal4Teleaire.ar@SD",
+    "logo": "https://i.imgur.com/XyiNvbY.png",
+    "category": "General",
+    "url": "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8"
   },
   {
     "name": "Canal 5 (720p) [Geo-blocked]",
@@ -11620,7 +11669,7 @@
     "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"
   },
   {
-    "name": "Canal 9 Televida",
+    "name": "Canal 9 Televida (720p)",
     "tvg_id": "Canal9Televida.ar@SD",
     "logo": "https://i.imgur.com/JUtAzg4.png",
     "category": "Undefined",
@@ -12209,7 +12258,7 @@
   },
   {
     "name": "Canal Claro (720p)",
-    "tvg_id": "CanalClaro.cl",
+    "tvg_id": "CanalClaro.cl@SD",
     "logo": "https://i.imgur.com/Kgjfd3J.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8"
@@ -13203,7 +13252,7 @@
   },
   {
     "name": "Cazador de Homicidas",
-    "tvg_id": "CazadordeHomicidas.us",
+    "tvg_id": "CazadordeHomicidas.us@Spain",
     "logo": "https://i.imgur.com/hy6FJLe.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8"
@@ -13815,7 +13864,7 @@
     "tvg_id": "CCTV6.cn@HD",
     "logo": "https://i.imgur.com/rFiaef7.png",
     "category": "Movies",
-    "url": "http://198.204.240.250:82/live/cctv6.m3u8"
+    "url": "http://69.30.245.50/live/cctv6.m3u8"
   },
   {
     "name": "CCTV-7 (720p)",
@@ -13836,7 +13885,7 @@
     "tvg_id": "CCTV8K.cn@HD",
     "logo": "https://i.imgur.com/fxVPMJF.png",
     "category": "Undefined",
-    "url": "http://198.204.240.250:82/live/cctv8k.m3u8"
+    "url": "http://192.151.150.154/live/cctv8k.m3u8"
   },
   {
     "name": "CCTV-9 (576i)",
@@ -14042,7 +14091,7 @@
     "url": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
   },
   {
-    "name": "CEACOM TV [Not 24/7]",
+    "name": "CEACOM TV (1080p) [Not 24/7]",
     "tvg_id": "CEACOMTV.bo@SD",
     "logo": "https://i.imgur.com/hutdRfk.png",
     "category": "General;Lifestyle;Music;News",
@@ -14077,7 +14126,7 @@
     "url": "https://jmp2.uk/plu-65788727a620e30008fe4d88.m3u8"
   },
   {
-    "name": "Celeb Reality",
+    "name": "Celeb Reality (684p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -14298,7 +14347,7 @@
     "tvg_id": "Ch4Teen.kw@SD",
     "logo": "https://i.imgur.com/pHpFGeg.png",
     "category": "Religious",
-    "url": "https://ch14.tv/live/ch4teenclip/playlist.m3u8"
+    "url": "https://ch14.tv/live/ch4teen1/playlist.m3u8"
   },
   {
     "name": "Ch4Teen Documentary (1080p)",
@@ -14515,7 +14564,7 @@
     "tvg_id": "Channel10.ru@SD",
     "logo": "https://i.imgur.com/k8JjFDw.png",
     "category": "General",
-    "url": "https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=eqlTXebDP9wSWTZgre6BwQ&e=2072611029&scheme=https"
+    "url": "https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https"
   },
   {
     "name": "Channel 10 (720p)",
@@ -14862,7 +14911,7 @@
   },
   {
     "name": "Cheers",
-    "tvg_id": "Cheers.us",
+    "tvg_id": "Cheers.us@Germany",
     "logo": "https://i.imgur.com/xIlF92v.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8"
@@ -14959,7 +15008,7 @@
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085"
   },
   {
-    "name": "Chiloe Red 25",
+    "name": "Chiloe Red 25 (720p)",
     "tvg_id": "ChiloeRed25.cl@SD",
     "logo": "https://i.imgur.com/3tqrImm.png",
     "category": "Culture",
@@ -15124,7 +15173,7 @@
     "tvg_id": "CINDIETV.br@HD",
     "logo": "https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png",
     "category": "Movies",
-    "url": "https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi"
+    "url": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8"
   },
   {
     "name": "Cine 34 [Geo-blocked]",
@@ -15163,7 +15212,7 @@
   },
   {
     "name": "Cine Amor",
-    "tvg_id": "CineAmor.us",
+    "tvg_id": "CineAmor.us@SD",
     "logo": "https://i.imgur.com/eAS86qH.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8"
@@ -15806,18 +15855,18 @@
     "url": "https://live1.mediadesk.al/cnatvlive.m3u8"
   },
   {
+    "name": "CNA (360p) [Not 24/7]",
+    "tvg_id": "CNA.dz@SD",
+    "logo": "https://i.imgur.com/Ki3ySUE.png",
+    "category": "Religious",
+    "url": "https://live.creacast.com/cna/stream/playlist.m3u8"
+  },
+  {
     "name": "CNA (1080p) [Geo-blocked]",
     "tvg_id": "CNA.sg@SD",
     "logo": "https://i.imgur.com/awIDugE.png",
     "category": "News",
     "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
-  },
-  {
-    "name": "CNA (Chaîne Nord Africaine) (360p) [Not 24/7]",
-    "tvg_id": "CNA.dz@SD",
-    "logo": "https://i.imgur.com/Ki3ySUE.png",
-    "category": "Religious",
-    "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8"
   },
   {
     "name": "CNA Originals (1080p)",
@@ -16076,7 +16125,7 @@
     "tvg_id": "COCOTV.do@SD",
     "logo": "https://i.imgur.com/CnAc7jU.png",
     "category": "Entertainment",
-    "url": "https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8"
+    "url": "https://edge.essastream.com/canalcocotv/playlist.m3u8"
   },
   {
     "name": "Cocoricó",
@@ -16160,7 +16209,7 @@
     "tvg_id": "Colors.in@SD",
     "logo": "https://i.imgur.com/M8uCJ0D.png",
     "category": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a077/index.m3u8"
+    "url": "http://103.72.101.252:8080/live/1368.m3u8"
   },
   {
     "name": "Colors Bangla (576p)",
@@ -16181,7 +16230,7 @@
     "tvg_id": "ColorsBangla.in@HD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png",
     "category": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8"
+    "url": "http://103.72.101.252:8080/live/756.m3u8"
   },
   {
     "name": "Colors Cineplex (576p)",
@@ -16356,6 +16405,13 @@
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
+    "url": "https://jmp2.uk/plu-65d7239066eec8000881e293.m3u8"
+  },
+  {
+    "name": "Come Dine with Me (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
     "url": "https://jmp2.uk/plu-65d7243c4e017400089e14a8.m3u8"
   },
   {
@@ -16364,13 +16420,6 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-65d724a9d8adfa00086c8ae9.m3u8"
-  },
-  {
-    "name": "Come Dine with Me",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-65d7239066eec8000881e293.m3u8"
   },
   {
     "name": "Comedia a lo bestia de Pluto TV",
@@ -16394,8 +16443,8 @@
     "url": "https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8"
   },
   {
-    "name": "Comedy Central",
-    "tvg_id": "ComedyCentral.at",
+    "name": "Comedy Central (720p)",
+    "tvg_id": "ComedyCentral.at@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a4/Comedy_Central_Austria_2018.png/960px-Comedy_Central_Austria_2018.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8"
@@ -16423,7 +16472,7 @@
   },
   {
     "name": "Comedy Central Animation",
-    "tvg_id": "ComedyCentralAnimation.us",
+    "tvg_id": "ComedyCentralAnimation.us@SD",
     "logo": "https://i.imgur.com/uENch0P.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8"
@@ -16451,7 +16500,7 @@
   },
   {
     "name": "Comedy Central Pluto TV",
-    "tvg_id": "ComedyCentralPlutoTV.us",
+    "tvg_id": "ComedyCentralPlutoTV.us@US",
     "logo": "https://i.imgur.com/9y6TtjF.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8"
@@ -16563,7 +16612,7 @@
   },
   {
     "name": "Concert Channel (720p)",
-    "tvg_id": "ConcertChannel.us",
+    "tvg_id": "ConcertChannel.us@SD",
     "logo": "https://i.imgur.com/u2irADf.png",
     "category": "Music",
     "url": "https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8"
@@ -17354,7 +17403,7 @@
   },
   {
     "name": "Crunchyroll (720p)",
-    "tvg_id": "Crunchyroll.us",
+    "tvg_id": "Crunchyroll.us@SD",
     "logo": "https://i.imgur.com/2FlIQUO.png",
     "category": "Animation",
     "url": "https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8"
@@ -17375,7 +17424,7 @@
   },
   {
     "name": "CSI",
-    "tvg_id": "CSI.us",
+    "tvg_id": "CSI.us@SD",
     "logo": "https://i.imgur.com/xLLNEfA.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8"
@@ -17598,7 +17647,7 @@
     "url": "https://live.legitpro.co.in/ctvnakdplus/index.m3u8"
   },
   {
-    "name": "Cuando los Ángeles Caen",
+    "name": "Cuando los Ángeles Caen (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -17732,7 +17781,7 @@
   },
   {
     "name": "Curro Jiménez",
-    "tvg_id": "CurroJimenez.us",
+    "tvg_id": "CurroJimenez.us@Spain",
     "logo": "https://i.imgur.com/e3biTY5.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8"
@@ -17956,7 +18005,7 @@
   },
   {
     "name": "Dallas Cowboys Cheerleaders",
-    "tvg_id": "DallasCowboysCheerleaders.us",
+    "tvg_id": "DallasCowboysCheerleaders.us@SD",
     "logo": "https://i.imgur.com/73HlRCg.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8"
@@ -18092,14 +18141,14 @@
     "tvg_id": "Dangal2.in@SD",
     "logo": "https://i.imgur.com/BEr1r7L.png",
     "category": "Entertainment",
-    "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
+    "url": "http://103.213.31.109:90/Dangal2/playlist.m3u8"
   },
   {
     "name": "Dangal TV (720p)",
     "tvg_id": "DangalTV.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png",
     "category": "General",
-    "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
+    "url": "http://103.213.31.109:90/Dangal/playlist.m3u8"
   },
   {
     "name": "Danger Vision (1080p)",
@@ -18277,11 +18326,11 @@
     "url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
   },
   {
-    "name": "DAZN Combat",
-    "tvg_id": "DAZNCombat.uk",
+    "name": "DAZN Combat (684p)",
+    "tvg_id": "DAZNCombat.uk@SD",
     "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
     "category": "Sports",
-    "url": "https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8"
+    "url": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8"
   },
   {
     "name": "DAZN Darts x Pluto TV",
@@ -18312,7 +18361,7 @@
     "url": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8"
   },
   {
-    "name": "DAZN Ringside",
+    "name": "DAZN Ringside (684p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -19005,7 +19054,7 @@
     "url": "https://jmp2.uk/plu-69b0167477cdde1f05c8a625.m3u8"
   },
   {
-    "name": "Der Chef",
+    "name": "Der Chef (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -19090,10 +19139,17 @@
   },
   {
     "name": "Detective Conan",
-    "tvg_id": "DetectiveConan.us",
-    "logo": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512",
+    "tvg_id": "DetectiveConan.us@Spain",
+    "logo": "https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512",
     "category": "Animation;Kids",
     "url": "https://jmp2.uk/plu-629a066860ef810008267b70.m3u8"
+  },
+  {
+    "name": "Detective Conan France (720p)",
+    "tvg_id": "DetectiveConan.us@France",
+    "logo": "https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png?w=512",
+    "category": "Animation;Kids",
+    "url": "https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8"
   },
   {
     "name": "Detetives Médicos",
@@ -19101,6 +19157,13 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8"
+  },
+  {
+    "name": "DFB Play TV (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
+    "url": "https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8"
   },
   {
     "name": "DFB Play TV (720p)",
@@ -19115,13 +19178,6 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://pb-95uwccjrn7kxl.akamaized.net/dfbtv.m3u8"
-  },
-  {
-    "name": "DFB Play TV",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8"
   },
   {
     "name": "DHA (720p) [Not 24/7]",
@@ -19306,7 +19362,7 @@
     "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8"
   },
   {
-    "name": "Die Sieben-Millionen-Dollar-Frau",
+    "name": "Die Sieben-Millionen-Dollar-Frau (684p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -19335,7 +19391,7 @@
   },
   {
     "name": "Diff’rent Strokes Arnold",
-    "tvg_id": "DiffrentStrokesArnold.us",
+    "tvg_id": "DiffrentStrokesArnold.us@Brazil",
     "logo": "https://i.imgur.com/jkmouY3.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8"
@@ -19916,7 +19972,7 @@
   },
   {
     "name": "Dog el cazarrecompensas",
-    "tvg_id": "PlutoTVDogelcazarrecompensas.us",
+    "tvg_id": "PlutoTVDogelcazarrecompensas.us@SD",
     "logo": "https://i.imgur.com/h3kSZLc.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8"
@@ -20098,7 +20154,7 @@
   },
   {
     "name": "Dora TV",
-    "tvg_id": "DoraTV.us",
+    "tvg_id": "DoraTV.us@US",
     "logo": "https://i.imgur.com/zJuSbmU.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8"
@@ -20112,7 +20168,7 @@
   },
   {
     "name": "Dossiers FBI",
-    "tvg_id": "DossiersFBI.us",
+    "tvg_id": "DossiersFBI.us@France",
     "logo": "https://i.imgur.com/8Zx6dA7.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8"
@@ -20717,7 +20773,7 @@
     "tvg_id": "DW.de@English",
     "logo": "https://i.imgur.com/8MRNFb9.png",
     "category": "News",
-    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8"
+    "url": "https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8"
   },
   {
     "name": "DW Espanol (1080p)",
@@ -20987,7 +21043,7 @@
   },
   {
     "name": "Ebony TV by Lionsgate (1080p)",
-    "tvg_id": "EbonyTVbyLionsgate.us",
+    "tvg_id": "EbonyTVbyLionsgate.us@SD",
     "logo": "https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png",
     "category": "Movies;Series",
     "url": "https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8"
@@ -21372,7 +21428,7 @@
   },
   {
     "name": "El Comisario",
-    "tvg_id": "ElComisario.us",
+    "tvg_id": "ElComisario.us@Spain",
     "logo": "https://i.imgur.com/XYt8utn.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8"
@@ -21386,7 +21442,7 @@
   },
   {
     "name": "El encantador de perros",
-    "tvg_id": "Elencantadordeperros.us",
+    "tvg_id": "Elencantadordeperros.us@Spain",
     "logo": "https://i.imgur.com/hYqjQ1n.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8"
@@ -21435,7 +21491,7 @@
   },
   {
     "name": "El Reino Infantil",
-    "tvg_id": "PlutoTVElReinoInfantil.us",
+    "tvg_id": "PlutoTVElReinoInfantil.us@SD",
     "logo": "https://i.imgur.com/u7DOoBK.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8"
@@ -21722,7 +21778,7 @@
   },
   {
     "name": "Empeños a lo bestia",
-    "tvg_id": "Empenosalobestia.us",
+    "tvg_id": "Empenosalobestia.us@Spain",
     "logo": "https://i.imgur.com/EOttSdW.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8"
@@ -21743,7 +21799,7 @@
   },
   {
     "name": "En el punto de mira",
-    "tvg_id": "Enelpuntodemira.us",
+    "tvg_id": "Enelpuntodemira.us@Spain",
     "logo": "https://i.imgur.com/E9grXd9.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8"
@@ -21816,7 +21872,7 @@
     "tvg_id": "Energy.es@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/960px-Energy.svg.png",
     "category": "Entertainment",
-    "url": "http://92.176.119.180:2095/play/a17a"
+    "url": "http://92.176.119.180:2095/play/a1ep"
   },
   {
     "name": "Energy",
@@ -21861,7 +21917,7 @@
     "url": "https://edge.essastream.com/enntivision/playlist.m3u8"
   },
   {
-    "name": "Enquêtes Criminelles",
+    "name": "Enquêtes Criminelles (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -22292,7 +22348,7 @@
     "tvg_id": "ESPNDeportes.us@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
     "category": "Sports",
-    "url": "http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
+    "url": "http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8"
   },
   {
     "name": "Esport3 (1080p) [Not 24/7]",
@@ -22366,7 +22422,7 @@
   },
   {
     "name": "Estrellas de Acción",
-    "tvg_id": "PlutoTVEstrellasdeAccion.us",
+    "tvg_id": "PlutoTVEstrellasdeAccion.us@SD",
     "logo": "https://i.imgur.com/GVOYX4L.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8"
@@ -22607,7 +22663,7 @@
     "tvg_id": "EUMusic.ua@SD",
     "logo": "https://i.imgur.com/fJdvyrG.png",
     "category": "Music",
-    "url": "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&ses=ca0cfbf5db9d8003&uid=vu2y5m72&cs_track=false&e=1782900912&st=j-Ja2visdxrjH_8haQZjNg"
+    "url": "https://iptv.prosto.tv/ch134/tracks-v2a1/1.m3u8?21yo=1&cs_track=false&e=1782900912&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&ses=ca0cfbf5db9d8003&st=j-Ja2visdxrjH_8haQZjNg&uid=vu2y5m72"
   },
   {
     "name": "Eureka (1080p) [Geo-blocked]",
@@ -22656,21 +22712,7 @@
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8"
-  },
-  {
-    "name": "Euronews",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
     "url": "https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8"
-  },
-  {
-    "name": "Euronews",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8"
   },
   {
     "name": "Euronews",
@@ -22804,6 +22846,13 @@
     "logo": "https://i.imgur.com/8PxpamC.png",
     "category": "General",
     "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+  },
+  {
+    "name": "Ev-tele (720p)",
+    "tvg_id": "Evtele.cg@SD",
+    "logo": "https://i.imgur.com/iBlXl2T.png",
+    "category": "Culture",
+    "url": "https://playtv4k.live/live/EVTELE/index.m3u8"
   },
   {
     "name": "Eventyrlig Oppussing",
@@ -22968,7 +23017,7 @@
   },
   {
     "name": "Ex On The Beach",
-    "tvg_id": "ExOnTheBeach.us",
+    "tvg_id": "ExOnTheBeach.us@Italy",
     "logo": "https://i.imgur.com/bMs75oe.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8"
@@ -23297,7 +23346,7 @@
   },
   {
     "name": "Family Ties",
-    "tvg_id": "FamilyTies.us",
+    "tvg_id": "FamilyTies.us@SD",
     "logo": "https://i.imgur.com/WJEkKCb.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8"
@@ -23430,7 +23479,7 @@
   },
   {
     "name": "Farscape",
-    "tvg_id": "Farscape.us",
+    "tvg_id": "Farscape.us@SD",
     "logo": "https://i.imgur.com/2WH4lSc.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8"
@@ -23454,7 +23503,7 @@
     "tvg_id": "FashionTV.ua@SD",
     "logo": "https://i.imgur.com/Bk7W39G.png",
     "category": "Lifestyle",
-    "url": "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783350200&st=RRhh01CY6iYIRs_Kyoc3lw"
+    "url": "https://iptv.prosto.tv/ch582/tracks-v2a1/mono.m3u8?21yo=1&e=1783350200&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=RRhh01CY6iYIRs_Kyoc3lw"
   },
   {
     "name": "FashionBox (1080p)",
@@ -23521,7 +23570,7 @@
   },
   {
     "name": "FBI Files",
-    "tvg_id": "FBIFiles.us",
+    "tvg_id": "FBIFiles.us@UK",
     "logo": "https://i.imgur.com/vzYDSLo.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8"
@@ -23552,7 +23601,7 @@
     "tvg_id": "FactoriadeFiccion.es@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png",
     "category": "Entertainment",
-    "url": "http://92.176.119.180:2095/play/a15w"
+    "url": "http://92.176.119.180:2095/play/a1fo"
   },
   {
     "name": "Fe Viviente (480p)",
@@ -23661,7 +23710,7 @@
   },
   {
     "name": "FIFA+ (720p)",
-    "tvg_id": "FIFAPlus.uk",
+    "tvg_id": "FIFAPlus.uk@English",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
     "category": "Sports",
     "url": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8"
@@ -23763,6 +23812,13 @@
     "logo": "https://i.imgur.com/hpTCANa.png",
     "category": "Movies",
     "url": "http://103.250.28.74:8000/play/a02k/index.m3u8"
+  },
+  {
+    "name": "FilmBox [Not 24/7]",
+    "tvg_id": "FilmBox.nl@Netherlands",
+    "logo": "https://i.imgur.com/VyaslIY.png",
+    "category": "Movies",
+    "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6948/index.m3u8"
   },
   {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FilmBox Arthouse (576p)",
@@ -24326,7 +24382,7 @@
   },
   {
     "name": "Forensic Files",
-    "tvg_id": "ForensicFiles.us",
+    "tvg_id": "ForensicFiles.us@SD",
     "logo": "https://i.imgur.com/V5vvuLK.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8"
@@ -24571,7 +24627,7 @@
   },
   {
     "name": "FOX Sports (720p)",
-    "tvg_id": "FoxSports.ar",
+    "tvg_id": "FoxSports.ar@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
     "category": "Sports",
     "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8"
@@ -24690,7 +24746,7 @@
   },
   {
     "name": "Frasier",
-    "tvg_id": "Frasier.us",
+    "tvg_id": "Frasier.us@US",
     "logo": "https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8"
@@ -25053,8 +25109,8 @@
     "url": "https://stream.esradioecuador.com/hls/stream.m3u8"
   },
   {
-    "name": "Gambero Rosso",
-    "tvg_id": "GamberoRossoChannel.it",
+    "name": "Gambero Rosso (720p)",
+    "tvg_id": "GamberoRossoChannel.it@SD",
     "logo": "https://i.imgur.com/x5cwb1q.png",
     "category": "Cooking;Lifestyle",
     "url": "https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8"
@@ -25159,7 +25215,7 @@
   },
   {
     "name": "Garfield and Friends",
-    "tvg_id": "GarfieldandFriends.us",
+    "tvg_id": "GarfieldandFriends.us@US",
     "logo": "https://i.imgur.com/evzfe9C.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8"
@@ -25544,7 +25600,7 @@
   },
   {
     "name": "Geordie Shore",
-    "tvg_id": "GeordieShore.us",
+    "tvg_id": "GeordieShore.us@Italy",
     "logo": "https://i.imgur.com/WOkqDRi.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-6442512cee6a2f0008d3351f.m3u8"
@@ -25830,7 +25886,7 @@
     "url": "https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8"
   },
   {
-    "name": "Global News Okanagan",
+    "name": "Global News Okanagan (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -26740,7 +26796,7 @@
     "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8"
   },
   {
-    "name": "GrowthDay Network",
+    "name": "GrowthDay Network (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -26842,7 +26898,7 @@
     "tvg_id": "GTV.ph@SD",
     "logo": "https://i.imgur.com/rWhamwh.png",
     "category": "News",
-    "url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8"
+    "url": "http://pro.reott8k.xyz/play/live.php?extension=m3u8&mac=00:1A:79:7B:BB:36&stream=1548700"
   },
   {
     "name": "GTV (360p) [Not 24/7]",
@@ -26898,7 +26954,7 @@
     "tvg_id": "GuaroTV.ve@SD",
     "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
     "category": "Entertainment",
-    "url": "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8"
+    "url": "https://stream.guarotv.net:3592/hybrid/play.m3u8"
   },
   {
     "name": "Guaymate TV (720p) [Not 24/7]",
@@ -26986,7 +27042,7 @@
   },
   {
     "name": "Gunsmoke",
-    "tvg_id": "Gunsmoke.us",
+    "tvg_id": "Gunsmoke.us@SD",
     "logo": "https://i.imgur.com/OxUS1Hq.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8"
@@ -27294,7 +27350,7 @@
   },
   {
     "name": "Happy Days",
-    "tvg_id": "HappyDays.us",
+    "tvg_id": "HappyDays.us@SD",
     "logo": "https://i.imgur.com/LPjoORg.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8"
@@ -27433,6 +27489,13 @@
     "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8"
   },
   {
+    "name": "HauntTV CA (720p)",
+    "tvg_id": "HauntTV.ca@CA",
+    "logo": "https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png",
+    "category": "Series",
+    "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8"
+  },
+  {
     "name": "Hausmeister Krause",
     "tvg_id": "",
     "logo": "",
@@ -27532,7 +27595,7 @@
   },
   {
     "name": "Heartland",
-    "tvg_id": "Heartland.us",
+    "tvg_id": "Heartland.us@Eastern",
     "logo": "https://i.imgur.com/djCq2Z5.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-680f375e6798ccd1185b58f9.m3u8"
@@ -27556,7 +27619,7 @@
     "tvg_id": "HebeiTV.cn@SD",
     "logo": "https://i.imgur.com/Z5Ppzbi.png",
     "category": "General",
-    "url": "https://event.pull.hebtv.com:443/live/live101.m3u8"
+    "url": "https://event.pull.hebtv.com/live/live101.m3u8"
   },
   {
     "name": "Hebron TV (1080p)",
@@ -27609,7 +27672,7 @@
   },
   {
     "name": "Hélène et les garçons",
-    "tvg_id": "Heleneetlesgarcons.us",
+    "tvg_id": "Heleneetlesgarcons.us@France",
     "logo": "https://i.imgur.com/EjjzjF9.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8"
@@ -27840,7 +27903,7 @@
   },
   {
     "name": "Highway to Heaven",
-    "tvg_id": "HighwaytoHeaven.us",
+    "tvg_id": "HighwaytoHeaven.us@UK",
     "logo": "https://i.imgur.com/e6pvibn.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8"
@@ -27952,14 +28015,14 @@
   },
   {
     "name": "Historia y Vida (720p)",
-    "tvg_id": "HistoriaYVida.es",
+    "tvg_id": "HistoriaYVida.es@SD",
     "logo": "https://i.imgur.com/56ZtCA1.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8"
   },
   {
     "name": "Historias de Ultratumba",
-    "tvg_id": "PlutoTVHistoriasdeUltratumba.us",
+    "tvg_id": "PlutoTVHistoriasdeUltratumba.us@SD",
     "logo": "https://i.imgur.com/JDF6Qp5.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8"
@@ -28060,7 +28123,14 @@
     "tvg_id": "HistoryTV18.in@HD",
     "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
     "category": "Documentary",
-    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
+    "url": "http://103.154.3.101:5001/live/577.m3u8"
+  },
+  {
+    "name": "Hit Sitcoms (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
+    "url": "https://jmp2.uk/plu-69b83e4169056557a9252f61.m3u8"
   },
   {
     "name": "Hit Sitcoms (720p)",
@@ -28068,13 +28138,6 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8"
-  },
-  {
-    "name": "Hit Sitcoms",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-69b83e4169056557a9252f61.m3u8"
   },
   {
     "name": "Hitradio O3 (720p)",
@@ -28259,6 +28322,13 @@
     "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8"
   },
   {
+    "name": "Holy Quran Radio (1080p)",
+    "tvg_id": "HolyQuranRadio.sa@SD",
+    "logo": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
+    "category": "General;Religious",
+    "url": "https://aloula-redirect.vercel.app/13/playlist.m3u8"
+  },
+  {
     "name": "Holy Quran Radio Nablus (720p)",
     "tvg_id": "HolyQuranRadioNablus.ps@SD",
     "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
@@ -28337,7 +28407,7 @@
   },
   {
     "name": "Homicide Hunter",
-    "tvg_id": "HomicideHunter.us",
+    "tvg_id": "HomicideHunter.us@UK",
     "logo": "https://i.imgur.com/ZSnATs0.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8"
@@ -29191,7 +29261,7 @@
   },
   {
     "name": "iCarly",
-    "tvg_id": "iCarly.us",
+    "tvg_id": "iCarly.us@East",
     "logo": "https://i.imgur.com/R6jWcqz.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8"
@@ -29590,13 +29660,13 @@
   },
   {
     "name": "Il Banco dei Pugni",
-    "tvg_id": "IlBancodeiPugni.us",
+    "tvg_id": "IlBancodeiPugni.us@Italy",
     "logo": "https://i.imgur.com/NZDUlME.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8"
   },
   {
-    "name": "Il Sole24Ore TV",
+    "name": "Il Sole24Ore TV (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -29639,7 +29709,7 @@
   },
   {
     "name": "Imagen TV+ (720p)",
-    "tvg_id": "ImagenTV.mx",
+    "tvg_id": "ImagenTV.mx@SD",
     "logo": "https://i.imgur.com/lKrRvtS.png",
     "category": "General",
     "url": "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8"
@@ -29828,7 +29898,7 @@
   },
   {
     "name": "Inazuma Eleven",
-    "tvg_id": "InazumaEleven.us",
+    "tvg_id": "InazumaEleven.us@France",
     "logo": "https://i.imgur.com/pLv0T3D.png",
     "category": "Kids;Series",
     "url": "https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8"
@@ -30087,7 +30157,7 @@
   },
   {
     "name": "Ink Master",
-    "tvg_id": "InkMaster.us",
+    "tvg_id": "InkMaster.us@SD",
     "logo": "https://i.imgur.com/DiBojYh.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8"
@@ -30150,7 +30220,7 @@
   },
   {
     "name": "Instant Saga",
-    "tvg_id": "InstantSaga.us",
+    "tvg_id": "InstantSaga.us@US",
     "logo": "https://i.imgur.com/PMpwaQN.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8"
@@ -30170,6 +30240,20 @@
     "url": "https://amg27604-amg27604c1-amgplt0002.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0002/playlist.m3u8"
   },
   {
+    "name": "Inter 24/7 (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
+    "url": "https://jmp2.uk/plu-691ed76a9c828fb484f7c2e5.m3u8"
+  },
+  {
+    "name": "Inter 24/7 (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
+    "url": "https://jmp2.uk/plu-691ed77b1308fa77bb2d5562.m3u8"
+  },
+  {
     "name": "Inter 24/7",
     "tvg_id": "",
     "logo": "",
@@ -30182,20 +30266,6 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8"
-  },
-  {
-    "name": "Inter 24/7",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-691ed76a9c828fb484f7c2e5.m3u8"
-  },
-  {
-    "name": "Inter 24/7",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-691ed77b1308fa77bb2d5562.m3u8"
   },
   {
     "name": "Inter+ (720p)",
@@ -30542,7 +30612,7 @@
   },
   {
     "name": "Iron Chef",
-    "tvg_id": "IronChef.us",
+    "tvg_id": "IronChef.us@US",
     "logo": "https://i.imgur.com/rk7fMNe.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8"
@@ -31266,7 +31336,7 @@
     "tvg_id": "JeddahRadio.sa@SD",
     "logo": "https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png",
     "category": "Music",
-    "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8"
+    "url": "https://aloula-redirect.vercel.app/15/playlist.m3u8"
   },
   {
     "name": "Jednotka STV1 (720p) [Not 24/7]",
@@ -31298,7 +31368,7 @@
   },
   {
     "name": "Jersey Shore",
-    "tvg_id": "JerseyShore.us",
+    "tvg_id": "JerseyShore.us@SD",
     "logo": "https://i.imgur.com/SssCaj1.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8"
@@ -32621,7 +32691,7 @@
   },
   {
     "name": "Kenan y Kel",
-    "tvg_id": "PlutoTVKenanyKel.us",
+    "tvg_id": "PlutoTVKenanyKel.us@SD",
     "logo": "https://i.imgur.com/9PAY5Xz.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8"
@@ -32831,7 +32901,7 @@
   },
   {
     "name": "Kids Movie Club",
-    "tvg_id": "KidsMovieClub.us",
+    "tvg_id": "KidsMovieClub.us@SD",
     "logo": "https://i.imgur.com/avFk0Tt.png",
     "category": "Kids;Movies",
     "url": "https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8"
@@ -33856,14 +33926,14 @@
     "tvg_id": "La1.es@ComunitatValenciana",
     "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
     "category": "General;Public",
-    "url": "http://92.176.119.180:2095/play/a16x"
+    "url": "http://92.176.119.180:2095/play/a1f8"
   },
   {
     "name": "La 2 (1080p)",
     "tvg_id": "La2.es@SD",
     "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
     "category": "General;Public",
-    "url": "http://92.176.119.180:2095/play/a16y"
+    "url": "http://92.176.119.180:2095/play/a1fb"
   },
   {
     "name": "La 2 Canarias (720p)",
@@ -33898,7 +33968,7 @@
     "tvg_id": "La8Mediterraneo.es@SD",
     "logo": "https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png",
     "category": "General",
-    "url": "http://92.176.119.180:2095/play/a17e"
+    "url": "http://92.176.119.180:2095/play/a1ft"
   },
   {
     "name": "La 98.1 TV (720p) [Not 24/7]",
@@ -34101,7 +34171,7 @@
     "tvg_id": "LaSexta.es@SD",
     "logo": "https://i.imgur.com/aKV5voq.png",
     "category": "Entertainment",
-    "url": "http://92.176.119.180:2095/play/a16l"
+    "url": "http://92.176.119.180:2095/play/a1ef"
   },
   {
     "name": "La Sultana del Este TV (720p) [Not 24/7]",
@@ -34399,7 +34469,7 @@
   },
   {
     "name": "Las Tortugas Ninja (720p)",
-    "tvg_id": "LasTortugasNinja.us",
+    "tvg_id": "LasTortugasNinja.us@Spain",
     "logo": "https://i.imgur.com/urJdNc9.png",
     "category": "Animation",
     "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
@@ -34454,7 +34524,7 @@
     "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8"
   },
   {
-    "name": "Latina Clasicos",
+    "name": "Latina Clasicos (1080p)",
     "tvg_id": "LatinaClasicos.pe@SD",
     "logo": "https://i.imgur.com/q0dAWyj.png",
     "category": "Series",
@@ -34623,14 +34693,14 @@
   },
   {
     "name": "Le miracle de l'amour",
-    "tvg_id": "Lemiracledelamour.us",
+    "tvg_id": "Lemiracledelamour.us@France",
     "logo": "https://i.imgur.com/3Xz4hjD.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8"
   },
   {
     "name": "Le sorelle McLeod",
-    "tvg_id": "LesorelleMcLeod.us",
+    "tvg_id": "LesorelleMcLeod.us@Italy",
     "logo": "https://i.imgur.com/OkGiH9a.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8"
@@ -34812,14 +34882,14 @@
   },
   {
     "name": "Les Années fac",
-    "tvg_id": "LesAnneesfac.us",
+    "tvg_id": "LesAnneesfac.us@France",
     "logo": "https://i.imgur.com/M1OjaB0.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8"
   },
   {
     "name": "Les filles d'à côté",
-    "tvg_id": "Lesfillesdacote.us",
+    "tvg_id": "Lesfillesdacote.us@France",
     "logo": "https://i.imgur.com/dxipSaQ.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8"
@@ -34833,7 +34903,7 @@
   },
   {
     "name": "Les Nouveaux Detectives",
-    "tvg_id": "LesNouveauxDetectives.us",
+    "tvg_id": "LesNouveauxDetectives.us@France",
     "logo": "https://i.imgur.com/ego8ozn.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8"
@@ -35560,6 +35630,13 @@
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8"
   },
   {
+    "name": "Lollywood HD TV",
+    "tvg_id": "LollywoodHDTV.cd@SD",
+    "logo": "https://i.imgur.com/fQhrsdr.png",
+    "category": "Movies",
+    "url": "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8"
+  },
+  {
     "name": "Lolwe TV (576p) [Not 24/7]",
     "tvg_id": "LolweTV.ke@SD",
     "logo": "https://i.imgur.com/tjZ1cOP.png",
@@ -35659,14 +35736,14 @@
   },
   {
     "name": "Los archivos del FBI",
-    "tvg_id": "LosarchivosdelFBI.us",
+    "tvg_id": "LosarchivosdelFBI.us@Spain",
     "logo": "https://i.imgur.com/eDCdJO2.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8"
   },
   {
     "name": "Los Asesinatos de Midsomer",
-    "tvg_id": "LosAsesinatosdeMidsomer.us",
+    "tvg_id": "LosAsesinatosdeMidsomer.us@Spain",
     "logo": "https://i.imgur.com/JIbupT1.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8"
@@ -35701,7 +35778,7 @@
   },
   {
     "name": "Los nuevos detectives",
-    "tvg_id": "PlutoTVLosnuevosdetectives.us",
+    "tvg_id": "PlutoTVLosnuevosdetectives.us@SD",
     "logo": "https://i.imgur.com/Iru8tqj.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8"
@@ -35764,7 +35841,7 @@
   },
   {
     "name": "Louis La Brocante",
-    "tvg_id": "LouisLaBrocante.us",
+    "tvg_id": "LouisLaBrocante.us@France",
     "logo": "https://i.imgur.com/I1w7rFb.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8"
@@ -36079,7 +36156,7 @@
   },
   {
     "name": "Lucha Libre AAA",
-    "tvg_id": "LuchaLibreAAA.us",
+    "tvg_id": "LuchaLibreAAA.us@SD",
     "logo": "https://i.imgur.com/Nc7K060.png",
     "category": "Sports",
     "url": "https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8"
@@ -37066,7 +37143,7 @@
   },
   {
     "name": "Married... with Children",
-    "tvg_id": "MarriedwithChildren.us",
+    "tvg_id": "MarriedwithChildren.us@UK",
     "logo": "https://i.imgur.com/L9Epmtf.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8"
@@ -37084,6 +37161,13 @@
     "logo": "https://i.imgur.com/7VzlbLp.png",
     "category": "Legislative",
     "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
+  },
+  {
+    "name": "Mas23 TV",
+    "tvg_id": "Mas23TV.pa@SD",
+    "logo": "https://i.imgur.com/y0h8dlX.png",
+    "category": "Music",
+    "url": "https://movil.ejeserver.com/live/mas23tv.m3u8"
   },
   {
     "name": "Más adrenalina",
@@ -37255,7 +37339,7 @@
   },
   {
     "name": "Matlock",
-    "tvg_id": "Matlock.us",
+    "tvg_id": "Matlock.us@SD",
     "logo": "https://i.imgur.com/BGFUQsu.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8"
@@ -37926,6 +38010,13 @@
     "url": "http://54.36.110.140/live3/live3.m3u8"
   },
   {
+    "name": "Medeniyyet TV",
+    "tvg_id": "MedeniyyetTV.az@SD",
+    "logo": "https://i.imgur.com/PlvaDIa.png",
+    "category": "Culture",
+    "url": "https://str.yodacdn.net/medeniyyettele/index.m3u8"
+  },
+  {
     "name": "Medi1TV Afrique (1080p)",
     "tvg_id": "Medi1TVAfrique.ma@SD",
     "logo": "https://i.imgur.com/a20DHnj.png",
@@ -38091,7 +38182,7 @@
     "tvg_id": "Mega.es@SD",
     "logo": "https://i.imgur.com/Udrt2eK.png",
     "category": "Entertainment",
-    "url": "http://92.176.119.180:2095/play/a178"
+    "url": "http://92.176.119.180:2095/play/a1ei"
   },
   {
     "name": "Mega Cine TV (1080p)",
@@ -38157,6 +38248,13 @@
     "url": "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8"
   },
   {
+    "name": "MEGOGO Sport [Geo-blocked]",
+    "tvg_id": "MEGOGOSport.ua@SD",
+    "logo": "https://i.imgur.com/5JmT4mW.png",
+    "category": "Sports",
+    "url": "http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8"
+  },
+  {
     "name": "Mehran TV (576p)",
     "tvg_id": "MehranTV.pk@SD",
     "logo": "https://i.imgur.com/ma2bFXk.png",
@@ -38193,7 +38291,7 @@
   },
   {
     "name": "Melrose Place",
-    "tvg_id": "PlutoTVMelrosePlace.us",
+    "tvg_id": "PlutoTVMelrosePlace.us@Spain",
     "logo": "https://i.imgur.com/hXDj0fV.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8"
@@ -38557,7 +38655,7 @@
   },
   {
     "name": "Mi Extraña Obsesión",
-    "tvg_id": "MiExtranaObsesion.us",
+    "tvg_id": "MiExtranaObsesion.us@Spain",
     "logo": "https://i.imgur.com/VtxO6KI.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8"
@@ -38739,7 +38837,7 @@
   },
   {
     "name": "Milenio Televisión (720p)",
-    "tvg_id": "MilenioTelevision.mx",
+    "tvg_id": "MilenioTelevision.mx@SD",
     "logo": "https://i.imgur.com/TG1T5Oh.png",
     "category": "News",
     "url": "https://jmp2.uk/plu-652e922db4b047000825f975.m3u8"
@@ -38858,7 +38956,7 @@
   },
   {
     "name": "Minuto Para Ganar",
-    "tvg_id": "PlutoTVMinutoParaGanar.us",
+    "tvg_id": "PlutoTVMinutoParaGanar.us@SD",
     "logo": "https://i.imgur.com/go5o1gB.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8"
@@ -38963,7 +39061,7 @@
   },
   {
     "name": "Mission Impossible",
-    "tvg_id": "MissionImpossible.us",
+    "tvg_id": "MissionImpossible.us@SD",
     "logo": "https://i.imgur.com/QS5lg0t.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8"
@@ -38991,7 +39089,7 @@
   },
   {
     "name": "Misterios Medicos",
-    "tvg_id": "PlutoTVMisteriosMedicos.us",
+    "tvg_id": "PlutoTVMisteriosMedicos.us@SD",
     "logo": "https://i.imgur.com/1WDFKF0.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8"
@@ -39005,7 +39103,7 @@
   },
   {
     "name": "Misterios sin Resolver",
-    "tvg_id": "Misteriossinresolver.us",
+    "tvg_id": "Misteriossinresolver.us@SD",
     "logo": "https://i.imgur.com/8mnvubb.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8"
@@ -39544,13 +39642,13 @@
   },
   {
     "name": "Monster Jam (720p)",
-    "tvg_id": "MonsterJam.pl",
+    "tvg_id": "MonsterJam.pl@SD",
     "logo": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8"
   },
   {
-    "name": "Monstruos de Rio",
+    "name": "Monstruos de Rio (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -40279,7 +40377,7 @@
   },
   {
     "name": "MTV Are you the One?",
-    "tvg_id": "MTVAreyoutheOne.us",
+    "tvg_id": "MTVAreyoutheOne.us@Brazil",
     "logo": "https://i.imgur.com/kMB42wV.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8"
@@ -40300,10 +40398,10 @@
   },
   {
     "name": "MTV Biggest Pop (1080p)",
-    "tvg_id": "MTVBiggestPop.us",
+    "tvg_id": "MTVBiggestPop.us@US",
     "logo": "https://i.imgur.com/AOaZmlS.png",
     "category": "Music",
-    "url": "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8"
+    "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
   },
   {
     "name": "MTV Catfish (720p)",
@@ -40355,13 +40453,6 @@
     "url": "https://altair.hostingnica.net/hls/mtv_stream/index.m3u8"
   },
   {
-    "name": "MTV Classic (720p)",
-    "tvg_id": "MTVClassic.au",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/MTV_Classic_2021.svg",
-    "category": "Music",
-    "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
-  },
-  {
     "name": "MTV CLASSICS",
     "tvg_id": "",
     "logo": "",
@@ -40391,14 +40482,14 @@
   },
   {
     "name": "MTV Dating (720p)",
-    "tvg_id": "MTVDating.us",
+    "tvg_id": "MTVDating.us@US",
     "logo": "https://i.imgur.com/dD7WbQC.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8"
   },
   {
     "name": "MTV Embarazada a los 16",
-    "tvg_id": "MTVEmbarazadaalos16.us",
+    "tvg_id": "MTVEmbarazadaalos16.us@Spain",
     "logo": "https://i.imgur.com/FumEFIG.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8"
@@ -40467,7 +40558,7 @@
     "url": "https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8"
   },
   {
-    "name": "MTV Jovens e Mães",
+    "name": "MTV Jovens e Mães (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -40489,14 +40580,14 @@
   },
   {
     "name": "MTV Originals",
-    "tvg_id": "MTVOriginals.us",
+    "tvg_id": "MTVOriginals.us@Spain",
     "logo": "https://i.imgur.com/qWf8Zku.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8"
   },
   {
     "name": "MTV Pluto TV",
-    "tvg_id": "MTV.au",
+    "tvg_id": "MTV.au@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8"
@@ -40555,6 +40646,13 @@
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
+    "url": "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8"
+  },
+  {
+    "name": "MTV Reality (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
     "url": "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8"
   },
   {
@@ -40569,18 +40667,11 @@
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8"
-  },
-  {
-    "name": "MTV Reality",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
     "url": "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8"
   },
   {
     "name": "MTV Ridiculousness (720p)",
-    "tvg_id": "MTVRidiculousness.us",
+    "tvg_id": "MTVRidiculousness.us@Germany",
     "logo": "https://i.imgur.com/GIKkbjT.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8"
@@ -40622,7 +40713,7 @@
   },
   {
     "name": "MTV Spankin’ New (1080p)",
-    "tvg_id": "MTVSpankinNew.us",
+    "tvg_id": "MTVSpankinNew.us@US",
     "logo": "https://i.imgur.com/thbvJd1.png",
     "category": "Music",
     "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
@@ -40636,7 +40727,7 @@
   },
   {
     "name": "MTV Tattoo a dos",
-    "tvg_id": "MTVTattooados.us",
+    "tvg_id": "MTVTattooados.us@Spain",
     "logo": "https://i.imgur.com/VisA1sY.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8"
@@ -41325,7 +41416,7 @@
     "tvg_id": "Nanduti.py@SD",
     "logo": "https://i.imgur.com/vnIkhRO.png",
     "category": "News",
-    "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8"
+    "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8"
   },
   {
     "name": "Naranja TV (720p)",
@@ -41385,7 +41476,7 @@
   },
   {
     "name": "Naruto Shippuden",
-    "tvg_id": "NarutoShippuden.us",
+    "tvg_id": "NarutoShippuden.us@LatAm",
     "logo": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
     "category": "Animation",
     "url": "https://jmp2.uk/plu-64c92f965580090008084968.m3u8"
@@ -41413,7 +41504,7 @@
   },
   {
     "name": "Nash Bridges Channel (1080p) [Geo-blocked]",
-    "tvg_id": "NashBridges.us",
+    "tvg_id": "NashBridges.us@SD",
     "logo": "https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png",
     "category": "Series",
     "url": "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
@@ -41636,7 +41727,7 @@
     "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8"
   },
   {
-    "name": "NatureTime",
+    "name": "NatureTime (684p)",
     "tvg_id": "NatureTime.ca@LATAM",
     "logo": "https://i.imgur.com/72JmyjM.png",
     "category": "Documentary",
@@ -41690,6 +41781,13 @@
     "logo": "https://i.imgur.com/qa4VlYh.png",
     "category": "General",
     "url": "https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Naxcivan TV (720p)",
+    "tvg_id": "NaxcivanTV.az@SD",
+    "logo": "https://i.imgur.com/8yLFkdE.png",
+    "category": "General",
+    "url": "https://str2.yodacdn.net/ntv/video.m3u8"
   },
   {
     "name": "Nayarit Comunica (1080p)",
@@ -41895,7 +41993,7 @@
     "url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8"
   },
   {
-    "name": "NBC Los Angeles News",
+    "name": "NBC Los Angeles News (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -42228,7 +42326,7 @@
     "tvg_id": "Neox.es@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
     "category": "Entertainment",
-    "url": "http://92.176.119.180:2095/play/a16n"
+    "url": "http://92.176.119.180:2095/play/a1eg"
   },
   {
     "name": "Nepal 1 (396p)",
@@ -42319,7 +42417,7 @@
     "tvg_id": "NEWKMOVIES.us@SD",
     "logo": "https://i.imgur.com/wCgirjc.png",
     "category": "Movies",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK"
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus"
   },
   {
     "name": "NEW KPOP (1080p)",
@@ -42333,7 +42431,7 @@
     "tvg_id": "NEWKPOP.us@SD",
     "logo": "https://i.imgur.com/B7ILXMc.png",
     "category": "Music",
-    "url": "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_086&ads.service_id=GB17000088V"
+    "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus"
   },
   {
     "name": "New Tricks",
@@ -42784,6 +42882,13 @@
     "url": "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8"
   },
   {
+    "name": "Nex TV Canal 21",
+    "tvg_id": "NexTVCanal21.pa@SD",
+    "logo": "https://i.imgur.com/QQBd052.png",
+    "category": "General",
+    "url": "https://movil.ejeserver.com/live/nextv.m3u8"
+  },
+  {
     "name": "Next HD (480p)",
     "tvg_id": "NextHD.py@SD",
     "logo": "https://i.imgur.com/c2rF3SS.png",
@@ -42918,7 +43023,7 @@
   },
   {
     "name": "Nick Jr. Club (720p)",
-    "tvg_id": "NickJrClub.us",
+    "tvg_id": "NickJrClub.us@Brazil",
     "logo": "https://i.imgur.com/GCenuyl.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8"
@@ -43051,10 +43156,17 @@
   },
   {
     "name": "Nickelodeon Teen (720p)",
-    "tvg_id": "NickelodeonTeen.fr",
+    "tvg_id": "NickelodeonTeen.fr@SD",
     "logo": "https://i.imgur.com/OWRUPA4.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8"
+  },
+  {
+    "name": "Nickelodeon Toons (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
+    "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
   },
   {
     "name": "Nickelodeon Toons (720p)",
@@ -43071,13 +43183,6 @@
     "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8"
   },
   {
-    "name": "Nickelodeon Toons",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
-  },
-  {
     "name": "NickOnline (576p)",
     "tvg_id": "NickOnline.br@SD",
     "logo": "https://x1co.com.br/logo.png",
@@ -43086,7 +43191,7 @@
   },
   {
     "name": "NickToons",
-    "tvg_id": "Nicktoons.ca",
+    "tvg_id": "Nicktoons.ca@FAST",
     "logo": "https://i.ibb.co/ZpmVmC3G/IMG-0291.jpg",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8"
@@ -43107,7 +43212,7 @@
   },
   {
     "name": "NickWeb (720p)",
-    "tvg_id": "NickWeb.br",
+    "tvg_id": "NickWeb.br@SD",
     "logo": "https://i.ibb.co/Qvxbvk9B/20260422-174151.png",
     "category": "Animation;Kids",
     "url": "https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8"
@@ -43124,7 +43229,7 @@
     "tvg_id": "NidaeAlIslamRadio.sa@SD",
     "logo": "https://aloula.faulio.com/storage/mediagallery/0f/c5/fullhd_5da380cdfc304fd7d4672a83aeb6c62bc1d3d3e8.png",
     "category": "Music",
-    "url": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8"
+    "url": "https://aloula-redirect.vercel.app/14/playlist.m3u8"
   },
   {
     "name": "Niederbayern TV (720p)",
@@ -43167,6 +43272,20 @@
     "logo": "",
     "category": "Culture",
     "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/ELXULYQ68MHDUFJXLJCP/hls3/now,-1m/m.m3u8?ads.vf=DcM9DUpIwqO"
+  },
+  {
+    "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Niki Junior (1080p)",
+    "tvg_id": "NikiJunior.ua@SD",
+    "logo": "https://i.imgur.com/DrHsNin.png",
+    "category": "Kids",
+    "url": "https://iptv.prosto.tv/ch72/index.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Kids\",Niki Kids (1080p)",
+    "tvg_id": "NikiKids.ua@SD",
+    "logo": "https://i.imgur.com/HH4HZ2J.png",
+    "category": "Kids",
+    "url": "https://iptv.prosto.tv/ch71/index.m3u8"
   },
   {
     "name": "Nim TV (720p) [Not 24/7]",
@@ -43421,7 +43540,7 @@
     "url": "https://videohd.live:19360/8076/8076.m3u8"
   },
   {
-    "name": "Norteña TV",
+    "name": "Norteña TV (576p)",
     "tvg_id": "NortenaTv.ve@HD",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
     "category": "Entertainment",
@@ -43628,7 +43747,7 @@
     "tvg_id": "Nova.es@SD",
     "logo": "https://i.imgur.com/Vx1F4o5.png",
     "category": "Lifestyle",
-    "url": "http://92.176.119.180:2095/play/a16o"
+    "url": "http://92.176.119.180:2095/play/a1eh"
   },
   {
     "name": "Nova (1080p)",
@@ -44062,7 +44181,7 @@
     "tvg_id": "NTV.ru@HD",
     "logo": "https://i.imgur.com/9r1BKzK.png",
     "category": "General",
-    "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=HSWg81JrQ3OqmwuWkEIDAQ&e=2077050299&scheme=https"
+    "url": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https"
   },
   {
     "name": "NTV IC Kakanj (720p)",
@@ -45025,7 +45144,7 @@
   },
   {
     "name": "On the Case",
-    "tvg_id": "OnTheCase.us",
+    "tvg_id": "OnTheCase.us@UK",
     "logo": "https://i.imgur.com/TAmVjUL.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8"
@@ -45221,7 +45340,7 @@
   },
   {
     "name": "One Piece",
-    "tvg_id": "OnePiece.us",
+    "tvg_id": "OnePiece.us@US",
     "logo": "https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png",
     "category": "Animation",
     "url": "https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8"
@@ -46614,7 +46733,7 @@
   },
   {
     "name": "Perry Mason",
-    "tvg_id": "PerryMason.us",
+    "tvg_id": "PerryMason.us@SD",
     "logo": "https://i.imgur.com/rHUUAwW.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8"
@@ -46803,10 +46922,10 @@
   },
   {
     "name": "PFL MMA (720p)",
-    "tvg_id": "PFLMMA.pl",
+    "tvg_id": "PFLMMA.pl@SD",
     "logo": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8"
+    "url": "https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8"
   },
   {
     "name": "PGA Tour (1080p)",
@@ -46915,7 +47034,7 @@
   },
   {
     "name": "Pimp My Ride",
-    "tvg_id": "PimpmyRide.us",
+    "tvg_id": "PimpmyRide.us@UK",
     "logo": "https://i.imgur.com/n9bK6f2.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8"
@@ -46964,10 +47083,10 @@
   },
   {
     "name": "Pixel.tv (720p)",
-    "tvg_id": "PixelTV.pl",
+    "tvg_id": "PixelTV.pl@HD",
     "logo": "https://i.ibb.co/S4jM2WXk/pixeltv.png",
     "category": "Animation;Kids",
-    "url": "https://jmp2.uk/plu-66bb36e03a4ad200082bb8fe.m3u8"
+    "url": "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8"
   },
   {
     "name": "PixL TV",
@@ -47272,7 +47391,7 @@
   },
   {
     "name": "Pluto TV Action",
-    "tvg_id": "PlutoTVAction.us",
+    "tvg_id": "PlutoTVAction.us@US",
     "logo": "https://i.imgur.com/tDapGal.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-65004605110545000842035d.m3u8"
@@ -47356,7 +47475,7 @@
   },
   {
     "name": "Pluto TV Animales",
-    "tvg_id": "PlutoTVAnimales.us",
+    "tvg_id": "PlutoTVAnimales.us@Spain",
     "logo": "https://i.imgur.com/P2jEmG1.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8"
@@ -47384,7 +47503,7 @@
   },
   {
     "name": "Pluto TV Animaux",
-    "tvg_id": "PlutoTVAnimaux.us",
+    "tvg_id": "PlutoTVAnimaux.us@France",
     "logo": "https://i.imgur.com/jxYlLsd.png",
     "category": "Travel",
     "url": "https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8"
@@ -47461,7 +47580,7 @@
   },
   {
     "name": "Pluto TV Aventura",
-    "tvg_id": "PlutoTVAventura.us",
+    "tvg_id": "PlutoTVAventura.us@SD",
     "logo": "https://i.imgur.com/ae5cMo9.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8"
@@ -47517,7 +47636,7 @@
   },
   {
     "name": "Pluto TV British Comedy",
-    "tvg_id": "BritishComedy.us",
+    "tvg_id": "BritishComedy.us@SD",
     "logo": "https://i.imgur.com/LlwoR74.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8"
@@ -47580,7 +47699,7 @@
   },
   {
     "name": "Pluto TV Cars",
-    "tvg_id": "PlutoTVCars.us",
+    "tvg_id": "PlutoTVCars.us@SD",
     "logo": "https://i.imgur.com/Tm3VFmq.png",
     "category": "Auto",
     "url": "https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8"
@@ -47601,14 +47720,14 @@
   },
   {
     "name": "Pluto TV Cine Acción",
-    "tvg_id": "PlutoTVCineAccion.us",
+    "tvg_id": "PlutoTVCineAccion.us@US",
     "logo": "https://i.imgur.com/PXhCzXn.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8"
   },
   {
     "name": "Pluto TV Cine Clásico",
-    "tvg_id": "PlutoTVCineClasico.us",
+    "tvg_id": "PlutoTVCineClasico.us@US",
     "logo": "https://i.imgur.com/hCA5BRr.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
@@ -47622,7 +47741,7 @@
   },
   {
     "name": "Pluto TV Cine Comédia",
-    "tvg_id": "PlutoTVCineComedia.us",
+    "tvg_id": "PlutoTVCineComedia.us@Spain",
     "logo": "https://i.imgur.com/1H1MHb2.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8"
@@ -47664,7 +47783,7 @@
   },
   {
     "name": "Pluto TV Cine Drama",
-    "tvg_id": "PlutoTVCineDrama.us",
+    "tvg_id": "PlutoTVCineDrama.us@US",
     "logo": "https://i.imgur.com/AQBtheU.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8"
@@ -47678,7 +47797,7 @@
   },
   {
     "name": "Pluto TV Cine Estelar",
-    "tvg_id": "PlutoTVCineEstelar.us",
+    "tvg_id": "PlutoTVCineEstelar.us@US",
     "logo": "https://i.imgur.com/v3BO4nW.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8"
@@ -47713,7 +47832,7 @@
   },
   {
     "name": "Pluto TV Cine Romántico",
-    "tvg_id": "PlutoTVCineRomantico.us",
+    "tvg_id": "PlutoTVCineRomantico.us@Spain",
     "logo": "https://i.imgur.com/jh9Ycq3.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8"
@@ -47727,7 +47846,7 @@
   },
   {
     "name": "Pluto TV Cine Suspenso",
-    "tvg_id": "PlutoTVCineSuspenso.us",
+    "tvg_id": "PlutoTVCineSuspenso.us@SD",
     "logo": "https://i.imgur.com/GnUmEZn.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8"
@@ -47748,7 +47867,7 @@
   },
   {
     "name": "Pluto TV Cinema Italiano",
-    "tvg_id": "PlutoTVCinemaItaliano.us",
+    "tvg_id": "PlutoTVCinemaItaliano.us@Italy",
     "logo": "https://i.imgur.com/w3lUi4t.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8"
@@ -47769,7 +47888,7 @@
   },
   {
     "name": "Pluto TV Classic TV Families",
-    "tvg_id": "ClassicTVFamilies.us",
+    "tvg_id": "ClassicTVFamilies.us@SD",
     "logo": "https://i.imgur.com/llAZ49f.png",
     "category": "Classic",
     "url": "https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8"
@@ -47783,14 +47902,14 @@
   },
   {
     "name": "Pluto TV Cocina",
-    "tvg_id": "PlutoTVCocina.us",
+    "tvg_id": "PlutoTVCocina.us@Spain",
     "logo": "https://i.imgur.com/LRtfQla.png",
     "category": "Cooking",
     "url": "https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8"
   },
   {
     "name": "Pluto TV Comedia made in Spain",
-    "tvg_id": "ComediaMadeinSpain.us",
+    "tvg_id": "ComediaMadeinSpain.us@SD",
     "logo": "https://i.imgur.com/8ddFdSQ.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8"
@@ -47804,7 +47923,7 @@
   },
   {
     "name": "Pluto TV Comédie",
-    "tvg_id": "PlutoTVComedie.us",
+    "tvg_id": "PlutoTVComedie.us@France",
     "logo": "https://i.imgur.com/1e4IFrS.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8"
@@ -47839,7 +47958,7 @@
   },
   {
     "name": "Pluto TV Comedy Movies",
-    "tvg_id": "ComedyMovies.es",
+    "tvg_id": "ComedyMovies.es@SD",
     "logo": "https://i.imgur.com/BpsDY37.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8"
@@ -47853,7 +47972,7 @@
   },
   {
     "name": "Pluto TV Competencias",
-    "tvg_id": "PlutoTVCompetencias.us",
+    "tvg_id": "PlutoTVCompetencias.us@SD",
     "logo": "https://i.imgur.com/VNa7HX6.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8"
@@ -47895,7 +48014,7 @@
   },
   {
     "name": "Pluto TV Crime Drama",
-    "tvg_id": "PlutoTVCrimeDrama.us",
+    "tvg_id": "PlutoTVCrimeDrama.us@SD",
     "logo": "https://i.imgur.com/9j1njE3.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8"
@@ -47909,14 +48028,14 @@
   },
   {
     "name": "Pluto TV Cucina",
-    "tvg_id": "PlutoTVCucina.us",
+    "tvg_id": "PlutoTVCucina.us@Italy",
     "logo": "https://i.imgur.com/cwkrxcS.png",
     "category": "Lifestyle",
     "url": "https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8"
   },
   {
     "name": "Pluto TV Cuisine",
-    "tvg_id": "PlutoTVCuisine.us",
+    "tvg_id": "PlutoTVCuisine.us@France",
     "logo": "https://i.imgur.com/OuAi5ef.png",
     "category": "Lifestyle",
     "url": "https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8"
@@ -47958,14 +48077,14 @@
   },
   {
     "name": "Pluto TV Dating (720p)",
-    "tvg_id": "Dating.us",
+    "tvg_id": "Dating.us@Italy",
     "logo": "https://i.imgur.com/VXaiLtt.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8"
   },
   {
     "name": "Pluto TV Deportes",
-    "tvg_id": "PlutoTVDeportes.us",
+    "tvg_id": "PlutoTVDeportes.us@SD",
     "logo": "https://i.imgur.com/0pDy6f4.png",
     "category": "Sports",
     "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8"
@@ -48000,14 +48119,14 @@
   },
   {
     "name": "Pluto TV Documentales",
-    "tvg_id": "PlutoTVDocumentales.us",
+    "tvg_id": "PlutoTVDocumentales.us@Spain",
     "logo": "https://i.imgur.com/xaiWDjK.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8"
   },
   {
     "name": "Pluto TV Documentari",
-    "tvg_id": "PlutoTVDocumentari.us",
+    "tvg_id": "PlutoTVDocumentari.us@Italy",
     "logo": "https://i.imgur.com/o7KVAIH.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8"
@@ -48098,7 +48217,7 @@
   },
   {
     "name": "Pluto TV Estilo de Vida",
-    "tvg_id": "PlutoTVEstilodeVida.us",
+    "tvg_id": "PlutoTVEstilodeVida.us@Brazil",
     "logo": "https://i.imgur.com/SNfys9r.png",
     "category": "Lifestyle",
     "url": "https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8"
@@ -48154,7 +48273,7 @@
   },
   {
     "name": "Pluto TV Film",
-    "tvg_id": "PlutoTVFilm.us",
+    "tvg_id": "PlutoTVFilm.us@Italy",
     "logo": "https://i.imgur.com/aZverZQ.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8"
@@ -48168,21 +48287,21 @@
   },
   {
     "name": "Pluto TV Film Azione",
-    "tvg_id": "PlutoTVFilmAzione.us",
+    "tvg_id": "PlutoTVFilmAzione.us@Italy",
     "logo": "https://i.imgur.com/aQ18r9x.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8"
   },
   {
     "name": "Pluto TV Film Commedia",
-    "tvg_id": "PlutoTVFilmCommedia.us",
+    "tvg_id": "PlutoTVFilmCommedia.us@Italy",
     "logo": "https://i.imgur.com/ADNrqKM.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8"
   },
   {
     "name": "Pluto TV Film Romantici",
-    "tvg_id": "PlutoTVFilmRomantici.us",
+    "tvg_id": "PlutoTVFilmRomantici.us@Italy",
     "logo": "https://i.imgur.com/LAvRDve.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8"
@@ -48196,7 +48315,7 @@
   },
   {
     "name": "Pluto TV Film Thriller",
-    "tvg_id": "PlutoTVFilmThriller.us",
+    "tvg_id": "PlutoTVFilmThriller.us@Italy",
     "logo": "https://i.imgur.com/3SWPIek.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8"
@@ -48231,7 +48350,7 @@
   },
   {
     "name": "Pluto TV Fishing",
-    "tvg_id": "PlutoTVFishing.us",
+    "tvg_id": "PlutoTVFishing.us@US",
     "logo": "https://i.imgur.com/ZaHOk8j.png",
     "category": "Outdoor",
     "url": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8"
@@ -48259,7 +48378,7 @@
   },
   {
     "name": "Pluto TV Forever Kids",
-    "tvg_id": "ForeverKids.us",
+    "tvg_id": "ForeverKids.us@SD",
     "logo": "https://i.imgur.com/deeQqYZ.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8"
@@ -48391,18 +48510,18 @@
     "url": "https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8"
   },
   {
-    "name": "Pluto TV Histoire",
-    "tvg_id": "HistoireTV.fr",
-    "logo": "https://i.imgur.com/hxuJXll.png",
-    "category": "Documentary",
+    "name": "Pluto TV Histoire (720p)",
+    "tvg_id": "PlutoTVHistoire.us@France",
+    "logo": "https://i.imgur.com/JE5xcCV.png",
+    "category": "Travel",
     "url": "https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8"
   },
   {
-    "name": "Pluto TV História",
-    "tvg_id": "PlutoTVHistoria.us",
+    "name": "Pluto TV Historia (720p)",
+    "tvg_id": "PlutoTVHistoria.us@SD",
     "logo": "https://i.imgur.com/sgAfqzK.png",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
+    "url": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
   },
   {
     "name": "Pluto TV Historische Serien",
@@ -48476,7 +48595,7 @@
   },
   {
     "name": "Pluto TV Horror",
-    "tvg_id": "PlutoTVHorror.us",
+    "tvg_id": "PlutoTVHorror.us@US",
     "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8"
@@ -48490,7 +48609,7 @@
   },
   {
     "name": "Pluto TV Humor",
-    "tvg_id": "PlutoTVHumor.us",
+    "tvg_id": "PlutoTVHumor.us@SD",
     "logo": "https://i.imgur.com/F7CWMB0.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8"
@@ -48511,7 +48630,7 @@
   },
   {
     "name": "Pluto TV Inside",
-    "tvg_id": "PlutoTVInside.us",
+    "tvg_id": "PlutoTVInside.us@Germany",
     "logo": "https://i.imgur.com/Tb4GNml.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8"
@@ -48525,7 +48644,7 @@
   },
   {
     "name": "Pluto TV Investiga",
-    "tvg_id": "Investiga.us",
+    "tvg_id": "Investiga.us@SD",
     "logo": "https://i.imgur.com/Sb5adD7.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8"
@@ -48588,7 +48707,7 @@
   },
   {
     "name": "Pluto TV Junior (720p)",
-    "tvg_id": "PlutoTVJunior.us",
+    "tvg_id": "PlutoTVJunior.us@Spain",
     "logo": "https://i.imgur.com/7sApMZS.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8"
@@ -48643,13 +48762,6 @@
     "url": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8"
   },
   {
-    "name": "Pluto TV Kids (720p)",
-    "tvg_id": "KAID45.us",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
-    "category": "Education;Kids",
-    "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
-  },
-  {
     "name": "Pluto TV Kids",
     "tvg_id": "PlutoTVKids.us@Brazil",
     "logo": "https://i.imgur.com/yVSLWy5.png",
@@ -48690,6 +48802,13 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8"
+  },
+  {
+    "name": "Pluto TV Kids Spain (720p)",
+    "tvg_id": "PlutoTVKids.us@Spain",
+    "logo": "https://i.imgur.com/yVSLWy5.png",
+    "category": "Kids",
+    "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
   },
   {
     "name": "Pluto TV Klassiske tegnefilm (720p)",
@@ -48777,7 +48896,7 @@
   },
   {
     "name": "Pluto TV Mi Obsesión Favorita",
-    "tvg_id": "Miobsesionfavorita.us",
+    "tvg_id": "Miobsesionfavorita.us@SD",
     "logo": "https://i.imgur.com/zimPTe5.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8"
@@ -48805,7 +48924,7 @@
   },
   {
     "name": "Pluto TV Motor",
-    "tvg_id": "PlutoTVMotor.us",
+    "tvg_id": "PlutoTVMotor.us@Spain",
     "logo": "https://i.imgur.com/LSrfnpB.png",
     "category": "Auto",
     "url": "https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8"
@@ -48825,22 +48944,29 @@
     "url": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8"
   },
   {
+    "name": "Pluto TV MTV Classic (720p)",
+    "tvg_id": "PlutoTVMTVClassic.us@SD",
+    "logo": "https://i.imgur.com/NPavpts.png",
+    "category": "Music",
+    "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
+  },
+  {
     "name": "Pluto TV Mystery",
-    "tvg_id": "PlutoTVMystery.us",
+    "tvg_id": "PlutoTVMystery.us@Germany",
     "logo": "https://i.imgur.com/oXpLEXI.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8"
   },
   {
     "name": "Pluto TV Natura",
-    "tvg_id": "PlutoTVNatura.us",
+    "tvg_id": "PlutoTVNatura.us@Italy",
     "logo": "https://i.imgur.com/bGZkH6b.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8"
   },
   {
     "name": "Pluto TV Naturaleza",
-    "tvg_id": "PlutoTVNaturaleza.us",
+    "tvg_id": "PlutoTVNaturaleza.us@SD",
     "logo": "https://i.imgur.com/vUHAWAJ.png",
     "category": "Outdoor",
     "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8"
@@ -48973,14 +49099,14 @@
   },
   {
     "name": "Pluto TV Paranormal",
-    "tvg_id": "PlutoTVParanormal.us",
+    "tvg_id": "PlutoTVParanormal.us@US",
     "logo": "https://i.imgur.com/ApN6nfw.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8"
   },
   {
     "name": "Pluto TV Peleas",
-    "tvg_id": "PlutoTVPeleas.us",
+    "tvg_id": "PlutoTVPeleas.us@SD",
     "logo": "https://i.imgur.com/PWoudOz.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8"
@@ -48994,7 +49120,7 @@
   },
   {
     "name": "Pluto TV Polar",
-    "tvg_id": "PlutoTVPolar.us",
+    "tvg_id": "PlutoTVPolar.us@France",
     "logo": "https://i.imgur.com/yApGRsb.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8"
@@ -49043,7 +49169,7 @@
   },
   {
     "name": "Pluto TV Real Life",
-    "tvg_id": "PlutoTVRealLife.us",
+    "tvg_id": "PlutoTVRealLife.us@US",
     "logo": "https://i.imgur.com/uvk27Fe.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8"
@@ -49057,7 +49183,7 @@
   },
   {
     "name": "Pluto TV Reality",
-    "tvg_id": "PlutoTVReality.us",
+    "tvg_id": "PlutoTVReality.us@US",
     "logo": "https://i.imgur.com/OvN7FCv.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-67922858b83355184c699699.m3u8"
@@ -49113,14 +49239,14 @@
   },
   {
     "name": "Pluto TV Retro Toons",
-    "tvg_id": "PlutoTVRetroToons.us",
+    "tvg_id": "PlutoTVRetroToons.us@US",
     "logo": "https://i.imgur.com/YUQL0ki.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8"
   },
   {
     "name": "Pluto TV Romance",
-    "tvg_id": "PlutoTVRomance.us",
+    "tvg_id": "PlutoTVRomance.us@US",
     "logo": "https://i.imgur.com/GJBxfyf.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8"
@@ -49155,14 +49281,14 @@
   },
   {
     "name": "Pluto TV Scherzi e risate",
-    "tvg_id": "Scherzierisate.us",
+    "tvg_id": "Scherzierisate.us@Italy",
     "logo": "https://i.imgur.com/jVWPVvJ.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8"
   },
   {
     "name": "Pluto TV Sci-fi",
-    "tvg_id": "PlutoTVSciFi.us",
+    "tvg_id": "PlutoTVSciFi.us@US",
     "logo": "https://i.imgur.com/vSzd5m7.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8"
@@ -49176,14 +49302,14 @@
   },
   {
     "name": "Pluto TV Science",
-    "tvg_id": "PlutoTVScience.us",
+    "tvg_id": "PlutoTVScience.us@US",
     "logo": "https://i.imgur.com/uhunRoU.png",
     "category": "Science",
     "url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8"
   },
   {
     "name": "Pluto TV Serie",
-    "tvg_id": "PlutoTVSerie.us",
+    "tvg_id": "PlutoTVSerie.us@Germany",
     "logo": "https://i.imgur.com/u3c80e8.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8"
@@ -49204,7 +49330,7 @@
   },
   {
     "name": "Pluto TV Series",
-    "tvg_id": "PlutoTVSeries.us",
+    "tvg_id": "PlutoTVSeries.us@UK",
     "logo": "https://i.imgur.com/7ouD3E6.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8"
@@ -49218,7 +49344,7 @@
   },
   {
     "name": "Pluto TV Séries Comédia",
-    "tvg_id": "PlutoTVSeriesComedia.us",
+    "tvg_id": "PlutoTVSeriesComedia.us@Spain",
     "logo": "https://i.imgur.com/INcTSkj.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8"
@@ -49295,7 +49421,7 @@
   },
   {
     "name": "Pluto TV Series Latinas",
-    "tvg_id": "PlutoTVSeriesLatinas.us",
+    "tvg_id": "PlutoTVSeriesLatinas.us@SD",
     "logo": "https://i.imgur.com/hxl6Ctq.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8"
@@ -49309,14 +49435,14 @@
   },
   {
     "name": "Pluto TV Series Retro",
-    "tvg_id": "PlutoTVSeriesRetro.us",
+    "tvg_id": "PlutoTVSeriesRetro.us@SD",
     "logo": "https://i.imgur.com/UpgGZJ1.png",
     "category": "Classic",
     "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8"
   },
   {
     "name": "Pluto TV Séries Sci-Fi",
-    "tvg_id": "PlutoTVScifiSeries.us",
+    "tvg_id": "PlutoTVScifiSeries.us@UK",
     "logo": "https://i.imgur.com/Ubj8sEU.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8"
@@ -49428,14 +49554,14 @@
   },
   {
     "name": "Pluto TV Space",
-    "tvg_id": "PlutoTVSpace.us",
+    "tvg_id": "PlutoTVSpace.us@US",
     "logo": "https://i.imgur.com/hQwS3ui.png",
     "category": "Science",
     "url": "https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8"
   },
   {
     "name": "Pluto TV Sport",
-    "tvg_id": "PlutoTVSport.us",
+    "tvg_id": "PlutoTVSport.us@Italy",
     "logo": "https://i.imgur.com/y22ElOr.png",
     "category": "Sports",
     "url": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8"
@@ -49456,7 +49582,7 @@
   },
   {
     "name": "Pluto TV Star Trek",
-    "tvg_id": "StarTrek.us",
+    "tvg_id": "StarTrek.us@SD",
     "logo": "https://i.imgur.com/8cvXYiT.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
@@ -49498,7 +49624,7 @@
   },
   {
     "name": "Pluto TV Teen (720p)",
-    "tvg_id": "PlutoTVTeen.us",
+    "tvg_id": "PlutoTVTeen.us@SD",
     "logo": "https://i.imgur.com/lNJ5p5e.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8"
@@ -49519,7 +49645,7 @@
   },
   {
     "name": "Pluto TV Telenovelas",
-    "tvg_id": "PlutoTVTelenovelas.us",
+    "tvg_id": "PlutoTVTelenovelas.us@Spain",
     "logo": "https://i.imgur.com/GrtNJki.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60b4c06717da110007ee1af6.m3u8"
@@ -49561,7 +49687,7 @@
   },
   {
     "name": "Pluto TV Thrillers",
-    "tvg_id": "PlutoTVThrillers.us",
+    "tvg_id": "PlutoTVThrillers.us@US",
     "logo": "https://i.imgur.com/ULKvDN7.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8"
@@ -49610,7 +49736,7 @@
   },
   {
     "name": "Pluto TV True Crime",
-    "tvg_id": "PlutoTVTrueCrime.us",
+    "tvg_id": "PlutoTVTrueCrime.us@US",
     "logo": "https://i.imgur.com/lNfaxiv.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8"
@@ -49652,7 +49778,7 @@
   },
   {
     "name": "Pluto TV Velocidad",
-    "tvg_id": "PlutoTVVelocidad.us",
+    "tvg_id": "PlutoTVVelocidad.us@SD",
     "logo": "https://i.imgur.com/4HNGHEf.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8"
@@ -49736,7 +49862,7 @@
   },
   {
     "name": "Pluto TV Westerns",
-    "tvg_id": "PlutoTVWesterns.us",
+    "tvg_id": "PlutoTVWesterns.us@US",
     "logo": "https://i.imgur.com/biepi4A.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8"
@@ -49904,7 +50030,7 @@
   },
   {
     "name": "Pokémon",
-    "tvg_id": "PlutoTVPokemon.us",
+    "tvg_id": "PlutoTVPokemon.us@US",
     "logo": "https://i.imgur.com/GEbRABE.png",
     "category": "Animation;Kids",
     "url": "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8"
@@ -49966,11 +50092,18 @@
     "url": "https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8"
   },
   {
+    "name": "Polsat Games (1080p) [Not 24/7]",
+    "tvg_id": "PolsatGames.pl@SD",
+    "logo": "https://i.imgur.com/OSCrBvh.png",
+    "category": "Undefined",
+    "url": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7295/index.m3u8"
+  },
+  {
     "name": "Polsat News (1080p) [Geo-blocked]",
     "tvg_id": "PolsatNews.pl@SD",
     "logo": "https://i.imgur.com/sx1yPuc.png",
     "category": "News",
-    "url": "https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd"
+    "url": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8"
   },
   {
     "name": "Polsat News 2 (1080p) [Geo-blocked]",
@@ -49984,7 +50117,7 @@
     "tvg_id": "PolsatNewsPolityka.pl@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png",
     "category": "News",
-    "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd"
+    "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8"
   },
   {
     "name": "Polsat Sport 1 (1080p) [Geo-blocked]",
@@ -50390,7 +50523,7 @@
     "tvg_id": "PravdaTUTLviv.ua@SD",
     "logo": "https://i.imgur.com/IloW37o.png",
     "category": "Undefined",
-    "url": "https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=104.28.156.59&id=742347&secret=vu2y5m72&e=1782901327&st=bflIqYjnSIr75ACfgV-mug"
+    "url": "https://iptv.prosto.tv/ch192/tracks-v1a1/mono.m3u8?21yo=1&e=1782901327&id=742347&ip=104.28.156.59&live=1&secret=vu2y5m72&st=bflIqYjnSIr75ACfgV-mug"
   },
   {
     "name": "Premier Sports (1080p)",
@@ -50779,7 +50912,7 @@
   },
   {
     "name": "Pronto-socorro: Histórias De Emergência",
-    "tvg_id": "ProntosocorroHistoriasDeEmergencia.us",
+    "tvg_id": "ProntosocorroHistoriasDeEmergencia.us@Brazil",
     "logo": "https://i.imgur.com/0PkyJ3U.png",
     "category": "Education",
     "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8"
@@ -50799,7 +50932,7 @@
     "url": "https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8"
   },
   {
-    "name": "Property Brothers",
+    "name": "Property Brothers (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -51338,18 +51471,18 @@
     "url": "https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8"
   },
   {
-    "name": "Qello Concerts",
+    "name": "Qello Concerts (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-64240d3d466225000827412b.m3u8"
+    "url": "https://jmp2.uk/plu-696998915a0ae9e1b563f0c6.m3u8"
   },
   {
     "name": "Qello Concerts",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-696998915a0ae9e1b563f0c6.m3u8"
+    "url": "https://jmp2.uk/plu-64240d3d466225000827412b.m3u8"
   },
   {
     "name": "Qello Concerts by Stingray (1080p)",
@@ -51457,6 +51590,13 @@
     "url": "https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8"
   },
   {
+    "name": "Quantica TV",
+    "tvg_id": "QuanticaTV.ar@SD",
+    "logo": "https://i.imgur.com/6f8EYC2.jpeg",
+    "category": "News",
+    "url": "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
+  },
+  {
     "name": "Quantum Leap (720p)",
     "tvg_id": "",
     "logo": "",
@@ -51518,13 +51658,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",
     "category": "Religious",
     "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8"
-  },
-  {
-    "name": "Quran Radio (1080p)",
-    "tvg_id": "HolyQuranRadio.sa@SD",
-    "logo": "https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png",
-    "category": "General;Religious",
-    "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8"
   },
   {
     "name": "Quran TV (576p)",
@@ -53484,7 +53617,7 @@
     "tvg_id": "RCMusic.in@SD",
     "logo": "https://rctv.in/logo_s.png",
     "category": "Music",
-    "url": "https://view.rcserver.in/tmp_hls2/stream/index.m3u8"
+    "url": "https://view.rcserver.in/tmp_hls1/stream/index.m3u8"
   },
   {
     "name": "RCC TV (1080p) [Not 24/7]",
@@ -53530,7 +53663,7 @@
   },
   {
     "name": "RCN Noticias (720p)",
-    "tvg_id": "NoticiasRCN.co",
+    "tvg_id": "NoticiasRCN.co@SD",
     "logo": "https://i.imgur.com/FMX4QCM.png",
     "category": "News",
     "url": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8"
@@ -54373,7 +54506,7 @@
     "tvg_id": "RepublicTV.in@SD",
     "logo": "https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=720x540",
     "category": "News",
-    "url": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8"
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8"
   },
   {
     "name": "República TV (720p)",
@@ -54404,7 +54537,7 @@
     "url": "https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8"
   },
   {
-    "name": "Retake E-sport Live",
+    "name": "Retake E-sport Live (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -54506,7 +54639,7 @@
     "tvg_id": "RetroxTV.cr@SD",
     "logo": "https://i.imgur.com/viJBL6f.png",
     "category": "Classic",
-    "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8"
   },
   {
     "name": "Reuters (1080p)",
@@ -54558,7 +54691,7 @@
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8?ads.vf=j5eHovd50EC"
   },
   {
-    "name": "Revry LatinX",
+    "name": "Revry LatinX (720p)",
     "tvg_id": "RevryLatinX.us@SD",
     "logo": "https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1676133370_91639_20154.png",
     "category": "Entertainment",
@@ -54849,14 +54982,14 @@
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-682453731295f98347e92da8.m3u8"
+    "url": "https://jmp2.uk/plu-662a26cb5a402e00086b2801.m3u8"
   },
   {
-    "name": "River Monsters",
+    "name": "River Monsters (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-662a26cb5a402e00086b2801.m3u8"
+    "url": "https://jmp2.uk/plu-682453731295f98347e92da8.m3u8"
   },
   {
     "name": "RL PRO TV",
@@ -56473,7 +56606,7 @@
     "tvg_id": "RUTV.ru@SD",
     "logo": "https://i.imgur.com/Z7HUU7V.png",
     "category": "Music",
-    "url": "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https"
+    "url": "https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https"
   },
   {
     "name": "Rudaw TV (1080p)",
@@ -56491,7 +56624,7 @@
   },
   {
     "name": "Rugrats",
-    "tvg_id": "Rugrats.us",
+    "tvg_id": "Rugrats.us@Spain",
     "logo": "https://i.imgur.com/l5XmvM1.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8"
@@ -56505,7 +56638,7 @@
   },
   {
     "name": "Runtime (720p)",
-    "tvg_id": "Runtime.us",
+    "tvg_id": "Runtime.us@SD",
     "logo": "https://i.imgur.com/2USCMvP.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8"
@@ -57205,7 +57338,7 @@
   },
   {
     "name": "Sanctuary",
-    "tvg_id": "PlutoTVSanctuary.us",
+    "tvg_id": "PlutoTVSanctuary.us@SD",
     "logo": "https://i.imgur.com/Fu2jn2t.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8"
@@ -57516,7 +57649,7 @@
     "tvg_id": "SaudiaRadio.sa@SD",
     "logo": "https://aloula.faulio.com/storage/mediagallery/32/f9/fullhd_4c7e170fe0169d36ed17d45a645d4e69fb961793.png",
     "category": "Undefined",
-    "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
+    "url": "https://aloula-redirect.vercel.app/11/playlist.m3u8"
   },
   {
     "name": "Savane TV",
@@ -57558,7 +57691,7 @@
     "tvg_id": "SBC.sa@SD",
     "logo": "https://i.imgur.com/9JSQglj.png",
     "category": "General",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8"
+    "url": "https://aloula-redirect.vercel.app/1/playlist.m3u8"
   },
   {
     "name": "SBC TV (720p) [Not 24/7]",
@@ -57804,13 +57937,6 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/screams-tv-by-trinian/manifest.m3u8?ads.vf=BV6bDbgQvOm"
-  },
-  {
-    "name": "Scripps News",
-    "tvg_id": "KGUNTV96.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/960px-Scripps_News_logo.svg.png",
-    "category": "News",
-    "url": "https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8"
   },
   {
     "name": "Scripps News (1080p)",
@@ -58517,7 +58643,7 @@
     "tvg_id": "ShemarooJosh.in@SD",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540",
     "category": "Movies",
-    "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8"
+    "url": "http://103.213.31.109:90/ChumbakTv/playlist.m3u8"
   },
   {
     "name": "Shemaroo Marathi Bana (720p)",
@@ -58576,7 +58702,7 @@
     "url": "https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8"
   },
   {
-    "name": "Shockwave",
+    "name": "Shockwave (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -58829,7 +58955,7 @@
   },
   {
     "name": "Sin Tetas No Hay Paraíso",
-    "tvg_id": "Sintetasnohayparaiso.us",
+    "tvg_id": "Sintetasnohayparaiso.us@Spain",
     "logo": "https://i.imgur.com/fpwU2IQ.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8"
@@ -58895,7 +59021,7 @@
     "tvg_id": "SirippoliTV.in@SD",
     "logo": "https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",
     "category": "Comedy",
-    "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
+    "url": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8"
   },
   {
     "name": "Siris TV (720p)",
@@ -59074,7 +59200,7 @@
   },
   {
     "name": "Sky News",
-    "tvg_id": "SkyNews.ie",
+    "tvg_id": "SkyNews.ie@SD",
     "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
     "category": "News",
     "url": "https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8"
@@ -59427,7 +59553,7 @@
     "tvg_id": "SNT.py@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
     "category": "General",
-    "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8"
+    "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8"
   },
   {
     "name": "SNTV Daljir (576p)",
@@ -59637,7 +59763,7 @@
     "tvg_id": "SonyEntertainmentTelevision.in@HD",
     "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
     "category": "Entertainment",
-    "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka"
+    "url": "http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega"
   },
   {
     "name": "Sony KAL Hindi (1080p)",
@@ -59651,7 +59777,7 @@
     "tvg_id": "SonyMarathi.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png",
     "category": "Entertainment",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20MARATHI.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8"
   },
   {
     "name": "Sony Max (576p)",
@@ -59749,77 +59875,77 @@
     "tvg_id": "SonyPix.in@HD",
     "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
     "category": "Movies",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8"
   },
   {
     "name": "Sony Sports Ten 1 (1080p) [Geo-blocked]",
     "tvg_id": "SonySportsTen1.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
     "category": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+1.m3u8"
   },
   {
     "name": "Sony Sports Ten 1 HD (1080p) [Geo-blocked]",
     "tvg_id": "SonySportsTen1.in@HD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
     "category": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+1+HD.m3u8"
   },
   {
     "name": "Sony Sports Ten 2 (1080p) [Geo-blocked]",
     "tvg_id": "SonySportsTen2.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
     "category": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+2.m3u8"
   },
   {
     "name": "Sony Sports Ten 2 HD (1080p) [Geo-blocked]",
     "tvg_id": "SonySportsTen2.in@HD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
     "category": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%202%20HD.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+2+HD.m3u8"
   },
   {
     "name": "Sony Sports Ten 3 Hindi (1080p) [Geo-blocked]",
     "tvg_id": "SonySportsTen3Hindi.in@SD",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
     "category": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+3.m3u8"
   },
   {
     "name": "Sony Sports Ten 3 Hindi HD (1080p) [Geo-blocked]",
     "tvg_id": "SonySportsTen3Hindi.in@HD",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
     "category": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%203%20HD.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+3+HD.m3u8"
   },
   {
     "name": "Sony Sports Ten 4 (1080p) [Geo-blocked]",
     "tvg_id": "SonySportsTen4.in@Tamil",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540",
     "category": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+4.m3u8"
   },
   {
     "name": "Sony Sports Ten 4 Telugu (1080p)",
     "tvg_id": "SonySportsTen4.in@Telugu",
     "logo": "https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540",
     "category": "Sports",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+TEN+4+HD.m3u8"
   },
   {
     "name": "Sony Wah (1080p) [Geo-blocked]",
     "tvg_id": "SonyWah.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
     "category": "Movies",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20WAH.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8"
   },
   {
     "name": "Sony Yay! (1080p) [Geo-blocked]",
     "tvg_id": "SonyYay.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
     "category": "Animation;Kids",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8"
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8"
   },
   {
     "name": "Sooriyan TV (1080p)",
@@ -59900,7 +60026,7 @@
   },
   {
     "name": "South Park",
-    "tvg_id": "SouthPark.us",
+    "tvg_id": "SouthPark.us@France",
     "logo": "https://i.imgur.com/qA3KsTh.png",
     "category": "Animation",
     "url": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8"
@@ -60333,7 +60459,7 @@
     "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8"
   },
   {
-    "name": "SPIEGEL TV",
+    "name": "SPIEGEL TV (720p)",
     "tvg_id": "CuriosityChannel.de@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png",
     "category": "Education",
@@ -60603,7 +60729,7 @@
     "tvg_id": "Squirrel2.es@SD",
     "logo": "https://i.imgur.com/BDv4ubA.png",
     "category": "Series",
-    "url": "http://92.176.119.180:2095/play/a16q"
+    "url": "http://92.176.119.180:2095/play/a1ez"
   },
   {
     "name": "SR Fernsehen (720p)",
@@ -60725,11 +60851,11 @@
     "url": "http://103.253.18.58:8000/play/a02u"
   },
   {
-    "name": "Star Gold Thrills (576p)",
+    "name": " like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Star Gold Thrills (576p)",
     "tvg_id": "StarGoldThrills.in@SD",
     "logo": "https://i.imgur.com/azqtpYh.png",
     "category": "Movies",
-    "url": "http://103.253.18.58:8000/play/a00o"
+    "url": "http://103.157.248.140:8000/play/a00b/index.m3u8"
   },
   {
     "name": "STAR HD (1080p) [Non geo blocked]",
@@ -60988,7 +61114,7 @@
     "tvg_id": "StarVijay.in@HD",
     "logo": "https://i.imgur.com/dZtJHAe.png",
     "category": "Entertainment",
-    "url": "https://peaky.techcoder40.workers.dev/776.m3u8"
+    "url": "http://149.71.34.166:8000/play/a06i/index.m3u8"
   },
   {
     "name": "Stara TV (720p)",
@@ -61674,7 +61800,7 @@
     "tvg_id": "Subbota.ru@SD",
     "logo": "https://i.imgur.com/nsk8PpB.png",
     "category": "Undefined",
-    "url": "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https"
+    "url": "https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https"
   },
   {
     "name": "Subharti TV (576p)",
@@ -61698,7 +61824,7 @@
     "url": "https://stream.galaxyott.live/live/subintv/index.m3u8"
   },
   {
-    "name": "Suceso TV [Not 24/7]",
+    "name": "Suceso TV (720p) [Not 24/7]",
     "tvg_id": "SucesoTV.py@SD",
     "logo": "https://i.imgur.com/BwRNes1.png",
     "category": "News",
@@ -61979,7 +62105,7 @@
   },
   {
     "name": "Super! iCarly",
-    "tvg_id": "SuperiCarly.us",
+    "tvg_id": "SuperiCarly.us@Italy",
     "logo": "https://i.imgur.com/IWcQfF2.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8"
@@ -61993,14 +62119,14 @@
   },
   {
     "name": "Super! Pop",
-    "tvg_id": "SuperPop.us",
+    "tvg_id": "SuperPop.us@Italy",
     "logo": "https://i.imgur.com/2FfREQE.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8"
   },
   {
     "name": "Super! SpongeBob (720p)",
-    "tvg_id": "SuperSpongeBob.us",
+    "tvg_id": "SuperSpongeBob.us@Italy",
     "logo": "https://i.imgur.com/65wxNn4.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8"
@@ -62010,7 +62136,7 @@
     "tvg_id": "SuperPlus.ua@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Super%2B_UA_%282024%29.svg/960px-Super%2B_UA_%282024%29.svg.png",
     "category": "Entertainment;General",
-    "url": "https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=365ec247746bd22d&uid=9szoe89y&cs_track=false&e=1783162263&st=9GLxg7DNUXR_MCB9X30Qew"
+    "url": "https://iptv.prosto.tv/ch382/tracks-v1a1/1.m3u8?cs_track=false&e=1783162263&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&ses=365ec247746bd22d&st=9GLxg7DNUXR_MCB9X30Qew&uid=9szoe89y"
   },
   {
     "name": "SuperChannel Orlando (WACX-DT1) (720p)",
@@ -62111,7 +62237,7 @@
     "url": "https://lbs-us1.suprememastertv.com/720p.m3u8"
   },
   {
-    "name": "SUR TV",
+    "name": "SUR TV (1080p)",
     "tvg_id": "SURTV.cl@SD",
     "logo": "https://i.imgur.com/wDCqoor.png",
     "category": "General",
@@ -62220,25 +62346,25 @@
     "tvg_id": "SuspilneDonbas.ua@SD",
     "logo": "https://i.imgur.com/GPXrpJC.png",
     "category": "General",
-    "url": "https://iptv.prosto.tv/ch191/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783350581&st=FOBLjQZsAj97omf627Quzg"
+    "url": "https://iptv.prosto.tv/ch191/tracks-v1a1/mono.m3u8?21yo=1&e=1783350581&id=742347&ip=178.136.40.86&live=1&secret=vu2y5m72&st=FOBLjQZsAj97omf627Quzg"
   },
   {
     "name": "Suspilne. Ivano-Frankivsk (1080p)",
     "tvg_id": "SuspilneIvanoFrankivsk.ua@SD",
     "logo": "https://i.imgur.com/ApKFK5p.png",
     "category": "Undefined",
-    "url": "https://iptv.prosto.tv/ch96/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&21yo=0&e=1783094347&st=kGRjEFP8_5qe3vEINbXwBQ"
+    "url": "https://iptv.prosto.tv/ch96/tracks-v1a1/mono.m3u8?21yo=0&e=1783094347&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=kGRjEFP8_5qe3vEINbXwBQ"
   },
   {
     "name": " like Gecko) Chrome/143.0.7499.109 Safari/537.36\" group-title=\"General\",Suspilne. Krym (1080p) [Geo-blocked]",
-    "tvg_id": "SuspilneKrym.ua",
+    "tvg_id": "SuspilneKrym.ua@SD",
     "logo": "https://i.imgur.com/m7znCes.png",
     "category": "General",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8"
   },
   {
     "name": " like Gecko) Chrome/143.0.7499.109 Safari/537.36\" group-title=\"Culture\",Suspilne. Kultura (1080p) [Geo-blocked]",
-    "tvg_id": "SuspilneKultura.ua",
+    "tvg_id": "SuspilneKultura.ua@SD",
     "logo": "https://i.imgur.com/hHMJV8e.png",
     "category": "Culture",
     "url": "https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8"
@@ -62255,7 +62381,7 @@
     "tvg_id": "SuspilneLutsk.ua@SD",
     "logo": "https://i.imgur.com/QIin5nZ.png",
     "category": "Undefined",
-    "url": "https://iptv.prosto.tv/ch222/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783108254&st=xvdqQHExhHEv8FDqvbjDbg"
+    "url": "https://iptv.prosto.tv/ch222/tracks-v1a1/mono.m3u8?21yo=0&e=1783108254&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=xvdqQHExhHEv8FDqvbjDbg"
   },
   {
     "name": "Suspilne. Lviv (1080p) [Not 24/7]",
@@ -62269,42 +62395,42 @@
     "tvg_id": "SuspilneMykolaiv.ua@SD",
     "logo": "https://i.imgur.com/bdOmdT4.png",
     "category": "General",
-    "url": "https://iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&21yo=0&e=1783194414&st=Lz1QtjfblUmkawUbk1Mx6w"
+    "url": "https://iptv.prosto.tv/ch211/tracks-v1a1/mono.m3u8?21yo=0&e=1783194414&id=921239&ip=5.63.189.224&live=1&secret=f8z1l7gk&st=Lz1QtjfblUmkawUbk1Mx6w"
   },
   {
     "name": "Suspilne. Rivne (1080p)",
     "tvg_id": "SuspilneRivne.ua@SD",
     "logo": "https://i.imgur.com/GlwZw2S.png",
     "category": "General",
-    "url": "https://iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=f8z1l7gk&e=1783195240&st=4RqJ6hzZ9REJQe0f8U3fTw"
+    "url": "https://iptv.prosto.tv/ch229/tracks-v1a1/mono.m3u8?21yo=1&e=1783195240&id=921239&ip=5.63.189.224&live=1&secret=f8z1l7gk&st=4RqJ6hzZ9REJQe0f8U3fTw"
   },
   {
     "name": "Suspilne. Sport",
     "tvg_id": "SuspilneSport.ua@SD",
     "logo": "https://i.imgur.com/16IhU0M.png",
     "category": "Sports",
-    "url": "https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247457&st=jPS6nYqNZLDECF8uSDa74g"
+    "url": "https://iptv.prosto.tv/ch112/tracks-v2a1/mono.m3u8?21yo=0&e=1783247457&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=jPS6nYqNZLDECF8uSDa74g"
   },
   {
     "name": "Suspilne. Vinnytsia",
     "tvg_id": "SuspilneVinnytsia.ua@SD",
     "logo": "https://i.imgur.com/g84PWbj.png",
     "category": "General",
-    "url": "https://iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&21yo=0&e=1783247585&st=u4uN-dkUOQb4cDe7lNCaeg"
+    "url": "https://iptv.prosto.tv/ch188/tracks-v1a1/mono.m3u8?21yo=0&e=1783247585&id=921233&ip=178.136.40.86&live=1&secret=9szoe89y&st=u4uN-dkUOQb4cDe7lNCaeg"
   },
   {
     "name": "Suspilne. Zaporizhzhya (1080p)",
     "tvg_id": "SuspilneZaporizhzhya.ua@SD",
     "logo": "https://i.imgur.com/SZWteS9.png",
     "category": "General",
-    "url": "https://iptv.prosto.tv/ch187/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094937&st=EzFtzQG2T03aIIo4Sdn-OQ"
+    "url": "https://iptv.prosto.tv/ch187/tracks-v1a1/mono.m3u8?21yo=1&e=1783094937&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=EzFtzQG2T03aIIo4Sdn-OQ"
   },
   {
     "name": "Suspilne. Zhytomyr (1080p)",
     "tvg_id": "SuspilneZhytomyr.ua@SD",
     "logo": "https://i.imgur.com/lCv1Xaq.png",
     "category": "General",
-    "url": "https://iptv.prosto.tv/ch183/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=5.63.189.224&id=921239&secret=z6vxuhnm&e=1783094567&st=eSKzulrNBzvGLO-irrW1Fg"
+    "url": "https://iptv.prosto.tv/ch183/tracks-v1a1/mono.m3u8?21yo=1&e=1783094567&id=921239&ip=5.63.189.224&live=1&secret=z6vxuhnm&st=eSKzulrNBzvGLO-irrW1Fg"
   },
   {
     "name": "Sutel TV [Geo-blocked]",
@@ -62930,7 +63056,7 @@
     "url": "https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8"
   },
   {
-    "name": "Tal TV",
+    "name": "Tal TV (1080p)",
     "tvg_id": "TalTV.ne@SD",
     "logo": "https://i.imgur.com/KWMP0t1.png",
     "category": "Entertainment",
@@ -63588,8 +63714,8 @@
     "url": "https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8"
   },
   {
-    "name": "Teen Mom",
-    "tvg_id": "TeenMom.us",
+    "name": "Teen Mom (720p)",
+    "tvg_id": "TeenMom.us@SD",
     "logo": "https://i.imgur.com/8o3ClCV.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8"
@@ -63889,11 +64015,11 @@
     "url": "https://video.telesafor.com/hls/video.m3u8"
   },
   {
-    "name": "Télé Sahel (576p)",
+    "name": "Tele Sahel (1080p)",
     "tvg_id": "TeleSahel.ne@SD",
     "logo": "https://i.imgur.com/vboq428.png",
     "category": "General",
-    "url": "http://69.64.57.208/telesahel/playlist.m3u8"
+    "url": "https://mediaserver1.castpin.com/hls/telesahel/index.m3u8"
   },
   {
     "name": "Tele Saltillo",
@@ -64138,7 +64264,7 @@
     "tvg_id": "Telecinco.es@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/500px-Telecinco.svg.png",
     "category": "General",
-    "url": "http://92.176.119.180:2095/play/a15y"
+    "url": "http://92.176.119.180:2095/play/a1fq"
   },
   {
     "name": "TeleCinco Trelew (240p)",
@@ -64201,7 +64327,7 @@
     "tvg_id": "Teledeporte.es@SD",
     "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
     "category": "Sports",
-    "url": "http://92.176.119.180:2095/play/a16t"
+    "url": "http://92.176.119.180:2095/play/a1f6"
   },
   {
     "name": "Telefe Rosario [Geo-blocked]",
@@ -64554,7 +64680,7 @@
     "url": "https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8"
   },
   {
-    "name": "Telemundo Noticias California",
+    "name": "Telemundo Noticias California (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -64870,7 +64996,7 @@
   },
   {
     "name": "TELESIGLO (1080p) [Not 24/7]",
-    "tvg_id": "TELESIGLO.do",
+    "tvg_id": "TELESIGLO.do@HD",
     "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg",
     "category": "General",
     "url": "https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8"
@@ -65156,7 +65282,7 @@
     "url": "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8"
   },
   {
-    "name": "Television Olanchana",
+    "name": "Television Olanchana (1080p)",
     "tvg_id": "TelevisionOlanchana.hn@SD",
     "logo": "https://i.imgur.com/8LnLEQz.png",
     "category": "General",
@@ -65569,8 +65695,8 @@
     "url": "https://cdn-3.pishow.tv/live/1612/master.m3u8"
   },
   {
-    "name": "That's 70s",
-    "tvg_id": "Thats70s.uk",
+    "name": "That's 70s (720p)",
+    "tvg_id": "Thats70s.uk@HD",
     "logo": "https://i.imgur.com/j2q53JQ.png",
     "category": "Music",
     "url": "https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8"
@@ -65583,21 +65709,21 @@
     "url": "http://92.114.85.72:8000/play/a0lc"
   },
   {
-    "name": "That's 80s",
-    "tvg_id": "Thats80s.uk",
+    "name": "That's 80s (720p)",
+    "tvg_id": "Thats80s.uk@SD",
     "logo": "https://i.imgur.com/TdKuz1m.png",
     "category": "Music",
     "url": "https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8"
   },
   {
-    "name": "That's 90s/00s",
+    "name": "That's 90s/00s (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8"
   },
   {
-    "name": "That's Rock",
+    "name": "That's Rock (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -65647,7 +65773,7 @@
   },
   {
     "name": "The Andy Griffith Show",
-    "tvg_id": "TheAndyGriffithShow.us",
+    "tvg_id": "TheAndyGriffithShow.us@SD",
     "logo": "https://i.imgur.com/1QpMJJT.png",
     "category": "Classic",
     "url": "https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8"
@@ -65731,7 +65857,7 @@
   },
   {
     "name": "The Challenge",
-    "tvg_id": "TheChallenge.us",
+    "tvg_id": "TheChallenge.us@SD",
     "logo": "https://i.imgur.com/MIXPSvC.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8"
@@ -65871,7 +65997,7 @@
   },
   {
     "name": "The Good Wife",
-    "tvg_id": "TheGoodWife.us",
+    "tvg_id": "TheGoodWife.us@SD",
     "logo": "https://images.pluto.tv/channels/66df70cd61dbf00008fa26ff/colorLogoSVG.svg",
     "category": "Series",
     "url": "https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8"
@@ -65940,7 +66066,7 @@
     "url": "https://amg00654-itv-amg00654c4-samsung-gb-8889.playouts.now.amagi.tv/playlist.m3u8"
   },
   {
-    "name": "The Hotel Inspector",
+    "name": "The Hotel Inspector (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -66081,7 +66207,7 @@
   },
   {
     "name": "The Love Boat",
-    "tvg_id": "TheLoveBoat.us",
+    "tvg_id": "TheLoveBoat.us@SD",
     "logo": "https://i.imgur.com/7ad6NQ8.png",
     "category": "Classic",
     "url": "https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8"
@@ -66151,7 +66277,7 @@
   },
   {
     "name": "The Nanny",
-    "tvg_id": "TheNanny.us",
+    "tvg_id": "TheNanny.us@UK",
     "logo": "https://i.imgur.com/1caOriu.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8"
@@ -66192,7 +66318,7 @@
     "url": "https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8"
   },
   {
-    "name": "The Nest",
+    "name": "The Nest (1080p)",
     "tvg_id": "TheNest.us@SD",
     "logo": "https://iili.io/JGqD21e.png",
     "category": "Documentary;Entertainment",
@@ -66207,7 +66333,7 @@
   },
   {
     "name": "The New Detectives",
-    "tvg_id": "TheNewDetectives.us",
+    "tvg_id": "TheNewDetectives.us@US",
     "logo": "https://i.imgur.com/GLXg9ge.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8"
@@ -66333,7 +66459,7 @@
   },
   {
     "name": "The Price is Right (720p)",
-    "tvg_id": "ThePriceIsRight.us",
+    "tvg_id": "ThePriceIsRight.us@HD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/ThePriceisRight20072022.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8"
@@ -66423,7 +66549,7 @@
     "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/5ZVSPT4VKTGB7IPEEXY3/hls3/now,-1m/m.m3u8?ads.vf=UtVyMW5aNGK"
   },
   {
-    "name": "The Therapy Crouch",
+    "name": "The Therapy Crouch (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -66438,7 +66564,7 @@
   },
   {
     "name": "The Twilight Zone",
-    "tvg_id": "PlutoTVTheTwilightZone.us",
+    "tvg_id": "PlutoTVTheTwilightZone.us@SD",
     "logo": "https://i.imgur.com/FiIRQAR.png",
     "category": "Classic;Series",
     "url": "https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8"
@@ -66501,7 +66627,7 @@
   },
   {
     "name": "The Weather Network (720p)",
-    "tvg_id": "TheWeatherNetwork.ca",
+    "tvg_id": "TheWeatherNetwork.ca@SD",
     "logo": "https://i.imgur.com/V6ZUwUY.png",
     "category": "Weather",
     "url": "https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8"
@@ -66655,7 +66781,7 @@
   },
   {
     "name": "Three's Company (720p)",
-    "tvg_id": "ThreesCompany.us",
+    "tvg_id": "ThreesCompany.us@SD",
     "logo": "https://i.imgur.com/5bTwwpD.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8"
@@ -67488,14 +67614,14 @@
   },
   {
     "name": "Tortues Ninja TV (720p)",
-    "tvg_id": "TortuesNinjaTV.us",
+    "tvg_id": "TortuesNinjaTV.us@France",
     "logo": "https://i.imgur.com/d2ACbkV.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8"
   },
   {
     "name": "Tosh.0",
-    "tvg_id": "Tosh0.us",
+    "tvg_id": "Tosh0.us@SD",
     "logo": "https://i.imgur.com/sXkluxg.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-65e977042873090008b48be9.m3u8"
@@ -67537,7 +67663,7 @@
   },
   {
     "name": "Totally Turtles (720p)",
-    "tvg_id": "TotallyTurtles.us",
+    "tvg_id": "TotallyTurtles.us@US",
     "logo": "https://i.imgur.com/1gIpagY.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8"
@@ -67760,8 +67886,8 @@
     "url": "https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8"
   },
   {
-    "name": "Transformers TV",
-    "tvg_id": "TransformersTV.cm",
+    "name": "Transformers TV (720p)",
+    "tvg_id": "TransformersTV.cm@SD",
     "logo": "https://i.imgur.com/EQRyJMI.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8"
@@ -67869,7 +67995,7 @@
     "tvg_id": "Trece.es@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png",
     "category": "Religious",
-    "url": "http://92.176.119.180:2095/play/a179"
+    "url": "http://92.176.119.180:2095/play/a1em"
   },
   {
     "name": "Trece (1080p)",
@@ -68658,7 +68784,7 @@
   {
     "name": "TV5MONDE Chefs (1080p)",
     "tvg_id": "TV5MONDEChefs.fr@SD",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
+    "logo": "https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png",
     "category": "Cooking;Lifestyle",
     "url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8"
   },
@@ -69510,8 +69636,22 @@
     "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8"
   },
   {
+    "name": "TV Cuatro 4.3 (1080p)",
+    "tvg_id": "TVCuatro43.mx@SD",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "category": "Sports",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8"
+  },
+  {
+    "name": "TV Cuatro 4.4 (1080p)",
+    "tvg_id": "TVCuatro44.mx@SD",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "category": "Education",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8"
+  },
+  {
     "name": "TV Cultura (720p)",
-    "tvg_id": "TVCultura.br",
+    "tvg_id": "TVCultura.br@SD",
     "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8"
@@ -70347,7 +70487,7 @@
     "tvg_id": "TVPeru.pe@SD",
     "logo": "https://i.imgur.com/6io0IrX.png",
     "category": "General",
-    "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8"
+    "url": "http://181.119.93.83:8000/play/a25t/index.m3u8"
   },
   {
     "name": "TV Peru Internacional (720p)",
@@ -72503,7 +72643,7 @@
     "tvg_id": "U.ru@SD",
     "logo": "https://i.imgur.com/KDZvt0Q.png",
     "category": "Entertainment",
-    "url": "https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https"
+    "url": "https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https"
   },
   {
     "name": "U Channel",
@@ -72699,7 +72839,28 @@
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
+    "url": "https://jmp2.uk/plu-679203d4bc03978b9b4b79a6.m3u8"
+  },
+  {
+    "name": "UFC (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
     "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8"
+  },
+  {
+    "name": "UFC (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
+    "url": "https://jmp2.uk/plu-6792066f3de7c8cf941e7ce3.m3u8"
+  },
+  {
+    "name": "UFC (720p)",
+    "tvg_id": "",
+    "logo": "",
+    "category": "Undefined",
+    "url": "https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8"
   },
   {
     "name": "UFC",
@@ -72734,28 +72895,7 @@
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
-    "url": "https://jmp2.uk/plu-679203d4bc03978b9b4b79a6.m3u8"
-  },
-  {
-    "name": "UFC",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
     "url": "https://jmp2.uk/plu-679205a13de7c8cf941e7857.m3u8"
-  },
-  {
-    "name": "UFC",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-6792066f3de7c8cf941e7ce3.m3u8"
-  },
-  {
-    "name": "UFC",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8"
   },
   {
     "name": "UFC",
@@ -72965,7 +73105,7 @@
     "tvg_id": "UNIANTV.ua@SD",
     "logo": "https://i.imgur.com/Alu78zn.png",
     "category": "Undefined",
-    "url": "https://iptv.prosto.tv/id22/index.m3u8?secret=f8z1l7gk&21yo="
+    "url": "https://iptv.prosto.tv/id22/index.m3u8?21yo=&secret=f8z1l7gk"
   },
   {
     "name": "UNIANDES TV (720p) [Not 24/7]",
@@ -72990,7 +73130,7 @@
   },
   {
     "name": "Unidad de investigación",
-    "tvg_id": "Unidaddeinvestigacion.us",
+    "tvg_id": "Unidaddeinvestigacion.us@Spain",
     "logo": "https://i.imgur.com/tc3zenG.png",
     "category": "Undefined",
     "url": "https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8"
@@ -73802,7 +73942,7 @@
   },
   {
     "name": "Vaya semanita",
-    "tvg_id": "Vayasemanita.us",
+    "tvg_id": "Vayasemanita.us@Spain",
     "logo": "https://i.imgur.com/0bCLNUG.png",
     "category": "Comedy",
     "url": "https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8"
@@ -74166,7 +74306,7 @@
   },
   {
     "name": "Vevo True School Hip-Hop",
-    "tvg_id": "VevoTrueSchoolHipHop.us",
+    "tvg_id": "VevoTrueSchoolHipHop.us@SD",
     "logo": "https://i.imgur.com/owUXUih.png",
     "category": "Music",
     "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8"
@@ -74445,11 +74585,11 @@
     "url": "https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd"
   },
   {
-    "name": "viju TV1000 russkoe",
+    "name": "viju TV1000 Русское (576p)",
     "tvg_id": "vijuTV1000russkoe.ru@SD",
     "logo": "https://i.imgur.com/Meak2y4.png",
     "category": "Movies",
-    "url": "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8"
+    "url": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8"
   },
   {
     "name": "Villa Altagracia TV (1080p) [Not 24/7]",
@@ -75093,7 +75233,7 @@
     "tvg_id": "WPolscePL.pl@SD",
     "logo": "https://i.imgur.com/HQ8UyhL.png",
     "category": "Undefined",
-    "url": "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
+    "url": "https://lowa8026-cmyk.github.io/WPolscePL.m3u8"
   },
   {
     "name": "W Shopping (720p)",
@@ -75139,7 +75279,7 @@
   },
   {
     "name": "Walker Texas Ranger",
-    "tvg_id": "WalkerTexasRanger.us",
+    "tvg_id": "WalkerTexasRanger.us@France",
     "logo": "https://i.imgur.com/0N7EhuD.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8"
@@ -75702,7 +75842,7 @@
     "tvg_id": "Weathernews.jp@SD",
     "logo": "https://i.imgur.com/A8uRSTS.png",
     "category": "Weather",
-    "url": "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8"
+    "url": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8"
   },
   {
     "name": "WeatherSpy (720p)",
@@ -75853,7 +75993,7 @@
   },
   {
     "name": "Western TV",
-    "tvg_id": "WesternTV.us",
+    "tvg_id": "WesternTV.us@SD",
     "logo": "https://i.imgur.com/nNy9oTx.png",
     "category": "Classic",
     "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8"
@@ -76216,7 +76356,7 @@
     "url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"
   },
   {
-    "name": "Will&Grace",
+    "name": "Will&Grace (720p)",
     "tvg_id": "",
     "logo": "",
     "category": "Undefined",
@@ -76311,7 +76451,7 @@
     "tvg_id": "WION.in@SD",
     "logo": "https://i.imgur.com/Wc5Z3iS.png",
     "category": "News",
-    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+    "url": "http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8"
   },
   {
     "name": "Wipe Out",
@@ -76322,7 +76462,7 @@
   },
   {
     "name": "Wipeout",
-    "tvg_id": "PlutoTVWipeout.us",
+    "tvg_id": "PlutoTVWipeout.us@SD",
     "logo": "https://i.imgur.com/KVTNBFr.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8"
@@ -77274,7 +77414,7 @@
   },
   {
     "name": "Y'a que la vérité qui compte",
-    "tvg_id": "Yaquelaveritequicompte.us",
+    "tvg_id": "Yaquelaveritequicompte.us@France",
     "logo": "https://i.imgur.com/MDHN2Vc.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8"
@@ -77393,7 +77533,7 @@
   },
   {
     "name": "Yo! MTV (1080p)",
-    "tvg_id": "YoMTV.us",
+    "tvg_id": "YoMTV.us@SD",
     "logo": "https://i.imgur.com/hzNXDdY.png",
     "category": "Music",
     "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
@@ -77512,7 +77652,7 @@
   },
   {
     "name": "Z Nation",
-    "tvg_id": "ZNation.us",
+    "tvg_id": "ZNation.us@SD",
     "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8"
@@ -77704,7 +77844,7 @@
     "tvg_id": "ZeeBiharJharkhand.in@SD",
     "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540",
     "category": "News",
-    "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8"
+    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8"
   },
   {
     "name": "Zee Bioskop",
@@ -77753,7 +77893,7 @@
     "tvg_id": "ZeeCafe.in@HD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Series",
-    "url": "http://103.229.254.25:7001/play/a0cx/index.m3u8"
+    "url": "http://103.72.101.252:8080/live/1319.m3u8"
   },
   {
     "name": "Zee Cine Classic (1080p)",
@@ -77795,7 +77935,7 @@
     "tvg_id": "ZeeClassic.in@SD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Classic",
-    "url": "http://103.229.254.25:7001/play/a09w/index.m3u8"
+    "url": "http://103.72.101.252:8080/live/1691.m3u8"
   },
   {
     "name": "Zee Comedy Nation (1080p)",
@@ -77970,7 +78110,7 @@
     "tvg_id": "ZeeTV.in@HD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Entertainment",
-    "url": "https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=gana-sunega&pass=krish-ka"
+    "url": "https://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&pass=krish-ka&uid=gana-sunega"
   },
   {
     "name": "Zee TV UK HD (1080p)",
@@ -77998,7 +78138,7 @@
     "tvg_id": "ZeeZest.in@HD",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ZEST/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Lifestyle",
-    "url": "http://103.229.254.25:7001/play/a0dp/index.m3u8"
+    "url": "http://103.72.101.252:8080/live/2757.m3u8"
   },
   {
     "name": "zenith (1080p)",
@@ -78009,7 +78149,7 @@
   },
   {
     "name": "ZenLIFE by Stingray",
-    "tvg_id": "ZenLIFEbyStingray.ca",
+    "tvg_id": "ZenLIFEbyStingray.ca@HD",
     "logo": "https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg",
     "category": "Relax",
     "url": "https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8"
