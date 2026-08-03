@@ -8246,6 +8246,13 @@
     "url": "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8"
   },
   {
+    "name": "B4U Movies APAC (720p)",
+    "tvg_id": "B4UMovies.in@APAC",
+    "logo": "https://i.imgur.com/M9kMFJl.png",
+    "category": "Movies",
+    "url": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8"
+  },
+  {
     "name": "B4U Music (576p)",
     "tvg_id": "B4UMusic.in@India",
     "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
@@ -8258,6 +8265,13 @@
     "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
     "category": "Music",
     "url": "http://103.175.73.12:8080/live/157/master.m3u8"
+  },
+  {
+    "name": "B4U Music APAC (720p)",
+    "tvg_id": "B4UMusic.in@APAC",
+    "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
+    "category": "Music",
+    "url": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8"
   },
   {
     "name": "B15 Fresnillo (1080p)",
@@ -10827,6 +10841,13 @@
     "logo": "https://i.imgur.com/khytcgd.png",
     "category": "Undefined",
     "url": "https://tvdatta.com:3021/live/biosferatvlive.m3u8"
+  },
+  {
+    "name": "Bir TV (720p)",
+    "tvg_id": "BirTV.tr@SD",
+    "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
+    "category": "Undefined",
+    "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8"
   },
   {
     "name": "bitMe (1080p)",
@@ -22204,11 +22225,11 @@
     "url": "http://213.91.179.28:8000/play/a047"
   },
   {
-    "name": "Điện Biên TV (406p)",
+    "name": "Dien Bien TV (1080p)",
     "tvg_id": "DienBienTV.vn@SD",
     "logo": "https://i.imgur.com/u308o8q.png",
     "category": "General",
-    "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
+    "url": "https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8"
   },
   {
     "name": "Diez TV Las Villas (1080p)",
@@ -22475,6 +22496,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "category": "Kids",
     "url": "http://206.212.244.63/650/index.m3u8"
+  },
+  {
+    "name": "Disney Channel EMEA (576p)",
+    "tvg_id": "DisneyChannelEMEA.uk@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "category": "Kids",
+    "url": "http://185.102.171.218/DisneyChannel/index.m3u8"
   },
   {
     "name": "Disney Channel Latin America (1080p)",
@@ -23142,11 +23170,11 @@
     "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8"
   },
   {
-    "name": "Đồng Nai 2 (480p) [Not 24/7]",
+    "name": "Dong Nai TV 2 (720p)",
     "tvg_id": "DongNaiTV2.vn@SD",
     "logo": "https://i.imgur.com/tNKPSkO.png",
     "category": "Entertainment;Sports",
-    "url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8"
+    "url": "https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8"
   },
   {
     "name": "Đồng Tháp TV1 (720p)",
@@ -30961,6 +30989,13 @@
     "url": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8"
   },
   {
+    "name": "Green Gold TV",
+    "tvg_id": "GreenGoldTV.np@SD",
+    "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+    "category": "Kids",
+    "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8"
+  },
+  {
     "name": "Green TV (1080p)",
     "tvg_id": "GreenTV.bd@SD",
     "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg",
@@ -32431,6 +32466,13 @@
     "url": "http://40.160.24.53/HISTORY_CHANNEL/index.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Undefined\",History2",
+    "tvg_id": "History2.cz@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png",
+    "category": "Undefined",
+    "url": "http://88.212.15.19/live/test_h2/playlist.m3u8"
+  },
+  {
     "name": "History 2 Latin America (1080p)",
     "tvg_id": "History2LatinAmerica.us@Panregional",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
@@ -33320,11 +33362,11 @@
     "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
   },
   {
-    "name": "HTV Key (720p)",
+    "name": "HTV Key (1080p)",
     "tvg_id": "HTVKey.vn@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png",
     "category": "Education",
-    "url": "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
   },
   {
     "name": "HTV Live (1080p) [Not 24/7]",
@@ -37674,18 +37716,11 @@
     "url": "https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8"
   },
   {
-    "name": "Khánh Hòa TV (720p)",
+    "name": "Khanh Hoa TV (1080p)",
     "tvg_id": "KhanhHoaTV.vn@SD",
     "logo": "https://i.imgur.com/qLMcGPT.png",
     "category": "General",
-    "url": "https://livektv2.baokhanhhoa.vn/hls/ktv.m3u8"
-  },
-  {
-    "name": "Khánh Hòa TV1 (720p)",
-    "tvg_id": "NinhThuanTV.vn@SD",
-    "logo": "https://i.imgur.com/HIyUzLM.png",
-    "category": "General",
-    "url": "https://livektv2.baokhanhhoa.vn/hls/ktv1.m3u8"
+    "url": "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video"
   },
   {
     "name": "Khatlon (576p)",
@@ -39095,6 +39130,13 @@
     "url": "https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8"
   },
   {
+    "name": "La 100 (1080p)",
+    "tvg_id": "La100.ar@SD",
+    "logo": "https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png",
+    "category": "Music",
+    "url": "https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8"
+  },
+  {
     "name": "La C TV (720p)",
     "tvg_id": "LaCTV.it@SD",
     "logo": "https://i.imgur.com/TF4LKp0.png",
@@ -39653,6 +39695,13 @@
     "logo": "https://i.imgur.com/EJf1eRt.png",
     "category": "Music",
     "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8"
+  },
+  {
+    "name": "Lara en Redes",
+    "tvg_id": "LaraenRedes.ve@SD",
+    "logo": "https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg",
+    "category": "Entertainment",
+    "url": "https://streamtv.laraenredes.com:3020/hybrid/play.m3u8"
   },
   {
     "name": "Larivision TV",
@@ -40647,6 +40696,13 @@
     "logo": "https://i.imgur.com/0DgP3vu.png",
     "category": "General",
     "url": "https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8"
+  },
+  {
+    "name": "Lionsgate Play",
+    "tvg_id": "LionsgatePlay.np@HD",
+    "logo": "https://i.ibb.co/jvFcxJK6/Lionsgate-Play.png",
+    "category": "Entertainment",
+    "url": "http://103.159.180.34:5001/live/2327.m3u8"
   },
   {
     "name": "Lira TV (720p) [Not 24/7]",
@@ -43461,6 +43517,13 @@
     "logo": "https://i.imgur.com/j31lBL7.png",
     "category": "Music",
     "url": "http://rjcf.ofztvxv.top:8080/kang/71267133/99554"
+  },
+  {
+    "name": "MCM Top (1080p)",
+    "tvg_id": "MCMTop.fr@SD",
+    "logo": "https://i.imgur.com/EVtWQLd.png",
+    "category": "Music",
+    "url": "http://89.33.29.118/MCM/index.m3u8"
   },
   {
     "name": "MCM Top (576p)",
@@ -49854,6 +49917,13 @@
     "url": "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8"
   },
   {
+    "name": "Ninh Thuan TV (1080p)",
+    "tvg_id": "NinhThuanTV.vn@SD",
+    "logo": "https://i.imgur.com/HIyUzLM.png",
+    "category": "General",
+    "url": "https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video"
+  },
+  {
     "name": "Ninja Kidz (720p)",
     "tvg_id": "NinjaKidzTV.us@SD",
     "logo": "https://i.imgur.com/7EngqUi.png",
@@ -51917,6 +51987,13 @@
     "logo": "https://i.imgur.com/TAmVjUL.png",
     "category": "Documentary",
     "url": "https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8"
+  },
+  {
+    "name": "ON Vie Drama (720p)",
+    "tvg_id": "ONVieDrama.vn@SD",
+    "logo": "",
+    "category": "Entertainment",
+    "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8"
   },
   {
     "name": "Once México (1080p)",
@@ -57638,13 +57715,6 @@
     "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8"
   },
   {
-    "name": "Polsat Seriale (1080p)",
-    "tvg_id": "PolsatSeriale.pl@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png",
-    "category": "Series",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png"
-  },
-  {
     "name": "Polsat Sport 1 (1080p)",
     "tvg_id": "PolsatSport1.pl@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png",
@@ -58931,6 +59001,13 @@
     "logo": "https://i.imgur.com/EOnzPiZ.png",
     "category": "Undefined",
     "url": "https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8"
+  },
+  {
+    "name": "Puls 2 HD (1080p)",
+    "tvg_id": "Puls2.pl@HD",
+    "logo": "https://i.imgur.com/EOnzPiZ.png",
+    "category": "Undefined",
+    "url": "http://193.24.244.60:1001/udp/239.254.4.122:6060"
   },
   {
     "name": "Pulse (1080p)",
@@ -63553,6 +63630,13 @@
     "url": "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8"
   },
   {
+    "name": "ROCK Action HD (576p)",
+    "tvg_id": "ROCKAction.sg@HD",
+    "logo": "https://i.imgur.com/l6lmlqG.png",
+    "category": "Entertainment",
+    "url": "http://202.169.224.202:8800/udp/239.9.1.1:1234"
+  },
+  {
     "name": "Rock Antenne [Not 24/7]",
     "tvg_id": "RockAntenne.de@SD",
     "logo": "https://i.imgur.com/nvFXRjH.png",
@@ -63579,6 +63663,13 @@
     "logo": "",
     "category": "Undefined",
     "url": "http://80.79.6.221:25461/smash/public/24"
+  },
+  {
+    "name": "ROCK Entertainment (576p)",
+    "tvg_id": "ROCKEntertainment.sg@SD",
+    "logo": "https://i.imgur.com/PWzq0aU.png",
+    "category": "Entertainment",
+    "url": "http://202.169.224.202:8800/udp/239.9.1.8:1234"
   },
   {
     "name": "Rock TV (1080p) [Not 24/7]",
@@ -67620,11 +67711,11 @@
     "url": "https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8"
   },
   {
-    "name": "Showtime (1080p)",
+    "name": "Showtime (720p)",
     "tvg_id": "Showtime.us@East",
     "logo": "https://i.imgur.com/Or0LKsu.png",
     "category": "Undefined",
-    "url": "http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8"
+    "url": "http://40.160.24.55/SHOWTIME/index.m3u8"
   },
   {
     "name": "Showtime 2 (1080p)",
@@ -68808,6 +68899,13 @@
     "logo": "https://i.imgur.com/i54AQic.png",
     "category": "News",
     "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
+  },
+  {
+    "name": "Son La TV (720p)",
+    "tvg_id": "SonLaTV.vn@SD",
+    "logo": "https://i.imgur.com/MxV9psR.png",
+    "category": "Undefined",
+    "url": "https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8"
   },
   {
     "name": "Songdew TV (576p)",
@@ -78106,6 +78204,13 @@
     "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
   },
   {
+    "name": "Tra Vinh TV (1080p)",
+    "tvg_id": "TraVinhTV.vn@SD",
+    "logo": "https://i.imgur.com/F12VdKO.png",
+    "category": "Culture;Entertainment;Music;News",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91"
+  },
+  {
     "name": "Trabzon Buyuksehir Belediyesi TV (1080p)",
     "tvg_id": "TrabzonBuyuksehirBelediyesiTV.tr@FHD",
     "logo": "https://tbbweb.tv/img/logo.png",
@@ -78701,6 +78806,13 @@
     "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
   },
   {
+    "name": "TRT 1 (1440p)",
+    "tvg_id": "TRT1.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png",
+    "category": "Undefined",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+  },
+  {
     "name": "TRT 2 (1440p) [Geo-blocked]",
     "tvg_id": "TRT2.tr@SD",
     "logo": "https://i.imgur.com/iOCQdyD.png",
@@ -78734,6 +78846,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
     "category": "Documentary",
     "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Cocuk (1440p)",
+    "tvg_id": "TRTCocuk.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+    "category": "Kids",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
   },
   {
     "name": "TRT Diyanet Çocuk (720p)",
@@ -78783,6 +78902,13 @@
     "logo": "https://i.imgur.com/JgUzRH8.png",
     "category": "Music",
     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Spor Yildiz (1440p) [Geo-blocked]",
+    "tvg_id": "TRTSporYildiz.tr@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png",
+    "category": "Sports",
+    "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor"
   },
   {
     "name": "TRT Türk (720p)",
@@ -79889,6 +80015,13 @@
     "logo": "https://i.imgur.com/kxrja0X.png",
     "category": "Religious",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
+  },
+  {
+    "name": "TV Arad (720p)",
+    "tvg_id": "TVArad.ro@SD",
+    "logo": "https://i.imgur.com/4yZV72X.png",
+    "category": "General",
+    "url": "https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8"
   },
   {
     "name": "TV Arapuan (720p)",
@@ -81492,6 +81625,13 @@
     "logo": "https://i.imgur.com/gXA7pai.png",
     "category": "Undefined",
     "url": "https://vs2120.vcdn.biz/6c6efc7232fd4d41767bcf4432d64e46_megogo/live/hls/b/700_2490_4000/u_sid/0/o/199953841/rsid/92e35ec5-e017-49e3-a917-4bb5a4bfc914/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/62.112.222.137*asn/u_srvc/81255/u_did/web_sJuDrXmW94S8elpG4blsFdv4WzmPUnfC/type.live/chunklist-sid713429206258929104-b4000000.m3u8"
+  },
+  {
+    "name": "TV Puls HD (1080p)",
+    "tvg_id": "TVPuls.pl@HD",
+    "logo": "https://i.imgur.com/gXA7pai.png",
+    "category": "Undefined",
+    "url": "http://193.24.244.60:1001/udp/239.254.4.121:6060"
   },
   {
     "name": "TV Punjab (720p) [Geo-blocked]",
@@ -86142,11 +86282,18 @@
     "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8"
   },
   {
-    "name": "Vĩnh Long TV1 (1080p) [Geo-blocked]",
+    "name": "Vinh Long TV 1 (576p) [Not 24/7]",
     "tvg_id": "VinhLongTV1.vn@HD",
     "logo": "https://i.imgur.com/5YFsqPx.png",
     "category": "General;News",
-    "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8"
+    "url": "http://125hvt.ddns.net:21585/thvl1/playlist.m3u8"
+  },
+  {
+    "name": "Vinh Long TV 2 (1080p)",
+    "tvg_id": "VinhLongTV2.vn@SD",
+    "logo": "https://i.imgur.com/iluoazf.png",
+    "category": "Culture;Entertainment",
+    "url": "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8"
   },
   {
     "name": "Vĩnh Long TV5 (1080p) [Geo-blocked]",
@@ -89787,6 +89934,13 @@
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
     "category": "Movies",
     "url": "http://103.72.101.252:8080/live/165.m3u8"
+  },
+  {
+    "name": "Zee Cinema ME (432p) [Geo-blocked]",
+    "tvg_id": "ZeeCinema.in@ME",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
+    "category": "Movies",
+    "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd"
   },
   {
     "name": "Zee Classic (576p)",
