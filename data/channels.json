@@ -6734,6 +6734,13 @@
     "url": "http://stream.mcquack.net/123/index.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",Armenia TV (720p)",
+    "tvg_id": "ArmeniaTV.am@SD",
+    "logo": "https://i.imgur.com/UnoI5uM.png",
+    "category": "General",
+    "url": "http://starcius-cinema.com/20690/index.m3u8"
+  },
+  {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",Armenia TV Satellite (576p)",
     "tvg_id": "ArmeniaTVSatellite.am",
     "logo": "https://i.imgur.com/UnoI5uM.png",
@@ -10892,13 +10899,6 @@
     "url": "https://tvdatta.com:3021/live/biosferatvlive.m3u8"
   },
   {
-    "name": "Bioskop TelkomVision (576p)",
-    "tvg_id": "BioskopTelkomVision.id@HD",
-    "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/2471109432fded503146d8fcf24c151e.png",
-    "category": "Movies",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8"
-  },
-  {
     "name": "Bir TV (720p)",
     "tvg_id": "BirTV.tr@SD",
     "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
@@ -11167,7 +11167,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
     "tvg_id": "BloombergTVMongolia.mn@SD",
-    "logo": "https://i.imgur.com/OuogLHx.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/44.png",
     "category": "Business",
     "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd"
   },
@@ -12595,7 +12595,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",C1 (1080p)",
     "tvg_id": "C1.mn@SD",
-    "logo": "https://i.imgur.com/v1mHG5x.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/11.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd"
   },
@@ -16431,7 +16431,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Central TV (1080p)",
     "tvg_id": "CentralTV.mn@SD",
-    "logo": "https://i.imgur.com/E9wAUrT.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/7.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd"
   },
@@ -18526,7 +18526,7 @@
     "tvg_id": "CNBCIndonesia.id@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png",
     "category": "Business",
-    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
   },
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",CNBC MGL (1080p)",
@@ -24115,13 +24115,6 @@
     "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
   },
   {
-    "name": "E International (576p)",
-    "tvg_id": "EInternational.id@America",
-    "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
-    "category": "General",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
-  },
-  {
     "name": "E International Asia (576p)",
     "tvg_id": "EInternational.id@Asia",
     "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
@@ -24133,7 +24126,7 @@
     "tvg_id": "EInternational.id@Europe",
     "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
     "category": "General",
-    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8"
+    "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
   },
   {
     "name": "E! (1080p)",
@@ -24285,7 +24278,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",Eagle News HD (1080p)",
     "tvg_id": "EagleNews.mn@SD",
-    "logo": "https://i.imgur.com/2oqXpve.jpg",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/13.png",
     "category": "News",
     "url": "https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd"
   },
@@ -24600,7 +24593,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education;Entertainment\",Education (1080p)",
     "tvg_id": "EdutainmentTV.mn@SD",
-    "logo": "https://i.imgur.com/0m8t3vh.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/8.png",
     "category": "Education;Entertainment",
     "url": "https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd"
   },
@@ -31106,6 +31099,13 @@
     "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
     "category": "Kids",
     "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8"
+  },
+  {
+    "name": "Green Gold TV HD",
+    "tvg_id": "GreenGoldTV.np@HD",
+    "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+    "category": "Kids",
+    "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8"
   },
   {
     "name": "Green TV (1080p)",
@@ -42457,7 +42457,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Culture\",Malchin TV (1080p)",
     "tvg_id": "MalchinTV.mn@SD",
-    "logo": "https://i.imgur.com/vCdEBZo.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/12.png",
     "category": "Culture",
     "url": "https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd"
   },
@@ -45117,7 +45117,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",MN25 (1080p)",
     "tvg_id": "TV25.mn@SD",
-    "logo": "https://i.imgur.com/F3MMJMd.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/5.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd"
   },
@@ -45159,7 +45159,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",MNB World (1080p)",
     "tvg_id": "MNBWorld.mn@SD",
-    "logo": "https://i.imgur.com/PHlj84Q.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/22.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd"
   },
@@ -45180,14 +45180,14 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",MNB Монголын Мэдээ (1080p)",
     "tvg_id": "MNBMongoliinMedee.mn@SD",
-    "logo": "https://i.imgur.com/KUvJzUD.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/21.png",
     "category": "Undefined",
     "url": "https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd"
   },
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",MNC (1080p)",
     "tvg_id": "MongolianNewsChannel.mn@SD",
-    "logo": "https://i.imgur.com/gMVqbwU.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/25.png",
     "category": "News",
     "url": "https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd"
   },
@@ -50969,7 +50969,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",NTV (1080p)",
     "tvg_id": "NTV.mn@SD",
-    "logo": "https://i.imgur.com/2JbqbPY.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/10.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd"
   },
@@ -62090,11 +62090,11 @@
     "url": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8"
   },
   {
-    "name": "RCN Novelas (720p)",
+    "name": "RCN Novelas (1080p)",
     "tvg_id": "RCNNovelas.co@SD",
     "logo": "https://i.imgur.com/9wxdWNQ.png",
     "category": "Entertainment",
-    "url": "http://170.238.200.199:80/rcn-novelas/index.m3u8"
+    "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
   },
   {
     "name": "RCTI HD (720p)",
@@ -69211,7 +69211,7 @@
   {
     "name": "Sony Max 1 (720p)",
     "tvg_id": "SonyMax1.in@SD",
-    "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png",
+    "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
     "category": "Movies",
     "url": "http://103.159.180.34:5001/live/3418.m3u8"
   },
@@ -70870,7 +70870,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Star TV (1080p)",
     "tvg_id": "StarTV.mn@SD",
-    "logo": "https://i.imgur.com/R6hxJgl.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/15.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd"
   },
@@ -71983,7 +71983,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Suld TV (1080p)",
     "tvg_id": "SuldTV.mn@SD",
-    "logo": "https://i.imgur.com/CnLxehv.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/20.png",
     "category": "Undefined",
     "url": "https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd"
   },
@@ -74501,11 +74501,11 @@
     "url": "https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/playlist.m3u8"
   },
   {
-    "name": "Telecentro (720p)",
+    "name": "Telecentro (480p) [Not 24/7]",
     "tvg_id": "Telecentro.ve@SD",
     "logo": "https://i.imgur.com/QtRNfaj.png",
     "category": "General",
-    "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8"
+    "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8"
   },
   {
     "name": "Telechiara (720p)",
@@ -75819,7 +75819,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TenGer TV (1080p)",
     "tvg_id": "TenGerTV.mn@SD",
-    "logo": "https://i.imgur.com/MmPvkcO.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/17.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd"
   },
@@ -77639,7 +77639,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TM TV (1080p)",
     "tvg_id": "TMTV.mn@SD",
-    "logo": "https://i.imgur.com/Bza9r7U.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/19.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd"
   },
@@ -79676,7 +79676,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV5 HD (1080p)",
     "tvg_id": "TV5.mn@SD",
-    "logo": "https://i.imgur.com/asGQfGN.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/6.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd"
   },
@@ -79893,7 +79893,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV8 HD (1080p)",
     "tvg_id": "TV8.mn@SD",
-    "logo": "https://i.imgur.com/EguOdxW.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/18.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd"
   },
@@ -79935,7 +79935,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV9 HD (1080p)",
     "tvg_id": "TV9.mn@SD",
-    "logo": "https://i.imgur.com/QFteAgd.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/9.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd"
   },
@@ -88256,6 +88256,13 @@
     "url": "https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8"
   },
   {
+    "name": "WGBO-DT 66.1 (2160p)",
+    "tvg_id": "WGBODT661.us@HD",
+    "logo": "https://i.imgur.com/5RIEi99.png",
+    "category": "Undefined",
+    "url": "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null"
+  },
+  {
     "name": "WGGS-DT1 (720p)",
     "tvg_id": "WGGSTV161.us@HD",
     "logo": "https://i.imgur.com/Btw83JA.png",
@@ -91590,7 +91597,7 @@
   {
     "name": " like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Өлзий ТВ (1080p)",
     "tvg_id": "UlziiTV.mn@SD",
-    "logo": "https://i.imgur.com/p7tsUTI.png",
+    "logo": "https://www.mongolsat.mn/assets/img/channel/28.png",
     "category": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd"
   },
