@@ -7917,6 +7917,13 @@
     "url": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
   },
   {
+    "name": "BabyFirst Spanish (720p)",
+    "tvg_id": "BabyFirst.us@Spanish",
+    "logo": "https://i.imgur.com/WxLHBwu.png",
+    "category": "Kids",
+    "url": "http://168.228.44.241:9997/play/a07u/index.m3u8"
+  },
+  {
     "name": "BabyTV Latin America (720p)",
     "tvg_id": "BabyTV.uk@LatinAmerica",
     "logo": "https://i.imgur.com/4BDJ5FT.png",
@@ -9224,6 +9231,41 @@
     "logo": "",
     "category": "Undefined",
     "url": "http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 1",
+    "tvg_id": "beINBoxOffice1.tr@SD",
+    "logo": "https://i.imgur.com/MGrJFVN.png",
+    "category": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 2",
+    "tvg_id": "beINBoxOffice2.tr@SD",
+    "logo": "https://i.imgur.com/Kg7oOcO.png",
+    "category": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 3",
+    "tvg_id": "beINBoxOffice3.tr@SD",
+    "logo": "https://i.imgur.com/5NZur1S.png",
+    "category": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Movies Stars",
+    "tvg_id": "beINMoviesStars.tr@SD",
+    "logo": "https://i.imgur.com/eryPkrT.png",
+    "category": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Movies Turk",
+    "tvg_id": "beINMoviesTurk.tr@SD",
+    "logo": "https://i.imgur.com/nw8Sa2z.png",
+    "category": "Movies",
+    "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8"
   },
   {
     "name": "beIN Sports USA (1080p) [Geo-blocked]",
@@ -21224,11 +21266,11 @@
     "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8"
   },
   {
-    "name": "Disney Channel (720p)",
+    "name": "Disney Channel (720p) [Geo-blocked]",
     "tvg_id": "DisneyChannel.us@East",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
     "category": "Kids",
-    "url": "http://190.14.10.19:16000/play/a06z/index.m3u8"
+    "url": "http://212.5.144.156/disney/index.m3u8"
   },
   {
     "name": "Disney Channel Latin America (1080p)",
@@ -23322,6 +23364,13 @@
     "logo": "https://i.imgur.com/yjuTl6N.png",
     "category": "News",
     "url": "https://nuevodiario01.streamprolive.com/hls/live.m3u8"
+  },
+  {
+    "name": "El Pinguino TV (720p)",
+    "tvg_id": "ElPinguinoTV.cl@SD",
+    "logo": "https://i.imgur.com/ikEs9b8.png",
+    "category": "News",
+    "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8"
   },
   {
     "name": "El Pituco TV (720p)",
@@ -27256,6 +27305,13 @@
     "logo": "https://i.imgur.com/D2tOhbE.png",
     "category": "Entertainment",
     "url": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8"
+  },
+  {
+    "name": "Fujian Comprehensive Channel",
+    "tvg_id": "FujianComprehensiveChannel.cn@SD",
+    "logo": "https://i.imgur.com/rePTGa6.png",
+    "category": "General",
+    "url": "http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88"
   },
   {
     "name": "Fun Roads (720p)",
@@ -63861,11 +63917,25 @@
     "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",SIC Mulher",
+    "tvg_id": "SICMulher.pt@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",
+    "category": "Undefined",
+    "url": "http://zntx.dyndns.org:8085/hls/sicm.m3u8"
+  },
+  {
     "name": "SIC Notícias (1080p) [Geo-blocked]",
     "tvg_id": "SICNoticias.pt@SD",
     "logo": "https://i.imgur.com/Gi6Q26M.png",
     "category": "News",
     "url": "https://sicnot.live.impresa.pt/sicnot.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",SIC Radical",
+    "tvg_id": "SICRadical.pt@SD",
+    "logo": "https://i.imgur.com/6g0obyk.png",
+    "category": "Undefined",
+    "url": "http://znty.dyndns.org:5010/hls/sicr.m3u8"
   },
   {
     "name": "SIC Replay (1080p)",
@@ -70462,11 +70532,11 @@
     "url": "https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8"
   },
   {
-    "name": "Telemundo West (720p)",
+    "name": "Telemundo West (2160p)",
     "tvg_id": "Telemundo.us@West",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
     "category": "General",
-    "url": "http://181.119.108.43:9001/play/a044/index.m3u8"
+    "url": "http://168.228.44.241:9997/play/a07g/index.m3u8"
   },
   {
     "name": "TeleMusik Senegal (720p)",
@@ -72986,7 +73056,7 @@
     "tvg_id": "TN8.ni@SD",
     "logo": "https://i.imgur.com/m0Zdxiz.png",
     "category": "General",
-    "url": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8"
+    "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8"
   },
   {
     "name": "TN23 (720p)",
@@ -74261,6 +74331,13 @@
     "logo": "https://i.imgur.com/JgUzRH8.png",
     "category": "Music",
     "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "TRT Spor (720p)",
+    "tvg_id": "TRTSpor.tr@SD",
+    "logo": "https://i.imgur.com/6tv0zxh.png",
+    "category": "Sports",
+    "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8"
   },
   {
     "name": "TRT Spor Yildiz (1440p) [Geo-blocked]",
@@ -76366,7 +76443,7 @@
     "name": "TV Maria (480p)",
     "tvg_id": "TVMaria.ph@SD",
     "logo": "https://i.imgur.com/yhIM9yU.png",
-    "category": "Undefined",
+    "category": "Religious",
     "url": "https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8"
   },
   {
@@ -81046,6 +81123,13 @@
     "url": "https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (720p)",
+    "tvg_id": "ViasatHistory.tr@SD",
+    "logo": "https://i.imgur.com/wRP9XA7.png",
+    "category": "Documentary",
+    "url": "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8"
+  },
+  {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature (1080p)",
     "tvg_id": "ViasatNature.bg@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
@@ -81491,7 +81575,7 @@
     "tvg_id": "VivaNicaraguaCanal13.ni@SD",
     "logo": "https://i.imgur.com/9q7Ajz4.png",
     "category": "General",
-    "url": "http://45.171.108.253:8888/VIVA/index.m3u8"
+    "url": "https://cdn.vivamediosni.com/viva_720p/index.m3u8"
   },
   {
     "name": "Viva TV Canal 30 San Juan de Río Coco [Not 24/7]",
@@ -83363,11 +83447,11 @@
     "url": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8"
   },
   {
-    "name": "WLTV-DT1 [Geo-blocked]",
+    "name": "WLTV-DT 23.1 (720p)",
     "tvg_id": "WLTVDT231.us@HD",
     "logo": "https://i.imgur.com/Sr3EoK5.png",
     "category": "Undefined",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8"
+    "url": "http://168.228.44.241:9997/play/a09d/index.m3u8"
   },
   {
     "name": "WMBC-DT1 (720p)",
@@ -87591,13 +87675,6 @@
     "url": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221226939/index.m3u8"
   },
   {
-    "name": "少儿科教",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "http://121.19.134.246:808/hls/23/index.m3u8"
-  },
-  {
     "name": "山东体育 (1080p) [Geo-blocked]",
     "tvg_id": "ShandongTVSportsChannel.cn@SD",
     "logo": "https://i.imgur.com/zX4RxvG.png",
@@ -88156,41 +88233,6 @@
     "logo": "https://i.imgur.com/RrLthH3.png",
     "category": "Undefined",
     "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8"
-  },
-  {
-    "name": "河北公共",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "http://121.19.134.246:808/hls/24/index.m3u8"
-  },
-  {
-    "name": "河北农民",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "http://121.19.134.246:808/hls/25/index.m3u8"
-  },
-  {
-    "name": "河北影视",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "http://121.19.134.246:808/hls/22/index.m3u8"
-  },
-  {
-    "name": "河北经济",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "http://121.19.134.246:808/hls/20/index.m3u8"
-  },
-  {
-    "name": "河北都市",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
-    "url": "http://121.19.134.246:808/hls/21/index.m3u8"
   },
   {
     "name": "河源综合 (540p)",
