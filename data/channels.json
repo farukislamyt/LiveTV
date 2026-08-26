@@ -5607,25 +5607,18 @@
     "url": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8"
   },
   {
-    "name": "Antena International (720P)",
-    "tvg_id": "AntenaInternational.ro@SD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
-    "category": "General",
-    "url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8"
-  },
-  {
-    "name": "Antena Monden (720p)",
-    "tvg_id": "AntenaMonden.ro@SD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
-    "category": "Lifestyle",
-    "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
-  },
-  {
     "name": "Antena Seis TV (720p) [Geo-blocked]",
     "tvg_id": "AntenaSeisTV.cr@SD",
     "logo": "https://i.imgur.com/9Nh2mo9.png",
     "category": "General",
     "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
+  },
+  {
+    "name": "Antena Stars (720p)",
+    "tvg_id": "AntenaStars.ro@SD",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+    "category": "Entertainment",
+    "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
   },
   {
     "name": "Antena SUR (720p)",
@@ -6291,6 +6284,13 @@
     "logo": "https://i.imgur.com/xFgJawa.png",
     "category": "General",
     "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
+  },
+  {
+    "name": "Arges TV (720p)",
+    "tvg_id": "ArgesTV.ro@SD",
+    "logo": "https://i.imgur.com/qufz6nk.png",
+    "category": "General",
+    "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
   },
   {
     "name": "Argus News (576p)",
@@ -8594,6 +8594,13 @@
     "logo": "https://i.imgur.com/nGSsUd4.png",
     "category": "Documentary",
     "url": "https://nord.ayakkabiparti.lol/bbc/index.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",BBC First Romania",
+    "tvg_id": "BBCFirst.uk@Romania",
+    "logo": "https://i.imgur.com/UBoBYUI.png",
+    "category": "Entertainment",
+    "url": "https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8"
   },
   {
     "name": " like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",BBC First Turkiye",
@@ -10981,6 +10988,13 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Classic;Movies\",Bollywood Classic Romania",
+    "tvg_id": "BollywoodClassic.ro@Romania",
+    "logo": "https://i.imgur.com/ugPo6ca.png",
+    "category": "Classic;Movies",
+    "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8"
   },
   {
     "name": "Bollywood HD (1080p)",
@@ -25004,6 +25018,13 @@
     "url": "http://31.148.48.15/Europa_Plus_HD/index.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport 4K Czechia",
+    "tvg_id": "Eurosport4KCzechia.cz@UHD",
+    "logo": "https://i.imgur.com/0o3zjC7.png",
+    "category": "Sports",
+    "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8"
+  },
+  {
     "name": "EUTV (720p)",
     "tvg_id": "EUTV.br@SD",
     "logo": "https://i.imgur.com/8PxpamC.png",
@@ -26208,6 +26229,13 @@
     "url": "http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8"
   },
   {
+    "name": "FILMBOX+ Comedy Romania",
+    "tvg_id": "FILMBOXPlusComedy.pl@Romania",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
+    "category": "Movies",
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8"
+  },
+  {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Emotion Adria",
     "tvg_id": "FILMBOXPlusEmotion.pl@Adria",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
@@ -26250,11 +26278,11 @@
     "url": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
   },
   {
-    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Festival HD",
+    "name": "FILMBOX+ Festival HD (1080p)",
     "tvg_id": "FILMBOXPlusFestival.pl@HD",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
     "category": "Movies",
-    "url": "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8"
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
   },
   {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Hits Adria",
@@ -26278,11 +26306,11 @@
     "url": "http://88.212.15.19/live/fb_premium_hungary/index.m3u8"
   },
   {
-    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ Hits Romania",
+    "name": "FILMBOX+ Hits Romania (576p)",
     "tvg_id": "FILMBOXPlusHits.pl@Romania",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
     "category": "Movies",
-    "url": "https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8"
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
   },
   {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Love & Crime",
@@ -26306,6 +26334,13 @@
     "url": "http://213.91.179.28:8000/play/a066"
   },
   {
+    "name": "FILMBOX+ Love & Crime Romania",
+    "tvg_id": "FILMBOXPlusLoveCrime.pl@Romania",
+    "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+    "category": "Movies",
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8"
+  },
+  {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ One Bulgaria",
     "tvg_id": "FILMBOXPlusOne.pl@Bulgaria",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
@@ -26327,11 +26362,11 @@
     "url": "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8"
   },
   {
-    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ One Romania",
+    "name": "FILMBOX+ One Romania (576p)",
     "tvg_id": "FILMBOXPlusOne.pl@Romania",
     "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
     "category": "Movies",
-    "url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8"
+    "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
   },
   {
     "name": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
@@ -29596,6 +29631,13 @@
     "url": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8"
   },
   {
+    "name": "Greater Love TV (720p)",
+    "tvg_id": "GreaterLoveTV.us@SD",
+    "logo": "https://i.imgur.com/WE0cRXR.png",
+    "category": "Religious",
+    "url": "https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8"
+  },
+  {
     "name": "Green Gold TV",
     "tvg_id": "",
     "logo": "",
@@ -30653,11 +30695,11 @@
     "url": "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8"
   },
   {
-    "name": "Hello Taste (720p)",
+    "name": "Hello Taste",
     "tvg_id": "HelloTaste.ro@SD",
     "logo": "https://i.imgur.com/TdKO0er.png",
     "category": "Cooking",
-    "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
+    "url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8"
   },
   {
     "name": "Hells Kitchen",
@@ -31554,6 +31596,27 @@
     "logo": "https://i.imgur.com/nK4UUX4.png",
     "category": "Sports",
     "url": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
+  },
+  {
+    "name": "Hosanna TV",
+    "tvg_id": "HosannaTV.in@Tamil",
+    "logo": "https://i.imgur.com/VYorU1L.png",
+    "category": "Religious",
+    "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Hosanna TV Global",
+    "tvg_id": "HosannaTV.in@Global",
+    "logo": "https://i.imgur.com/VYorU1L.png",
+    "category": "Religious",
+    "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8"
+  },
+  {
+    "name": "Hosanna TV Hindi",
+    "tvg_id": "HosannaTV.in@Hindi",
+    "logo": "https://i.imgur.com/VYorU1L.png",
+    "category": "Religious",
+    "url": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8"
   },
   {
     "name": "Hosanna Vision (720p) [Not 24/7]",
@@ -34644,9 +34707,9 @@
   },
   {
     "name": "Joel Osteen Network (1080p)",
-    "tvg_id": "",
-    "logo": "",
-    "category": "Undefined",
+    "tvg_id": "JoelOsteenNetwork.us@HD",
+    "logo": "https://www.tablotv.com/wp-content/uploads/2025/05/Osteen_black.png",
+    "category": "Religious",
     "url": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8"
   },
   {
@@ -55482,6 +55545,13 @@
     "url": "http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima Krimi",
+    "tvg_id": "PrimaKrimi.cz@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png",
+    "category": "Undefined",
+    "url": "http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8"
+  },
+  {
     "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima Krimi SK",
     "tvg_id": "PrimaKrimiSK.sk@HD",
     "logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png",
@@ -55501,6 +55571,13 @@
     "logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-LOVE-1.png",
     "category": "Undefined",
     "url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima Max",
+    "tvg_id": "PrimaMax.cz@SD",
+    "logo": "https://i.imgur.com/ePrdyLi.png",
+    "category": "Undefined",
+    "url": "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8"
   },
   {
     "name": "Prima Show (1080p)",
@@ -69195,11 +69272,11 @@
     "url": "https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8"
   },
   {
-    "name": "Swerve Sports (1080p)",
+    "name": "Swerve Sports (720p)",
     "tvg_id": "SwerveSports.us@SD",
     "logo": "https://i.imgur.com/GT0Yi2T.png",
     "category": "Sports",
-    "url": "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8"
+    "url": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8"
   },
   {
     "name": "SWR 3 Visual Radio (720p)",
@@ -81788,6 +81865,13 @@
     "url": "http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Explore",
+    "tvg_id": "ViasatExplore.ro@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
+    "category": "Documentary",
+    "url": "https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8"
+  },
+  {
     "name": "Viasat Explore [Not 24/7]",
     "tvg_id": "ViasatExplore.se@SD",
     "logo": "https://i.imgur.com/DyT5pKB.png",
@@ -81828,6 +81912,13 @@
     "logo": "https://i.imgur.com/wRP9XA7.png",
     "category": "Documentary",
     "url": "http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat History",
+    "tvg_id": "ViasatHistory.ro@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
+    "category": "Documentary",
+    "url": "https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8"
   },
   {
     "name": "Viasat History [Not 24/7]",
@@ -81877,6 +81968,13 @@
     "logo": "https://i.imgur.com/ousRqqD.png",
     "category": "Documentary",
     "url": "http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8"
+  },
+  {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Nature",
+    "tvg_id": "ViasatNature.ro@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
+    "category": "Documentary",
+    "url": "https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8"
   },
   {
     "name": "Viasat Nature [Not 24/7]",
@@ -81947,6 +82045,13 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://amg01076-amg01076c16-samsung-gb-4793.playouts.now.amagi.tv/playlist/amg01076-lightning-kcvideogameseng-samsunggb/playlist.m3u8"
+  },
+  {
+    "name": "Video Mix TV",
+    "tvg_id": "VideoMixTV.us@SD",
+    "logo": "https://i.imgur.com/nyLrIPP.png",
+    "category": "Music",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8"
   },
   {
     "name": "Video Rola (1080p)",
@@ -82117,11 +82222,11 @@
     "url": "https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8"
   },
   {
-    "name": "Village TV (576p)",
+    "name": "Village TV (1080p)",
     "tvg_id": "VillageTV.in@SD",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png",
     "category": "Religious",
-    "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8"
+    "url": "https://live.villagetv.net/villagetv/hd/index.m3u8"
   },
   {
     "name": "Vinh Long TV 1 (576p) [Not 24/7]",
@@ -85160,6 +85265,20 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png",
     "category": "Undefined",
     "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8"
+  },
+  {
+    "name": "YET Max (720p)",
+    "tvg_id": "YETMax.in@HD",
+    "logo": "https://yettelevision.com/assets/images/logo/channel_11847.png",
+    "category": "Music",
+    "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8"
+  },
+  {
+    "name": "YET TV (720p)",
+    "tvg_id": "YETTV.in@HD",
+    "logo": "https://yettelevision.com/assets/images/logo/channel_1.png",
+    "category": "Entertainment",
+    "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8"
   },
   {
     "name": "YLE TV 1 (1080p) [Not 24/7]",
