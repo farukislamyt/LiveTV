@@ -7644,6 +7644,13 @@
     "url": "https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN Crime",
+    "tvg_id": "AXNCrime.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png",
+    "category": "Movies",
+    "url": "http://88.212.15.19/live/viasat_film/index.m3u8"
+  },
+  {
     "name": "AXN Latin America (1080p)",
     "tvg_id": "AXNLatinAmerica.us@CentralAmerica",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
@@ -14105,11 +14112,11 @@
     "url": "https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8"
   },
   {
-    "name": "Canal+ Action Europe Czechia",
+    "name": "Canal+ Action Europe Czechia (720p)",
     "tvg_id": "CanalPlusActionEurope.nl@Czechia",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
     "category": "Movies",
-    "url": "http://46.149.191.219:9106/play/a01g"
+    "url": "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8"
   },
   {
     "name": "Canal+ Cinemas (720p)",
@@ -25872,6 +25879,13 @@
     "url": "https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8"
   },
   {
+    "name": "Fashion (1080p)",
+    "tvg_id": "Fashion.ua@SD",
+    "logo": "https://ukrtvr.org/images/%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D0%B6%D1%96/%D1%81%D1%82%D0%B0%D1%80%D1%96_%D0%BB%D0%BE%D0%B3%D0%BE/FASHION%20TV%20UKRAINE/FASHION%20TV%20UKRAINE.png",
+    "category": "Undefined",
+    "url": "http://stream.mcquack.net/288/index.m3u8"
+  },
+  {
     "name": "Fashion Finds (720p)",
     "tvg_id": "FashionFinds.us@SD",
     "logo": "https://i.imgur.com/GvDRZgq.png",
@@ -29633,8 +29647,8 @@
   {
     "name": "Gospel Broadcasting Network (GBN) (1080p)",
     "tvg_id": "GBNTV.us@SD",
-    "logo": "https://i.imgur.com/DsFyyHy.png",
-    "category": "Religious",
+    "logo": "",
+    "category": "Undefined",
     "url": "https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8"
   },
   {
@@ -36218,6 +36232,13 @@
     "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd"
   },
   {
+    "name": "KIIO-LD 10.1",
+    "tvg_id": "KIIOLD101.us@HD",
+    "logo": "https://i.imgur.com/wkzwXFO.png",
+    "category": "Culture",
+    "url": "http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8"
+  },
+  {
     "name": "KiKA (1080p) [Not 24/7]",
     "tvg_id": "KiKA.de@SD",
     "logo": "https://i.imgur.com/vZdNp5S.png",
@@ -37303,18 +37324,11 @@
     "url": "https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8"
   },
   {
-    "name": " like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Kvartal TV (720p)",
+    "name": " like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Kvartal TV",
     "tvg_id": "KvartalTV.ua@SD",
     "logo": "https://i.imgur.com/6ZYWizP.png",
     "category": "Entertainment",
-    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180"
-  },
-  {
-    "name": "Kvartal TV International",
-    "tvg_id": "KvartalTVInternational.ua@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png",
-    "category": "Entertainment",
-    "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
+    "url": "http://158.101.222.193:88/georgia_play.php?id=kvartal95"
   },
   {
     "name": "KVF (720p) [Not 24/7]",
@@ -42574,11 +42588,11 @@
     "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8"
   },
   {
-    "name": "MierschTV (1080p)",
+    "name": "MierschTV",
     "tvg_id": "MierschTV.lu@SD",
     "logo": "https://i.imgur.com/Vdc1GYP.jpg",
     "category": "General",
-    "url": "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8"
+    "url": "https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8"
   },
   {
     "name": "Mihan TV",
@@ -59115,6 +59129,20 @@
     "url": "http://stream.mcquack.net/464/index.m3u8"
   },
   {
+    "name": " like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Undefined\",RAZ 3 (720p)",
+    "tvg_id": "RAZ3.ua@SD",
+    "logo": "https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225",
+    "category": "Undefined",
+    "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180"
+  },
+  {
+    "name": "RAZ 3 International",
+    "tvg_id": "RAZ3International.ua@SD",
+    "logo": "https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225",
+    "category": "Undefined",
+    "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
+  },
+  {
     "name": "Razavi TV",
     "tvg_id": "RazaviTV.ir@SD",
     "logo": "https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default",
@@ -61628,6 +61656,13 @@
     "url": "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
   },
   {
+    "name": "RTN",
+    "tvg_id": "RTN.us@SD",
+    "logo": "https://i.imgur.com/jjUzuLV.png",
+    "category": "Undefined",
+    "url": "http://4.59.210.197:8815/udp/127.0.0.1:6002"
+  },
+  {
     "name": "RTN (Neuquén) (720p) [Not 24/7]",
     "tvg_id": "RTN.ar@SD",
     "logo": "https://i.imgur.com/8xqYg4C.png",
@@ -62592,6 +62627,13 @@
     "logo": "https://i.imgur.com/wJMTcFS.png",
     "category": "Outdoor",
     "url": "http://stream.mcquack.net/264/index.m3u8"
+  },
+  {
+    "name": "Ryongnamsan Television SD [Not 24/7]",
+    "tvg_id": "RyongnamsanTelevision.kp@SD",
+    "logo": "https://i.imgur.com/1BHJjY4.png",
+    "category": "Education",
+    "url": "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8"
   },
   {
     "name": "Ryzhiy (576i)",
@@ -67037,6 +67079,13 @@
     "logo": "",
     "category": "Undefined",
     "url": "https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8?ads.vf=IqoHUzAjl6S"
+  },
+  {
+    "name": "Sports Television [Not 24/7]",
+    "tvg_id": "SportsTelevision.kp@HD",
+    "logo": "https://i.imgur.com/HvFpGeH.png",
+    "category": "Sports",
+    "url": "https://kctv.koryofront.org/stream/sports/index.m3u8"
   },
   {
     "name": "SportsGrid (1080p)",
@@ -82087,13 +82136,6 @@
     "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg",
     "category": "Undefined",
     "url": "https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8"
-  },
-  {
-    "name": " like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Viasat Film",
-    "tvg_id": "ViasatFilm.hu@SD",
-    "logo": "https://i.imgur.com/5CoP6ex.png",
-    "category": "Movies",
-    "url": "http://88.212.15.19/live/viasat_film/index.m3u8"
   },
   {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (1080p)",
