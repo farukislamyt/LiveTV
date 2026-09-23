@@ -3845,7 +3845,7 @@
   {
     "name": "All Time Movies (576p)",
     "tvg_id": "AllTimeMovies.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png",
+    "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
     "category": "Movies",
     "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8"
   },
@@ -4326,42 +4326,14 @@
     "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
   },
   {
-    "name": "America's Next Top Model (Germany)",
-    "tvg_id": "AmericasNextTopModel.de@ES",
-    "logo": "https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8"
-  },
-  {
-    "name": "America's Next Top Model (Sweden)",
-    "tvg_id": "AmericasNextTopModel.se@SE",
-    "logo": "https://images.pluto.tv/channels/6464cc595a0cd500088c7749/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-6464cdcaee6a2f000822a7a8.m3u8"
-  },
-  {
-    "name": "America's Next Top Model (Sweden) DK",
-    "tvg_id": "AmericasNextTopModel.se@DK",
-    "logo": "https://images.pluto.tv/channels/6464cc595a0cd500088c7749/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-6464cc595a0cd500088c7749.m3u8"
-  },
-  {
-    "name": "America's Next Top Model (Sweden) NO",
-    "tvg_id": "AmericasNextTopModel.se@NO",
-    "logo": "https://images.pluto.tv/channels/6464cc595a0cd500088c7749/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-6464cd7c7cb4b100086c71c9.m3u8"
-  },
-  {
-    "name": "America's Next Top Model (United States)",
+    "name": "America's Next Top Model",
     "tvg_id": "AmericasNextTopModel.us@SD",
     "logo": "https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8"
   },
   {
-    "name": "America's Next Top Model (United States) CA",
+    "name": "America's Next Top Model CA",
     "tvg_id": "AmericasNextTopModel.us@CA",
     "logo": "https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",
     "category": "Entertainment",
@@ -8575,21 +8547,14 @@
     "url": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8"
   },
   {
-    "name": "BET Pluto TV (Germany)",
-    "tvg_id": "BETPlutoTV.de@GB",
-    "logo": "https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8"
-  },
-  {
-    "name": "BET Pluto TV (United States)",
+    "name": "BET Pluto TV",
     "tvg_id": "BETPlutoTV.us@US",
     "logo": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8"
   },
   {
-    "name": "BET Pluto TV (United States) BR",
+    "name": "BET Pluto TV BR",
     "tvg_id": "BETPlutoTV.us@BR",
     "logo": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png",
     "category": "Entertainment",
@@ -8652,14 +8617,7 @@
     "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8"
   },
   {
-    "name": "Beverly Hills 90210 (Germany)",
-    "tvg_id": "BeverlyHills90210.de@DACH",
-    "logo": "https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8"
-  },
-  {
-    "name": "Beverly Hills 90210 (United States)",
+    "name": "Beverly Hills 90210",
     "tvg_id": "BeverlyHills90210.us@SD",
     "logo": "https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png",
     "category": "Series",
@@ -9282,14 +9240,7 @@
     "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8"
   },
   {
-    "name": "Blue Bloods (Germany)",
-    "tvg_id": "BlueBloods.de@FR",
-    "logo": "https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8"
-  },
-  {
-    "name": "Blue Bloods (United States)",
+    "name": "Blue Bloods",
     "tvg_id": "BlueBloods.us@SD",
     "logo": "https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg",
     "category": "Series",
@@ -9415,14 +9366,7 @@
     "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8"
   },
   {
-    "name": "Bob l'eponge (Germany) (720p)",
-    "tvg_id": "Bobleponge.de@FR",
-    "logo": "https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8"
-  },
-  {
-    "name": "Bob l'eponge (United States) (720p)",
+    "name": "Bob l'eponge (720p)",
     "tvg_id": "Bobleponge.us@CA",
     "logo": "https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png",
     "category": "Kids",
@@ -9637,13 +9581,6 @@
     "logo": "https://i.imgur.com/Kp8x0NS.png",
     "category": "Entertainment",
     "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8"
-  },
-  {
-    "name": "Bondi Rescue (Germany)",
-    "tvg_id": "BondiRescue.de@GB",
-    "logo": "https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png",
-    "category": "Documentary",
-    "url": "https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8"
   },
   {
     "name": "Bondi Rescue (Sweden) (720p)",
@@ -14378,20 +14315,6 @@
     "url": "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8"
   },
   {
-    "name": "Cheers (Germany)",
-    "tvg_id": "Cheers.de@DACH",
-    "logo": "https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png",
-    "category": "Comedy",
-    "url": "https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8"
-  },
-  {
-    "name": "Cheers (Germany) FR",
-    "tvg_id": "Cheers.de@FR",
-    "logo": "https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png",
-    "category": "Comedy",
-    "url": "https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8"
-  },
-  {
     "name": "Cheers (Sweden) NO",
     "tvg_id": "Cheers.se@NO",
     "logo": "https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png",
@@ -16135,21 +16058,14 @@
     "url": "https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8"
   },
   {
-    "name": "Comedy Central South Park (Germany)",
-    "tvg_id": "ComedyCentralSouthPark.de@DACH",
-    "logo": "https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png",
-    "category": "Animation;Comedy",
-    "url": "https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8"
-  },
-  {
-    "name": "Comedy Central South Park (United States)",
+    "name": "Comedy Central South Park",
     "tvg_id": "ComedyCentralSouthPark.us@BR",
     "logo": "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",
     "category": "Animation;Comedy",
     "url": "https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8"
   },
   {
-    "name": "Comedy Central South Park (United States) LatAm",
+    "name": "Comedy Central South Park LatAm",
     "tvg_id": "ComedyCentralSouthPark.us@LatAm",
     "logo": "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png",
     "category": "Animation;Comedy",
@@ -17549,14 +17465,7 @@
     "url": "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8"
   },
   {
-    "name": "Daria (Germany)",
-    "tvg_id": "Daria.de@FR",
-    "logo": "https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png",
-    "category": "Animation",
-    "url": "https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8"
-  },
-  {
-    "name": "Daria (United States)",
+    "name": "Daria",
     "tvg_id": "Daria.us@LatAm",
     "logo": "https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png",
     "category": "Comedy",
@@ -20027,21 +19936,7 @@
     "url": "http://stream.mcquack.net/396/index.m3u8"
   },
   {
-    "name": "Dynasty (Germany)",
-    "tvg_id": "Dynasty.de@IT",
-    "logo": "https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",
-    "category": "Classic;Series",
-    "url": "https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8"
-  },
-  {
-    "name": "Dynasty (Germany) GB",
-    "tvg_id": "Dynasty.de@GB",
-    "logo": "https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",
-    "category": "Classic;Series",
-    "url": "https://jmp2.uk/plu-622f48de713e510007f85808.m3u8"
-  },
-  {
-    "name": "Dynasty (United States)",
+    "name": "Dynasty",
     "tvg_id": "Dynasty.us@SD",
     "logo": "https://images.pluto.tv/channels/62e919ca865c590007ecd0bd/colorLogoPNG.png",
     "category": "Series",
@@ -23954,13 +23849,6 @@
     "url": "https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8"
   },
   {
-    "name": "Frasier (Germany)",
-    "tvg_id": "Frasier.de@DACH",
-    "logo": "https://images.pluto.tv/channels/62cebf042ffc6d0007c4e59a/colorLogoPNG.png",
-    "category": "Comedy",
-    "url": "https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8"
-  },
-  {
     "name": "Frasier (Sweden)",
     "tvg_id": "Frasier.se@DK",
     "logo": "https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png",
@@ -24234,14 +24122,7 @@
     "url": "https://webtvstream.bhtelecom.ba/funbox.m3u8"
   },
   {
-    "name": "Funny AF (Germany)",
-    "tvg_id": "FunnyAF.de@GB",
-    "logo": "https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png",
-    "category": "Comedy",
-    "url": "https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8"
-  },
-  {
-    "name": "Funny AF (United States)",
+    "name": "Funny AF",
     "tvg_id": "FunnyAF.us@SD",
     "logo": "https://i.imgur.com/UCwjdtQ.png",
     "category": "Comedy",
@@ -28091,27 +27972,6 @@
     "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
   },
   {
-    "name": "iCarly (Germany)",
-    "tvg_id": "iCarly.de@DACH",
-    "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8"
-  },
-  {
-    "name": "iCarly (Germany) ES",
-    "tvg_id": "iCarly.de@ES",
-    "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8"
-  },
-  {
-    "name": "iCarly (Germany) FR",
-    "tvg_id": "iCarly.de@FR",
-    "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8"
-  },
-  {
     "name": "iCarly (Sweden)",
     "tvg_id": "iCarly.se@SE",
     "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
@@ -29615,20 +29475,6 @@
     "logo": "https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",
     "category": "Entertainment",
     "url": "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8"
-  },
-  {
-    "name": "JAG (Germany)",
-    "tvg_id": "JAG.de@FR",
-    "logo": "https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8"
-  },
-  {
-    "name": "JAG (Germany) GB",
-    "tvg_id": "JAG.de@GB",
-    "logo": "https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8"
   },
   {
     "name": "JAG (Sweden)",
@@ -32361,7 +32207,7 @@
     "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
   },
   {
-    "name": "Kuban 24 [Geo-blocked]",
+    "name": "Kuban 24 SD [Geo-blocked]",
     "tvg_id": "Kuban24.ru@SD",
     "logo": "https://i.imgur.com/atzrXcz.png",
     "category": "General",
@@ -33159,14 +33005,7 @@
     "url": "http://15.204.246.24:8080/LasEstrellasHD/index.m3u8"
   },
   {
-    "name": "Las Tortugas Ninja (Germany) (720p)",
-    "tvg_id": "LasTortugasNinja.de@ES",
-    "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
-  },
-  {
-    "name": "Las Tortugas Ninja (United States) (720p)",
+    "name": "Las Tortugas Ninja (720p)",
     "tvg_id": "LasTortugasNinja.us@LatAm",
     "logo": "https://i.imgur.com/urJdNc9.png",
     "category": "Animation",
@@ -34664,20 +34503,6 @@
     "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8"
   },
   {
-    "name": "MacGyver (Germany)",
-    "tvg_id": "MacGyver.de@FR",
-    "logo": "https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8"
-  },
-  {
-    "name": "MacGyver (Germany) GB",
-    "tvg_id": "MacGyver.de@GB",
-    "logo": "https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8"
-  },
-  {
     "name": "MacGyver (Sweden)",
     "tvg_id": "MacGyver.se@SE",
     "logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
@@ -35600,13 +35425,6 @@
     "logo": "https://i.imgur.com/diQftzP.png",
     "category": "News",
     "url": "https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8"
-  },
-  {
-    "name": "Matlock (Germany)",
-    "tvg_id": "Matlock.de@GB",
-    "logo": "https://images.pluto.tv/channels/6850426e53d981d1fdb0d966/colorLogoPNG_1750165804146.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8"
   },
   {
     "name": "Matlock (Sweden)",
@@ -37100,34 +36918,6 @@
     "url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8"
   },
   {
-    "name": "Mission Impossible (Germany)",
-    "tvg_id": "MissionImpossible.de@DACH",
-    "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8"
-  },
-  {
-    "name": "Mission Impossible (Germany) FR",
-    "tvg_id": "MissionImpossible.de@FR",
-    "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8"
-  },
-  {
-    "name": "Mission Impossible (Germany) GB",
-    "tvg_id": "MissionImpossible.de@GB",
-    "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8"
-  },
-  {
-    "name": "Mission Impossible (Germany) IT",
-    "tvg_id": "MissionImpossible.de@IT",
-    "logo": "https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8"
-  },
-  {
     "name": "Mission Impossible (Sweden)",
     "tvg_id": "MissionImpossible.se@SE",
     "logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
@@ -38311,41 +38101,6 @@
     "url": "https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8"
   },
   {
-    "name": "MTV Catfish TV Show",
-    "tvg_id": "MTVCatfishTVShow.de@IT",
-    "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8"
-  },
-  {
-    "name": "MTV Catfish TV Show DACH (720p)",
-    "tvg_id": "MTVCatfishTVShow.de@DACH",
-    "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8"
-  },
-  {
-    "name": "MTV Catfish TV Show ES (720p)",
-    "tvg_id": "MTVCatfishTVShow.de@ES",
-    "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8"
-  },
-  {
-    "name": "MTV Catfish TV Show FR (720p)",
-    "tvg_id": "MTVCatfishTVShow.de@FR",
-    "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8"
-  },
-  {
-    "name": "MTV Catfish TV Show GB",
-    "tvg_id": "MTVCatfishTVShow.de@GB",
-    "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-625eaebc2a73a00007d3f855.m3u8"
-  },
-  {
     "name": "MTV Chontales (720p) [Not 24/7]",
     "tvg_id": "MTVChontales.ni@SD",
     "logo": "https://i.imgur.com/zgUPYdv.png",
@@ -38393,20 +38148,6 @@
     "logo": "https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-638693db857364000781b471.m3u8"
-  },
-  {
-    "name": "MTV Dating (Germany) (720p)",
-    "tvg_id": "MTVDating.de@DACH",
-    "logo": "https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8"
-  },
-  {
-    "name": "MTV Dating (Germany) ES (720p)",
-    "tvg_id": "MTVDating.de@ES",
-    "logo": "https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8"
   },
   {
     "name": "MTV Dating (Sweden) (720p)",
@@ -38584,46 +38325,25 @@
     "url": "https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8"
   },
   {
-    "name": "MTV Pluto TV (Germany)",
-    "tvg_id": "MTVPlutoTV.de@DACH",
-    "logo": "https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8"
-  },
-  {
-    "name": "MTV Pluto TV (United States)",
+    "name": "MTV Pluto TV",
     "tvg_id": "MTVPlutoTV.us@US",
     "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8"
   },
   {
-    "name": "MTV Pluto TV (United States) BR",
+    "name": "MTV Pluto TV BR",
     "tvg_id": "MTVPlutoTV.us@BR",
     "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
   },
   {
-    "name": "MTV Pluto TV (United States) LatAm (720p)",
+    "name": "MTV Pluto TV LatAm (720p)",
     "tvg_id": "MTVPlutoTV.us@LatAm",
     "logo": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8"
-  },
-  {
-    "name": "MTV Reality (Germany) (720p)",
-    "tvg_id": "MTVReality.de@DACH",
-    "logo": "https://images.pluto.tv/channels/685136fb33a52de120bbb086/colorLogoPNG_1780303948285.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8"
-  },
-  {
-    "name": "MTV Reality (Germany) ES (720p)",
-    "tvg_id": "MTVReality.de@ES",
-    "logo": "https://images.pluto.tv/channels/685136fb33a52de120bbb086/colorLogoPNG_1780303948285.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8"
   },
   {
     "name": "MTV Reality (Sweden) (720p)",
@@ -38649,30 +38369,23 @@
   {
     "name": "MTV Reality (United States) (720p)",
     "tvg_id": "MTVReality.us@BR",
-    "logo": "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png",
+    "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
   },
   {
     "name": "MTV Reality (United States) CA",
     "tvg_id": "MTVReality.us@CA",
-    "logo": "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png",
+    "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8"
   },
   {
     "name": "MTV Reality (United States) LatAm (720p)",
     "tvg_id": "MTVReality.us@LatAm",
-    "logo": "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png",
+    "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
     "category": "Entertainment",
     "url": "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8"
-  },
-  {
-    "name": "MTV Ridiculousness (Germany)",
-    "tvg_id": "MTVRidiculousness.de@DACH",
-    "logo": "https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8"
   },
   {
     "name": "MTV Ridiculousness (Sweden) (720p)",
@@ -38743,20 +38456,6 @@
     "logo": "https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",
     "category": "Music",
     "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8"
-  },
-  {
-    "name": "MTV Teen Mom (Germany) (720p)",
-    "tvg_id": "MTVTeenMom.de@DACH",
-    "logo": "https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG_1750154727513.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8"
-  },
-  {
-    "name": "MTV Teen Mom (Germany) ES (720p)",
-    "tvg_id": "MTVTeenMom.de@ES",
-    "logo": "https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG_1750154727513.png",
-    "category": "Entertainment",
-    "url": "https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8"
   },
   {
     "name": "MTV Teen Mom (Sweden) (720p)",
@@ -38964,7 +38663,7 @@
   {
     "name": "Munsif TV (576p)",
     "tvg_id": "MunsifTV.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MUNSIF_TV/images/LOGO_HD/LOGO_HD_image.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Munsif_TV.png",
     "category": "News",
     "url": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8"
   },
@@ -40742,7 +40441,7 @@
   {
     "name": "News 7 Tamil (576p)",
     "tvg_id": "News7Tamil.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png",
     "category": "News",
     "url": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8"
   },
@@ -41036,7 +40735,7 @@
   {
     "name": "News J (720p) [Not 24/7]",
     "tvg_id": "NewsJ.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_J/images/LOGO_HD/image.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png",
     "category": "News",
     "url": "https://cdn.pishow.tv/ott/live/1279/master.m3u8"
   },
@@ -41615,42 +41314,28 @@
     "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8"
   },
   {
-    "name": "Nickelodeon Teen (Germany) (720p)",
-    "tvg_id": "NickelodeonTeen.de@DACH",
-    "logo": "https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8"
-  },
-  {
-    "name": "Nickelodeon Teen (United States) (720p)",
+    "name": "Nickelodeon Teen (720p)",
     "tvg_id": "NickelodeonTeen.us@BR",
     "logo": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8"
   },
   {
-    "name": "Nickelodeon Teen (United States) LatAm (720p)",
+    "name": "Nickelodeon Teen LatAm (720p)",
     "tvg_id": "NickelodeonTeen.us@LatAm",
     "logo": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8"
   },
   {
-    "name": "Nickelodeon Toons (Germany) (720p)",
-    "tvg_id": "NickelodeonToons.de@DACH",
-    "logo": "https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8"
-  },
-  {
-    "name": "Nickelodeon Toons (United States) (720p)",
+    "name": "Nickelodeon Toons (720p)",
     "tvg_id": "NickelodeonToons.us@BR",
     "logo": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
   },
   {
-    "name": "Nickelodeon Toons (United States) LatAm (720p)",
+    "name": "Nickelodeon Toons LatAm (720p)",
     "tvg_id": "NickelodeonToons.us@LatAm",
     "logo": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
     "category": "Kids",
@@ -44065,7 +43750,7 @@
     "url": "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8"
   },
   {
-    "name": "Oplot TV (1080p) [Geo-blocked]",
+    "name": "Oplot TV SD (1080p) [Geo-blocked]",
     "tvg_id": "OplotTV.ru@SD",
     "logo": "https://i.imgur.com/RvUkId2.png",
     "category": "News",
@@ -44765,13 +44450,6 @@
     "url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test"
   },
   {
-    "name": "Paramount Network de Pluto TV",
-    "tvg_id": "ParamountNetworkdePlutoTV.de@ES",
-    "logo": "https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png",
-    "category": "Movies",
-    "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8"
-  },
-  {
     "name": "Paramount+ Picks",
     "tvg_id": "ParamountPlusPicks.us@SD",
     "logo": "https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",
@@ -45346,21 +45024,14 @@
     "url": "http://stream.mcquack.net/121/index.m3u8"
   },
   {
-    "name": "Perry Mason (Germany)",
-    "tvg_id": "PerryMason.de@DACH",
-    "logo": "https://images.pluto.tv/channels/64eddc3485efec00085b0369/colorLogoPNG.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8"
-  },
-  {
-    "name": "Perry Mason (United States)",
+    "name": "Perry Mason",
     "tvg_id": "PerryMason.us@SD",
     "logo": "https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8"
   },
   {
-    "name": "Perry Mason (United States) CA",
+    "name": "Perry Mason CA",
     "tvg_id": "PerryMason.us@CA",
     "logo": "https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png",
     "category": "Series",
@@ -45955,13 +45626,6 @@
     "url": "https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8"
   },
   {
-    "name": "Pluto TV 80's Action",
-    "tvg_id": "PlutoTV80sAction.de@GB",
-    "logo": "https://images.pluto.tv/channels/66d717d2abec540008ba7ec4/colorLogoPNG_1731066705631.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8"
-  },
-  {
     "name": "Pluto TV 90's Classics",
     "tvg_id": "PlutoTV90sClassics.de@FR",
     "logo": "https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png",
@@ -45974,20 +45638,6 @@
     "logo": "https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8"
-  },
-  {
-    "name": "Pluto TV Action (Germany)",
-    "tvg_id": "PlutoTVAction.de@DACH",
-    "logo": "https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-65004605110545000842035d.m3u8"
-  },
-  {
-    "name": "Pluto TV Action (Germany) GB",
-    "tvg_id": "PlutoTVAction.de@GB",
-    "logo": "https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8"
   },
   {
     "name": "Pluto TV Action (Sweden)",
@@ -46130,49 +45780,28 @@
     "url": "https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8"
   },
   {
-    "name": "Pluto TV Anime (Germany)",
-    "tvg_id": "PlutoTVAnime.de@DACH",
-    "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
-    "category": "Animation",
-    "url": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8"
-  },
-  {
-    "name": "Pluto TV Anime (Germany) ES",
-    "tvg_id": "PlutoTVAnime.de@ES",
-    "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
-    "category": "Animation",
-    "url": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8"
-  },
-  {
-    "name": "Pluto TV Anime (Germany) IT",
-    "tvg_id": "PlutoTVAnime.de@IT",
-    "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
-    "category": "Animation",
-    "url": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8"
-  },
-  {
-    "name": "Pluto TV Anime (United States)",
+    "name": "Pluto TV Anime",
     "tvg_id": "PlutoTVAnime.us@US",
     "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
     "category": "Animation",
     "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8"
   },
   {
-    "name": "Pluto TV Anime (United States) BR",
+    "name": "Pluto TV Anime BR",
     "tvg_id": "PlutoTVAnime.us@BR",
     "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
     "category": "Animation",
     "url": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8"
   },
   {
-    "name": "Pluto TV Anime (United States) CA",
+    "name": "Pluto TV Anime CA",
     "tvg_id": "PlutoTVAnime.us@CA",
     "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
     "category": "Animation",
     "url": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8"
   },
   {
-    "name": "Pluto TV Anime (United States) LatAm",
+    "name": "Pluto TV Anime LatAm",
     "tvg_id": "PlutoTVAnime.us@LatAm",
     "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png",
     "category": "Animation",
@@ -46319,28 +45948,14 @@
     "url": "https://jmp2.uk/plu-612e05b885183d0007958101.m3u8"
   },
   {
-    "name": "Pluto TV Cine Accion (Germany)",
-    "tvg_id": "PlutoTVCineAccion.de@ES",
-    "logo": "https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png",
-    "category": "Movies",
-    "url": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8"
-  },
-  {
-    "name": "Pluto TV Cine Accion (United States)",
+    "name": "Pluto TV Cine Accion",
     "tvg_id": "PlutoTVCineAccion.us@LatAm",
     "logo": "https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8"
   },
   {
-    "name": "Pluto TV Cine Clasico (Germany)",
-    "tvg_id": "PlutoTVCineClasico.de@ES",
-    "logo": "https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png",
-    "category": "Movies",
-    "url": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
-  },
-  {
-    "name": "Pluto TV Cine Clasico (United States)",
+    "name": "Pluto TV Cine Clasico",
     "tvg_id": "PlutoTVCineClasico.us@LatAm",
     "logo": "https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png",
     "category": "Movies",
@@ -46410,35 +46025,21 @@
     "url": "https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8"
   },
   {
-    "name": "Pluto TV Cine Drama (Germany)",
-    "tvg_id": "PlutoTVCineDrama.de@ES",
-    "logo": "https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",
-    "category": "Movies",
-    "url": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8"
-  },
-  {
-    "name": "Pluto TV Cine Drama (United States)",
+    "name": "Pluto TV Cine Drama",
     "tvg_id": "PlutoTVCineDrama.us@BR",
     "logo": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8"
   },
   {
-    "name": "Pluto TV Cine Drama (United States) LatAm",
+    "name": "Pluto TV Cine Drama LatAm",
     "tvg_id": "PlutoTVCineDrama.us@LatAm",
     "logo": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8"
   },
   {
-    "name": "Pluto TV Cine Estelar (Germany)",
-    "tvg_id": "PlutoTVCineEstelar.de@ES",
-    "logo": "https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",
-    "category": "Movies",
-    "url": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8"
-  },
-  {
-    "name": "Pluto TV Cine Estelar (United States)",
+    "name": "Pluto TV Cine Estelar",
     "tvg_id": "PlutoTVCineEstelar.us@LatAm",
     "logo": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png",
     "category": "Movies",
@@ -46585,14 +46186,7 @@
     "url": "https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8"
   },
   {
-    "name": "Pluto TV Comedy Movies (Germany)",
-    "tvg_id": "PlutoTVComedyMovies.de@GB",
-    "logo": "https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png",
-    "category": "Comedy;Movies",
-    "url": "https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8"
-  },
-  {
-    "name": "Pluto TV Comedy Movies (United States)",
+    "name": "Pluto TV Comedy Movies",
     "tvg_id": "PlutoTVComedyMovies.us@CA",
     "logo": "https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png",
     "category": "Comedy;Movies",
@@ -46648,21 +46242,14 @@
     "url": "https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8"
   },
   {
-    "name": "Pluto TV Crime Drama (Germany)",
-    "tvg_id": "PlutoTVCrimeDrama.de@GB",
-    "logo": "https://images.pluto.tv/channels/65a6a7a00c7ff50008cba07b/colorLogoPNG_1754296852868.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8"
-  },
-  {
-    "name": "Pluto TV Crime Drama (United States)",
+    "name": "Pluto TV Crime Drama",
     "tvg_id": "PlutoTVCrimeDrama.us@SD",
     "logo": "https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png",
     "category": "Movies",
     "url": "https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8"
   },
   {
-    "name": "Pluto TV Crime Drama (United States) CA",
+    "name": "Pluto TV Crime Drama CA",
     "tvg_id": "PlutoTVCrimeDrama.us@CA",
     "logo": "https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png",
     "category": "Movies",
@@ -46781,14 +46368,7 @@
     "url": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
   },
   {
-    "name": "Pluto TV Drama (Germany)",
-    "tvg_id": "PlutoTVDrama.de@GB",
-    "logo": "https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG_1764596004853.png",
-    "category": "Series",
-    "url": "https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8"
-  },
-  {
-    "name": "Pluto TV Drama (United States)",
+    "name": "Pluto TV Drama",
     "tvg_id": "PlutoTVDrama.us@US",
     "logo": "https://i.imgur.com/PvhbHTZ.png",
     "category": "Movies",
@@ -47159,21 +46739,7 @@
     "url": "https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8"
   },
   {
-    "name": "Pluto TV History (Germany)",
-    "tvg_id": "PlutoTVHistory.de@DACH",
-    "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
-    "category": "Documentary",
-    "url": "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8"
-  },
-  {
-    "name": "Pluto TV History (Germany) GB",
-    "tvg_id": "PlutoTVHistory.de@GB",
-    "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
-    "category": "Documentary",
-    "url": "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8"
-  },
-  {
-    "name": "Pluto TV History (United States)",
+    "name": "Pluto TV History",
     "tvg_id": "PlutoTVHistory.us@US",
     "logo": "https://i.imgur.com/XkQD5kM.png",
     "category": "Documentary",
@@ -47185,34 +46751,6 @@
     "logo": "https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8"
-  },
-  {
-    "name": "Pluto TV Horror (Germany)",
-    "tvg_id": "PlutoTVHorror.de@DACH",
-    "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8"
-  },
-  {
-    "name": "Pluto TV Horror (Germany) ES",
-    "tvg_id": "PlutoTVHorror.de@ES",
-    "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8"
-  },
-  {
-    "name": "Pluto TV Horror (Germany) GB",
-    "tvg_id": "PlutoTVHorror.de@GB",
-    "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8"
-  },
-  {
-    "name": "Pluto TV Horror (Germany) IT",
-    "tvg_id": "PlutoTVHorror.de@IT",
-    "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
-    "category": "Movies;Series",
-    "url": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8"
   },
   {
     "name": "Pluto TV Horror (Sweden)",
@@ -47334,28 +46872,14 @@
     "url": "https://jmp2.uk/plu-655ca99dfbc15b00081f209c.m3u8"
   },
   {
-    "name": "Pluto TV Junior (Germany) (720p)",
-    "tvg_id": "PlutoTVJunior.de@ES",
-    "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8"
-  },
-  {
-    "name": "Pluto TV Junior (Germany) FR (720p)",
-    "tvg_id": "PlutoTVJunior.de@FR",
-    "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8"
-  },
-  {
-    "name": "Pluto TV Junior (United States)",
+    "name": "Pluto TV Junior",
     "tvg_id": "PlutoTVJunior.us@BR",
     "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8"
   },
   {
-    "name": "Pluto TV Junior (United States) LatAm",
+    "name": "Pluto TV Junior LatAm",
     "tvg_id": "PlutoTVJunior.us@LatAm",
     "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
     "category": "Kids",
@@ -47411,28 +46935,14 @@
     "url": "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8"
   },
   {
-    "name": "Pluto TV Kids (Germany) (720p)",
-    "tvg_id": "PlutoTVKids.de@ES",
-    "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
-  },
-  {
-    "name": "Pluto TV Kids (Germany) GB",
-    "tvg_id": "PlutoTVKids.de@GB",
-    "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
-    "category": "Kids",
-    "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8"
-  },
-  {
-    "name": "Pluto TV Kids (United States)",
+    "name": "Pluto TV Kids",
     "tvg_id": "PlutoTVKids.us@BR",
     "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
     "category": "Kids",
     "url": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8"
   },
   {
-    "name": "Pluto TV Kids (United States) LatAm",
+    "name": "Pluto TV Kids LatAm",
     "tvg_id": "PlutoTVKids.us@LatAm",
     "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
     "category": "Kids",
@@ -57626,7 +57136,7 @@
   {
     "name": "Shemaroo Umang (720p)",
     "tvg_id": "ShemarooUmang.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s143779_ld_h15_aa.png?lock=720x540",
     "category": "Entertainment",
     "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8"
   },
@@ -58844,7 +58354,7 @@
   {
     "name": "Sony Marathi (1080p)",
     "tvg_id": "SonyMarathi.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540",
     "category": "Entertainment",
     "url": "https://cloudplay-sonyliv.pages.dev/marathi.m3u8"
   },
@@ -58914,7 +58424,7 @@
   {
     "name": "Sony Pal (1080p)",
     "tvg_id": "SonyPal.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
     "category": "Entertainment",
     "url": "https://cloudplay-sonyliv.pages.dev/pal.m3u8"
   },
@@ -58928,7 +58438,7 @@
   {
     "name": "Sony SAB HD (1080p)",
     "tvg_id": "SonySAB.in@HD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
     "category": "Entertainment",
     "url": "https://cloudplay-sonyliv.pages.dev/sabhd.m3u8"
   },
@@ -59005,14 +58515,14 @@
   {
     "name": "Sony Wah (1080p)",
     "tvg_id": "SonyWah.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",
     "category": "Movies",
     "url": "https://cloudplay-sonyliv.pages.dev/wah.m3u8"
   },
   {
     "name": "Sony Yay! (1080p)",
     "tvg_id": "SonyYay.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
     "category": "Animation;Kids",
     "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8"
   },
@@ -62148,7 +61658,7 @@
   {
     "name": "Tarang TV (720p)",
     "tvg_id": "TarangTV.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TARANG/images/LOGO_HD/image.png",
+    "logo": "https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540",
     "category": "Entertainment",
     "url": "https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8"
   },
@@ -66236,7 +65746,7 @@
   {
     "name": "Totalmusic 2000s (720p)",
     "tvg_id": "Totalmusic2000s.uk@HD",
-    "logo": "https://static.elektamedia.com/ch/tmc_00s.png",
+    "logo": "",
     "category": "Music",
     "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8"
   },
@@ -72704,7 +72214,7 @@
   {
     "name": "Vanitha TV (576p)",
     "tvg_id": "VanithaTV.in@SD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LOGO_HD/image.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vanitha.png",
     "category": "Entertainment",
     "url": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8"
   },
