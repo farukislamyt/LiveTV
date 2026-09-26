@@ -6545,6 +6545,13 @@
     "url": "http://5.57.74.130:8000/play/a0at/index.m3u8"
   },
   {
+    "name": "AXN Asia Philippines (576p)",
+    "tvg_id": "AXNAsia.sg@Philippines",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "category": "Movies;Series",
+    "url": "https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8"
+  },
+  {
     "name": "AXN Asia Taiwan (1080p)",
     "tvg_id": "AXNAsia.sg@Taiwan",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
@@ -6643,11 +6650,11 @@
     "url": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8"
   },
   {
-    "name": "AXN Latin America South",
+    "name": "AXN Latin America South (1080p)",
     "tvg_id": "AXNLatinAmerica.us@South",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
     "category": "Movies",
-    "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8"
+    "url": "http://181.78.12.119:16123/play/ch46/index.m3u8"
   },
   {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies (720p)",
@@ -7166,6 +7173,13 @@
     "logo": "https://i.imgur.com/EuPvzJe.png",
     "category": "Sports",
     "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8"
+  },
+  {
+    "name": "Bandamax (1080p)",
+    "tvg_id": "Bandamax.mx@SD",
+    "logo": "https://i.imgur.com/4DfnOTA.png",
+    "category": "Music",
+    "url": "http://181.78.106.127:5000/play/ca064/index.m3u8"
   },
   {
     "name": "BandNews (1080p)",
@@ -14245,6 +14259,13 @@
     "url": "https://jmp2.uk/plu-60afbad343e3840007164348.m3u8"
   },
   {
+    "name": "Chaozhou Public Channel",
+    "tvg_id": "ChaozhouPublicChannel.cn@SD",
+    "logo": "https://i.imgur.com/8YIrgB7.png",
+    "category": "General",
+    "url": "http://113.64.146.48:1688/hls/4/index.m3u8"
+  },
+  {
     "name": "Chappelle's Show",
     "tvg_id": "ChappellesShow.se@SE",
     "logo": "https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png",
@@ -14929,6 +14950,13 @@
     "logo": "https://i.imgur.com/D2qNVZ7.png",
     "category": "Movies",
     "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8"
+  },
+  {
+    "name": "Cinemax Action East HD (1080p)",
+    "tvg_id": "CinemaxAction.us@EastHD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
+    "category": "Movies",
+    "url": "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8"
   },
   {
     "name": "Cinemax Classics (1080p)",
@@ -18748,7 +18776,7 @@
   {
     "name": "Disney Channel (Israel) (576p)",
     "tvg_id": "DisneyChannel.il@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/3840px-2022_Disney_Channel_logo.svg.png",
     "category": "Kids",
     "url": "http://str2.iptvhd.ru:8080/disney/index.m3u8"
   },
@@ -23403,7 +23431,7 @@
   {
     "name": "Food Channel (1080p)",
     "tvg_id": "FoodChannel.il@SD",
-    "logo": "https://i.imgur.com/mpXPmfw.png",
+    "logo": "https://images.open-epg.com/x1723.png",
     "category": "Cooking",
     "url": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8"
   },
@@ -26376,11 +26404,11 @@
     "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8"
   },
   {
-    "name": "HBO Hits (720p)",
-    "tvg_id": "HBOHits.us@East",
-    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
+    "name": "HBO Drama (1080p)",
+    "tvg_id": "HBODrama.us@East",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
     "category": "Movies;Series",
-    "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8"
+    "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8"
   },
   {
     "name": "HBO Hits East HD (720p)",
@@ -41188,6 +41216,13 @@
     "url": "http://212.5.144.156:8080/nickjr/index.m3u8"
   },
   {
+    "name": "Nick Jr. (United States) East HD (1080p)",
+    "tvg_id": "NickJr.us@EastHD",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "category": "Kids",
+    "url": "https://sra72yz.s.gy/NICK_JR_HD.m3u8"
+  },
+  {
     "name": "Nick Jr. Asia (720p)",
     "tvg_id": "NickJrAsia.sg@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
@@ -41440,11 +41475,11 @@
     "url": "https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8"
   },
   {
-    "name": "Nicktoons (United States) (720p)",
+    "name": "Nicktoons (United States) (1080p)",
     "tvg_id": "Nicktoons.us@East",
     "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
     "category": "Kids",
-    "url": "http://41.205.93.154/NICKTOONS/index.m3u8"
+    "url": "https://sra72yz.s.gy/NICKTOONS_HD.m3u8"
   },
   {
     "name": "Nicktoons (United States) CA",
@@ -42329,11 +42364,11 @@
     "url": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
   },
   {
-    "name": "NTN24 (576p)",
+    "name": "NTN24 (720p)",
     "tvg_id": "NTN24.co@SD",
     "logo": "https://i.imgur.com/UoKmSAP.png",
     "category": "News",
-    "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8"
+    "url": "http://181.78.12.119:16123/play/ch80/index.m3u8"
   },
   {
     "name": "NTN (Italy) (720p)",
@@ -48995,7 +49030,7 @@
   {
     "name": "Prattel TV (720p)",
     "tvg_id": "PrattelTV.pe@SD",
-    "logo": "https://new.opencaster.com/uploads/logos/logo_244_1761928734.png",
+    "logo": "https://pratteltv.lat/wp-content/uploads/2026/05/cropped-V2.jpg",
     "category": "Music",
     "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8"
   },
@@ -74695,6 +74730,13 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png",
     "category": "Undefined",
     "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8"
+  },
+  {
+    "name": "Win+ Futbol (1080p)",
+    "tvg_id": "WinPlusFutbol.co@SD",
+    "logo": "https://i.imgur.com/0UN87vB.png",
+    "category": "Sports",
+    "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
   },
   {
     "name": "Window TV (720p)",
