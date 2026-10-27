@@ -13405,11 +13405,18 @@
     "url": "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
   },
   {
-    "name": "Cartoon Classics",
+    "name": "Cartoon Classics (Poland)",
     "tvg_id": "CartoonClassics.pl@FAST",
     "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
     "category": "Animation;Kids",
     "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+  },
+  {
+    "name": "Cartoon Classics (Russia)",
+    "tvg_id": "CartoonClassics.ru@SD",
+    "logo": "https://sales.planbkino.tv//b/c/471.png",
+    "category": "Kids",
+    "url": "http://88.218.242.237:8001/Cartoon_Classics"
   },
   {
     "name": "Cartoon Network (India) (720p)",
@@ -14161,11 +14168,11 @@
     "url": "http://198.204.240.250:82/live/cctv4k.m3u8"
   },
   {
-    "name": "CCTV-5+",
+    "name": "CCTV-5+ (1080p)",
     "tvg_id": "CCTV5Plus.cn@SD",
     "logo": "https://i.imgur.com/OK8mdJV.png",
     "category": "Sports",
-    "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
+    "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p"
   },
   {
     "name": "CCTV-6 [Geo-blocked]",
@@ -58756,13 +58763,6 @@
     "logo": "https://i.imgur.com/qkZhzQq.png",
     "category": "Undefined",
     "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8"
-  },
-  {
-    "name": "SCTV4K (2160p)",
-    "tvg_id": "SCTV4K.vn@UHD",
-    "logo": "https://i.imgur.com/eQVMAur.png",
-    "category": "Undefined",
-    "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8"
   },
   {
     "name": "SCTV6 (720p)",
