@@ -5166,13 +5166,6 @@
     "url": "https://tvdatta.com:3578/live/antenaunolive.m3u8"
   },
   {
-    "name": "AntenaPlay Events (576p) [Not 24/7]",
-    "tvg_id": "AntenaPlayEvents.ro@SD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
-    "category": "Sports",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
-  },
-  {
     "name": "AntenaSport",
     "tvg_id": "AntenaSport.ro@SD",
     "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
@@ -5969,13 +5962,6 @@
     "logo": "https://i.imgur.com/6W7HUtG.png",
     "category": "General",
     "url": "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8"
-  },
-  {
-    "name": "Asia Express NonStop (576i)",
-    "tvg_id": "AsiaExpressNonStop.ro@SD",
-    "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
-    "category": "Entertainment",
-    "url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8"
   },
   {
     "name": "Asia TV (720p)",
@@ -10500,11 +10486,11 @@
     "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
   },
   {
-    "name": " like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"General\",bTV",
+    "name": "bTV (576p)",
     "tvg_id": "bTV.bg@SD",
     "logo": "https://i.imgur.com/l47z7gw.png",
     "category": "General",
-    "url": "http://213.91.179.28:8000/play/a03w"
+    "url": "http://85.11.189.178:8080/bTV/index.m3u8"
   },
   {
     "name": "BTV (Hungary) (360p)",
@@ -15783,6 +15769,13 @@
     "logo": "https://i.imgur.com/t9vVTLH.png",
     "category": "Movies",
     "url": "http://213.91.179.28:8000/play/a05h"
+  },
+  {
+    "name": "CineStar Action Bulgaria",
+    "tvg_id": "CineStarActionBulgaria.bg@SD",
+    "logo": "https://i.imgur.com/bTf7A9J.png",
+    "category": "Movies",
+    "url": "http://213.91.179.28:8000/play/a06b"
   },
   {
     "name": "Cinevault 80s (720p)",
@@ -25431,14 +25424,7 @@
     "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8"
   },
   {
-    "name": "Fox Sports 2 (Argentina) (576i)",
-    "tvg_id": "FoxSports2.ar@SD",
-    "logo": "https://i.imgur.com/oG7HzEf.png",
-    "category": "Sports",
-    "url": "https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8"
-  },
-  {
-    "name": "Fox Sports 2 (United States) (720p)",
+    "name": "Fox Sports 2 (720p)",
     "tvg_id": "FoxSports2.us@HD",
     "logo": "https://imgx.fubo.tv/station_logos/fs2_c.png",
     "category": "Sports",
@@ -27893,13 +27879,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
     "category": "Movies;Series",
     "url": "http://41.205.93.154/HALLMARK/index.m3u8"
-  },
-  {
-    "name": "Halloween Non Stop (720p)",
-    "tvg_id": "HalloweenNonStop.ro@SD",
-    "logo": "https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png",
-    "category": "Movies",
-    "url": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8"
   },
   {
     "name": "Halom TV (576i)",
@@ -30903,13 +30882,6 @@
     "logo": "https://i.imgur.com/PMpwaQN.png",
     "category": "Series",
     "url": "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8"
-  },
-  {
-    "name": "Insula non stop (576i)",
-    "tvg_id": "Insulanonstop.ro@SD",
-    "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
-    "category": "Entertainment",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8"
   },
   {
     "name": "Insync (576p)",
@@ -38101,7 +38073,14 @@
     "url": "http://188.115.15.121:8000/play/a014"
   },
   {
-    "name": "MCM Top (576p)",
+    "name": "MCM Top (France)",
+    "tvg_id": "MCMTop.fr@SD",
+    "logo": "https://i.imgur.com/EVtWQLd.png",
+    "category": "Music",
+    "url": "http://185.228.163.146:8000/play/a00g/index.m3u8"
+  },
+  {
+    "name": "MCM Top (Russia) (576p)",
     "tvg_id": "MCMTop.ru@SD",
     "logo": "https://i.imgur.com/EVtWQLd.png",
     "category": "Music",
@@ -43421,13 +43400,6 @@
     "url": "https://jmp2.uk/stvp-IN46000140Q"
   },
   {
-    "name": "NH BollyGold (1080p)",
-    "tvg_id": "NHBollyGold.in@HD",
-    "logo": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
-    "category": "Movies",
-    "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8"
-  },
-  {
     "name": "NH BollyRaga (1080p)",
     "tvg_id": "NHBollyRaga.in@HD",
     "logo": "https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png",
@@ -43468,13 +43440,6 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png",
     "category": "Culture;News",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=106"
-  },
-  {
-    "name": "NHL AntenaPlay",
-    "tvg_id": "NHLAntenaPlay.ro@SD",
-    "logo": "https://assets.antenaplay.ro/2024/10/25/SN0nevshXwKDcZ2Tw1jm.png",
-    "category": "Sports",
-    "url": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8"
   },
   {
     "name": "NHL Network (1080p)",
@@ -50981,11 +50946,11 @@
     "url": "http://57.128.210.196:8080/208/index.m3u8"
   },
   {
-    "name": "Polsat (1080p) [Geo-blocked]",
+    "name": "Polsat",
     "tvg_id": "Polsat.pl@SD",
     "logo": "https://i.imgur.com/xff6zGN.png",
     "category": "General",
-    "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd"
+    "url": "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8"
   },
   {
     "name": "Polsat Film HD",
@@ -51604,11 +51569,18 @@
     "url": "http://88.212.15.50/live/test_prima_star_hevc_25p/playlist.m3u8"
   },
   {
-    "name": "Prima TV (720p)",
+    "name": "Prima TV (Italy) (720p)",
     "tvg_id": "PrimaTV.it@SD",
     "logo": "https://i.imgur.com/HE9c8Sk.png",
     "category": "General",
     "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+  },
+  {
+    "name": "Prima TV (Romania)",
+    "tvg_id": "PrimaTV.ro@SD",
+    "logo": "https://i.imgur.com/p2umWAT.png",
+    "category": "General",
+    "url": "http://89.44.231.73:7000/primatv"
   },
   {
     "name": "Prima Zoom (1080p)",
@@ -62335,13 +62307,6 @@
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8"
   },
   {
-    "name": "Star Movies (India) HD (1080p)",
-    "tvg_id": "StarMovies.in@HD",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
-    "category": "Movies",
-    "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls"
-  },
-  {
     "name": " like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Star Movies (Portugal)",
     "tvg_id": "StarMovies.pt@SD",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",
@@ -66507,11 +66472,11 @@
     "url": "http://190.128.214.97:64333/play/a008/index.m3u8"
   },
   {
-    "name": "Television Tarapoto (720p)",
+    "name": "Television Tarapoto (1080p)",
     "tvg_id": "TelevisionTarapoto.pe@SD",
     "logo": "https://i.imgur.com/Dzen7sh.png",
     "category": "General",
-    "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8"
+    "url": "http://45.5.57.58:8000/play/a038/index.m3u8"
   },
   {
     "name": "Televisora de Oriente (406p)",
@@ -67149,13 +67114,6 @@
     "logo": "https://i.imgur.com/2sAz8dZ.png",
     "category": "Series",
     "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8"
-  },
-  {
-    "name": "The Film Detective (720p)",
-    "tvg_id": "TheFilmDetective.us@SD",
-    "logo": "https://i.imgur.com/yfOwmsP.png",
-    "category": "Movies",
-    "url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8"
   },
   {
     "name": "The First TV (1080p)",
@@ -69284,6 +69242,13 @@
     "logo": "https://i.imgur.com/AlpdXC4.png",
     "category": "Travel",
     "url": "http://stream.mcquack.net/206/index.m3u8"
+  },
+  {
+    "name": "Travelxp 4K Czechia",
+    "tvg_id": "Travelxp.in@4KCzechia",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",
+    "category": "Travel",
+    "url": "http://88.212.7.14/live/travel_xp_4k/index.m3u8"
   },
   {
     "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
@@ -73563,11 +73528,25 @@
     "url": "http://57.128.210.196:8080/144/index.m3u8"
   },
   {
+    "name": "TVP1 HD",
+    "tvg_id": "TVP1.pl@HD",
+    "logo": "https://i.imgur.com/ewpSjBs.png",
+    "category": "Undefined",
+    "url": "https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8"
+  },
+  {
     "name": "TVP2 (1080p)",
     "tvg_id": "TVP2.pl@SD",
     "logo": "https://i.imgur.com/XxCc32B.png",
     "category": "Undefined",
     "url": "http://57.128.210.196:8080/143/index.m3u8"
+  },
+  {
+    "name": "TVP2 HD",
+    "tvg_id": "TVP2.pl@HD",
+    "logo": "https://i.imgur.com/XxCc32B.png",
+    "category": "Undefined",
+    "url": "https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8"
   },
   {
     "name": " like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVP 3 Warszawa",
@@ -75451,13 +75430,6 @@
     "logo": "https://i.imgur.com/Bch2RHc.jpg",
     "category": "News",
     "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8"
-  },
-  {
-    "name": "V2BEAT TV (720p) [Not 24/7]",
-    "tvg_id": "V2BEATTV.uk@SD",
-    "logo": "https://i.imgur.com/PXGqyLn.png",
-    "category": "Music",
-    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8"
   },
   {
     "name": "V6 News (576p)",
