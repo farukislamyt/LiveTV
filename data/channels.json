@@ -5054,6 +5054,13 @@
     "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
   },
   {
+    "name": "Antena 1 (Romania) HD (1440p)",
+    "tvg_id": "Antena1.ro@HD",
+    "logo": "https://i.imgur.com/EPmwuuv.png",
+    "category": "General",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8"
+  },
+  {
     "name": "Antena 3",
     "tvg_id": "Antena3.es@National",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
@@ -8496,6 +8503,13 @@
     "logo": "https://i.imgur.com/vsktAez.png",
     "category": "General",
     "url": "http://go.bkpcp.top/mg/bjws"
+  },
+  {
+    "name": "beIN Sports USA (576p)",
+    "tvg_id": "beINSportsUSA.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
+    "category": "Sports",
+    "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8"
   },
   {
     "name": "beIN SPORTS XTRA (1080p)",
@@ -43946,6 +43960,13 @@
     "url": "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8"
   },
   {
+    "name": "Nippon TV",
+    "tvg_id": "NipponTV.jp@JOAXDTV",
+    "logo": "https://i.imgur.com/IxD8V5X.png",
+    "category": "General",
+    "url": "https://ntv5.mov3.co/hls/ntv.m3u8"
+  },
+  {
     "name": " like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Nireekshana TV (576p)",
     "tvg_id": "NireekshanaTV.in@SD",
     "logo": "https://i.imgur.com/nGJv6QR.png",
@@ -64479,7 +64500,7 @@
   {
     "name": "Tay Ninh TV (720p)",
     "tvg_id": "TayNinhTV.vn@SD",
-    "logo": "https://tayninhtv.vn/static/images/logo.png",
+    "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",
     "category": "General",
     "url": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8"
   },
@@ -72567,6 +72588,13 @@
     "logo": "https://i.imgur.com/5fZF69m.png",
     "category": "Entertainment;General",
     "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
+  },
+  {
+    "name": "TV Tokyo",
+    "tvg_id": "TVTokyo.jp@JOTXDTV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png",
+    "category": "General",
+    "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8"
   },
   {
     "name": "TV Torun (1080p) [Not 24/7]",
